@@ -23,22 +23,24 @@ def load_config(config_file:str) -> dict:
     # make filters pretty
     def pretty_filters(**config) -> dict:
         keywords = dict()
-        EXCAPE = '\"'
-        QUOTA = '' # NO-USE
-        OR = 'OR' # TODO
-        def parse_filters(filters:list):
-            ret = ''
-            for idx in range(0,len(filters)):
-                filter = filters[idx]
-                if len(filter.split()) > 1:
-                    ret += (EXCAPE + filter + EXCAPE)  
+        def parse_filters(filters:list, field='all'):
+            # arXiv's query grammar requires spaces around boolean operators.
+            # The field can be ``ti`` (title) for a precise topical feed or
+            # ``all`` when abstract matches are useful too.
+            terms = []
+            for filter_word in filters:
+                if len(filter_word.split()) > 1:
+                    terms.append(f'{field}:"{filter_word}"')
                 else:
-                    ret += (QUOTA + filter + QUOTA)   
-                if idx != len(filters) - 1:
-                    ret += OR
-            return ret
-        for k,v in config['keywords'].items():
-            keywords[k] = parse_filters(v['filters'])
+                    terms.append(f'{field}:{filter_word}')
+            return "(" + " OR ".join(terms) + ")"
+        for k, v in config['keywords'].items():
+            query = parse_filters(v['filters'], v.get('field', 'all'))
+            categories = v.get('categories', [])
+            if categories:
+                category_query = " OR ".join(f'cat:{category}' for category in categories)
+                query = f"{query} AND ({category_query})"
+            keywords[k] = query
         return keywords
     with open(config_file,'r') as f:
         config = yaml.load(f,Loader=yaml.FullLoader) 
@@ -54,13 +56,24 @@ def get_authors(authors, first_author = False):
         output = authors[0]
     return output
 def sort_papers(papers):
-    output = dict()
-    keys = list(papers.keys())
-    keys.sort(reverse=True)
-    for key in keys:
-        output[key] = papers[key]
-    return output    
-import requests
+    """Sort rows by their displayed update date, newest first."""
+    def sort_key(item):
+        row = str(item[1])
+        match = re.search(r"\|\**(\d{4}-\d{2}-\d{2})\**\|", row)
+        return match.group(1) if match else "0000-00-00"
+
+    return dict(sorted(papers.items(), key=sort_key, reverse=True))
+def load_json_file(filename):
+    """Load a JSON data file, treating a missing/empty file as an empty object."""
+    parent = os.path.dirname(filename)
+    if parent:
+        os.makedirs(parent, exist_ok=True)
+    if not os.path.exists(filename):
+        return {}
+    with open(filename, "r") as f:
+        content = f.read().strip()
+    return json.loads(content) if content else {}
+
 
 def get_code_link(qword:str) -> str:
     """
@@ -77,7 +90,8 @@ def get_code_link(qword:str) -> str:
             "sort": "stars",
             "order": "desc"
         }
-        r = requests.get(github_url, params=params)
+        r = requests.get(github_url, params=params, timeout=20)
+        r.raise_for_status()
         results = r.json()
         code_link = None
         if "total_count" in results and results["total_count"] > 0:
@@ -154,66 +168,48 @@ def get_daily_papers(topic,query="slam", max_results=2):
     return data,data_web 
 
 def update_paper_links(filename):
-    '''
-    weekly update paper links in json file 
-    '''
-    def parse_arxiv_string(s):
-        parts = s.split("|")
+    """Fill missing GitHub code links in an existing JSON paper database."""
+    def parse_arxiv_string(value):
+        parts = value.split("|")
+        if len(parts) < 6:
+            raise ValueError(f"Invalid paper row: {value!r}")
         date = parts[1].strip()
         title = parts[2].strip()
         authors = parts[3].strip()
-        arxiv_id = parts[4].strip()
+        arxiv_id = re.sub(r'v\d+', '', parts[4].strip())
         code = parts[5].strip()
-        arxiv_id = re.sub(r'v\d+', '', arxiv_id)
-        return date,title,authors,arxiv_id,code
+        return date, title, authors, arxiv_id, code
 
-    with open(filename,"r") as f:
-        content = f.read()
-        if not content:
-            m = {}
-        else:
-            m = json.loads(content)
-            
-        json_data = m.copy() 
+    json_data = load_json_file(filename)
+    for keyword, papers in json_data.items():
+        logging.info(f'keywords = {keyword}')
+        for paper_id, contents in papers.items():
+            try:
+                update_time, paper_title, paper_first_author, paper_url, code_url = parse_arxiv_string(str(contents))
+            except ValueError:
+                logging.warning(f'Skipping malformed row {keyword}/{paper_id}')
+                continue
 
-        for keywords,v in json_data.items():
-            logging.info(f'keywords = {keywords}')
-            for paper_id,contents in v.items():
-                contents = str(contents)
+            contents = "|{}|{}|{}|{}|{}|\n".format(
+                update_time, paper_title, paper_first_author, paper_url, code_url)
+            if '|null|' not in contents:
+                json_data[keyword][paper_id] = contents
+                continue
 
-                update_time, paper_title, paper_first_author, paper_url, code_url = parse_arxiv_string(contents)
+            repo_url = get_code_link(paper_title) or get_code_link(paper_id)
+            if repo_url is not None:
+                contents = contents.replace('|null|', f'|**[link]({repo_url})**|')
+            json_data[keyword][paper_id] = contents
 
-                contents = "|{}|{}|{}|{}|{}|\n".format(update_time,paper_title,paper_first_author,paper_url,code_url)
-                json_data[keywords][paper_id] = str(contents)
-                logging.info(f'paper_id = {paper_id}, contents = {contents}')
-                
-                valid_link = False if '|null|' in contents else True
-                if valid_link:
-                    continue
-                # Try to find code link from GitHub search
-                repo_url = get_code_link(paper_title)
-                if repo_url is None:
-                    repo_url = get_code_link(paper_id)
-                if repo_url is not None:
-                    new_cont = contents.replace('|null|',f'|**[link]({repo_url})**|')
-                    logging.info(f'ID = {paper_id}, contents = {new_cont}')
-                    json_data[keywords][paper_id] = str(new_cont)
-        # dump to json file
-        with open(filename,"w") as f:
-            json.dump(json_data,f)
+    with open(filename, "w") as f:
+        json.dump(json_data, f, ensure_ascii=False)
+
 
 def update_json_file(filename,data_dict):
     '''
     daily update json file using data_dict
     '''
-    with open(filename,"r") as f:
-        content = f.read()
-        if not content:
-            m = {}
-        else:
-            m = json.loads(content)
-            
-    json_data = m.copy() 
+    json_data = load_json_file(filename)
     
     # update papers in each keywords         
     for data in data_dict:
@@ -226,7 +222,7 @@ def update_json_file(filename,data_dict):
                 json_data[keyword] = papers
 
     with open(filename,"w") as f:
-        json.dump(json_data,f)
+        json.dump(json_data, f, ensure_ascii=False)
     
 def json_to_md(filename,md_filename,
                task = '',
@@ -234,39 +230,36 @@ def json_to_md(filename,md_filename,
                use_title = True, 
                use_tc = True,
                show_badge = True,
-               use_b2t = True):
+               use_b2t = True,
+               source_repo_url = "https://github.com/GnafiY/MSSP-arxiv-daily",
+               usage_path = "./docs/README.md",
+               project_title = "MSSP Speech Paper Skim"):
     """
     @param filename: str
     @param md_filename: str
     @return None
     """
     def pretty_math(s:str) -> str:
-        ret = ''
         match = re.search(r"\$.*\$", s)
-        if match == None:
+        if match is None:
             return s
-        math_start,math_end = match.span()
-        space_trail = space_leading = ''
-        if s[:math_start][-1] != ' ' and '*' != s[:math_start][-1]: space_trail = ' ' 
-        if s[math_end:][0] != ' ' and '*' != s[math_end:][0]: space_leading = ' ' 
-        ret += s[:math_start] 
-        ret += f'{space_trail}${match.group()[1:-1].strip()}${space_leading}' 
-        ret += s[math_end:]
-        return ret
+        math_start, math_end = match.span()
+        before, after = s[:math_start], s[math_end:]
+        space_trail = " " if before and before[-1] not in " *" else ""
+        space_leading = " " if after and after[0] not in " *" else ""
+        return before + f'{space_trail}${match.group()[1:-1].strip()}${space_leading}' + after
   
     DateNow = datetime.date.today()
     DateNow = str(DateNow)
     DateNow = DateNow.replace('-','.')
     
-    with open(filename,"r") as f:
-        content = f.read()
-        if not content:
-            data = {}
-        else:
-            data = json.loads(content)
+    data = load_json_file(filename)
 
-    # clean README.md if daily already exist else create it
-    with open(md_filename,"w+") as f:
+    # Clean the destination and recreate its parent directory if needed.
+    md_parent = os.path.dirname(md_filename)
+    if md_parent:
+        os.makedirs(md_parent, exist_ok=True)
+    with open(md_filename, "w") as f:
         pass
 
     # write data into README.md
@@ -282,15 +275,14 @@ def json_to_md(filename,md_filename,
             f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
                 
         if use_title == True:
-            #f.write(("<p align="center"><h1 align="center"><br><ins>CV-ARXIV-DAILY"
-            #         "</ins><br>Automatically Update CV Papers Daily</h1></p>\n"))
+            f.write(f"# {project_title}\n\n")
             f.write("## Updated on " + DateNow + "\n")
         else:
             f.write("> Updated on " + DateNow + "\n")
 
         # TODO: add usage
-        f.write("> Usage instructions: [here](./docs/README.md#usage)\n\n")
-        f.write("> This page is modified from [here](https://github.com/Vincentqyw/cv-arxiv-daily)\n\n")
+        f.write(f"> Usage instructions: [here]({usage_path})\n\n")
+        f.write(f"> Generated automatically from arXiv. Source: [{source_repo_url}]({source_repo_url})\n\n")
 
         #Add: table of contents
         if use_tc == True:
@@ -301,8 +293,8 @@ def json_to_md(filename,md_filename,
                 day_content = data[keyword]
                 if not day_content:
                     continue
-                kw = keyword.replace(' ','-')      
-                f.write(f"    <li><a href=#{kw.lower()}>{keyword}</a></li>\n")
+                kw = re.sub(r'[^a-z0-9 -]', '', keyword.lower()).replace(' ', '-')
+                f.write(f"    <li><a href=#{kw}>{keyword}</a></li>\n")
             f.write("  </ol>\n")
             f.write("</details>\n\n")
         
@@ -338,21 +330,21 @@ def json_to_md(filename,md_filename,
         if show_badge == True:
             # we don't like long string, break it!
             f.write((f"[contributors-shield]: https://img.shields.io/github/"
-                     f"contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[contributors-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/graphs/contributors\n"))
-            f.write((f"[forks-shield]: https://img.shields.io/github/forks/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[forks-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/network/members\n"))
-            f.write((f"[stars-shield]: https://img.shields.io/github/stars/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[stars-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/stargazers\n"))
-            f.write((f"[issues-shield]: https://img.shields.io/github/issues/Vincentqyw/"
-                     f"cv-arxiv-daily.svg?style=for-the-badge\n"))
-            f.write((f"[issues-url]: https://github.com/Vincentqyw/"
-                     f"cv-arxiv-daily/issues\n\n"))
+                     f"contributors/GnafiY/MSSP-arxiv-daily.svg?style=for-the-badge\n"))
+            f.write((f"[contributors-url]: https://github.com/GnafiY/"
+                     f"MSSP-arxiv-daily/graphs/contributors\n"))
+            f.write((f"[forks-shield]: https://img.shields.io/github/forks/GnafiY/"
+                     f"MSSP-arxiv-daily.svg?style=for-the-badge\n"))
+            f.write((f"[forks-url]: https://github.com/GnafiY/"
+                     f"MSSP-arxiv-daily/network/members\n"))
+            f.write((f"[stars-shield]: https://img.shields.io/github/stars/GnafiY/"
+                     f"MSSP-arxiv-daily.svg?style=for-the-badge\n"))
+            f.write((f"[stars-url]: https://github.com/GnafiY/"
+                     f"MSSP-arxiv-daily/stargazers\n"))
+            f.write((f"[issues-shield]: https://img.shields.io/github/issues/GnafiY/"
+                     f"MSSP-arxiv-daily.svg?style=for-the-badge\n"))
+            f.write((f"[issues-url]: https://github.com/GnafiY/"
+                     f"MSSP-arxiv-daily/issues\n\n"))
                 
     logging.info(f"{task} finished")        
 
@@ -392,8 +384,11 @@ def demo(**config):
             # update json data
             update_json_file(json_file,data_collector)
         # json data to markdown
-        json_to_md(json_file,md_file, task ='Update Readme', \
-            show_badge = show_badge)
+        json_to_md(json_file, md_file, task='Update Readme',
+            show_badge=show_badge,
+            source_repo_url=config.get('source_repo_url', 'https://github.com/GnafiY/MSSP-arxiv-daily'),
+            usage_path='./docs/README.md',
+            project_title=config.get('project_title', 'MSSP Speech Paper Skim'))
 
     # 2. update docs/index.md file (to gitpage)
     if publish_gitpage:
@@ -404,9 +399,12 @@ def demo(**config):
             update_paper_links(json_file)
         else:    
             update_json_file(json_file,data_collector)
-        json_to_md(json_file, md_file, task ='Update GitPage', \
-            to_web = True, show_badge = show_badge, \
-            use_tc=False, use_b2t=False)
+        json_to_md(json_file, md_file, task='Update GitPage',
+            to_web=True, show_badge=show_badge,
+            use_tc=False, use_b2t=False,
+            source_repo_url=config.get('source_repo_url', 'https://github.com/GnafiY/MSSP-arxiv-daily'),
+            usage_path='./README.md',
+            project_title=config.get('project_title', 'MSSP Speech Paper Skim'))
 
     # 3. Update docs/wechat.md file
     if publish_wechat:
@@ -417,8 +415,11 @@ def demo(**config):
             update_paper_links(json_file)
         else:    
             update_json_file(json_file, data_collector_web)
-        json_to_md(json_file, md_file, task ='Update Wechat', \
-            to_web=False, use_title= False, show_badge = show_badge)
+        json_to_md(json_file, md_file, task='Update Wechat',
+            to_web=False, use_title=False, show_badge=show_badge,
+            source_repo_url=config.get('source_repo_url', 'https://github.com/GnafiY/MSSP-arxiv-daily'),
+            usage_path='./README.md',
+            project_title=config.get('project_title', 'MSSP Speech Paper Skim'))
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()

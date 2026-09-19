@@ -1,28 +1,45 @@
-# TODO: add papers by configuration file
-base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
-user_name: "liutaocode"
-repo_name: "cv-arxiv-daily"
+# arXiv paper skim configuration for speaker-centric speech research
+user_name: "GnafiY"
+repo_name: "MSSP-arxiv-daily"
+project_title: "MSSP Paper Skim"
+source_repo_url: "https://github.com/GnafiY/MSSP-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: False
-max_results: 10
+max_results: 20
 
 publish_readme: True
 publish_gitpage: True
-publish_wechat: False
+publish_wechat: True
 
 # file paths
-json_readme_path: './docs/tts-arxiv-daily.json'
-json_gitpage_path: './docs/tts-arxiv-daily-web.json'
-json_wechat_path: './docs/tts-arxiv-daily-wechat.json'
+json_readme_path: './docs/mssp-arxiv-daily.json'
+json_gitpage_path: './docs/mssp-arxiv-daily-web.json'
+json_wechat_path: './docs/mssp-arxiv-daily-wechat.json'
 
 md_readme_path: 'README.md'
 md_gitpage_path: './docs/index.md'
 md_wechat_path: './docs/wechat.md'
 
-# keywords to search
+# All topics are title-focused and restricted to common speech/audio arXiv categories.
 keywords:
-    "TTS":
-        filters: ["TTS", "Text to speech", "Speech Synthesis", "Voice Synthesis", "Speech Generation", "Neural Speech Synthesis", "Neural TTS"]
-
-
+    "Target Speaker Extraction":
+        field: "ti"
+        categories: ["eess.AS", "eess.SP", "cs.SD", "cs.MM", "cs.CL"]
+        filters: ["target speaker extraction", "target speech extraction", "target speaker separation", "target speech separation", "target speaker enhancement", "speaker extraction", "personalized speech enhancement", "personalized speech separation", "speaker-conditioned speech separation", "speaker-conditioned speech enhancement", "speaker-aware speech separation", "speaker-aware speech enhancement", "query-based speech separation", "query-based speech extraction", "enrollment-guided speech separation", "enrollment-based speech extraction"]
+    "Speech Separation":
+        field: "ti"
+        categories: ["eess.AS", "eess.SP", "cs.SD", "cs.MM"]
+        filters: ["speech separation", "speech source separation", "audio source separation", "blind source separation", "blind speech separation", "single-channel speech separation", "multichannel speech separation", "multi-channel speech separation", "multi-speaker speech separation", "multi-talker speech separation", "speaker separation", "cocktail party speech separation", "overlapped speech separation", "overlap speech separation", "audio-visual speech separation", "binaural speech separation", "speech beamforming", "neural beamforming"]
+    "Speech Enhancement":
+        field: "ti"
+        categories: ["eess.AS", "eess.SP", "cs.SD", "cs.MM"]
+        filters: ["speech enhancement", "speech denoising", "noise suppression", "noise reduction", "deep noise suppression", "speech dereverberation", "speech declipping", "speech restoration", "speech bandwidth extension", "speech super-resolution", "speech inpainting", "personalized speech enhancement", "robust speech enhancement", "single-channel speech enhancement", "multichannel speech enhancement", "multi-channel speech enhancement", "speech beamforming", "neural beamforming"]
+    "Speaker Diarization":
+        field: "ti"
+        categories: ["eess.AS", "eess.SP", "cs.SD", "cs.CL"]
+        filters: ["diarization", "diarisation", "speaker diarization", "speaker diarisation", "multi-speaker diarization", "online speaker diarization", "streaming speaker diarization", "conversation diarization", "conversational diarization", "meeting diarization", "multi-party diarization", "speaker turn detection", "speaker segmentation", "speaker activity detection", "speaker change detection", "speaker clustering", "overlap-aware diarization", "overlap-aware speaker diarization", "end-to-end diarization", "end-to-end neural diarization", "EEND"]
+    "Multi-Talker ASR (Speaker-Attributed ASR)":
+        field: "ti"
+        categories: ["eess.AS", "eess.SP", "cs.SD", "cs.CL"]
+        filters: ["multi-talker ASR", "multi-talker speech recognition", "multi-talker automatic speech recognition", "multi-speaker ASR", "multi-speaker speech recognition", "multi-speaker automatic speech recognition", "speaker-attributed ASR", "speaker-attributed speech recognition", "speaker-attributed transcription", "speaker-aware ASR", "speaker-conditioned ASR", "target-speaker ASR", "target speaker ASR", "overlapped speech recognition", "overlap speech recognition", "joint ASR diarization", "joint speech recognition and diarization", "speaker diarization and ASR", "source separation and ASR", "conversation ASR", "conversational ASR", "meeting ASR"]
