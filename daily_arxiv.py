@@ -7,6 +7,7 @@ import logging
 import argparse
 import datetime
 import requests
+import time
 
 logging.basicConfig(format='[%(asctime)s %(levelname)s] %(message)s',
                     datefmt='%m/%d/%Y %H:%M:%S',
@@ -110,7 +111,7 @@ def get_daily_papers(topic,query="slam", max_results=2):
     # output 
     content = dict() 
     content_to_web = dict()
-    client = arxiv.Client()
+    client = arxiv.Client(page_size=max(1, min(int(max_results), 20)), delay_seconds=5, num_retries=5)
     search = arxiv.Search(
         query = query,
         max_results = max_results,
@@ -364,7 +365,9 @@ def demo(**config):
     logging.info(f'Update Paper Link = {b_update}')
     if config['update_paper_links'] == False:
         logging.info(f"GET daily papers begin")
-        for topic, keyword in keywords.items():
+        for topic_index, (topic, keyword) in enumerate(keywords.items()):
+            if topic_index:
+                time.sleep(5)
             logging.info(f"Keyword: {topic}")
             data, data_web = get_daily_papers(topic, query = keyword,
                                             max_results = max_results)
