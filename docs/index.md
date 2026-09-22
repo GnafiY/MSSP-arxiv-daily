@@ -4,7 +4,7 @@ layout: default
 
 # MSSP Paper Skim
 
-## Updated on 2026.09.21
+## Updated on 2026.09.22
 > Usage instructions: [here](./README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -13,6 +13,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-20**|**LiteCASS: A Lightweight End-to-End Network for Real-Time Stereo Cinematic Audio Source Separation**|Yuanxin Guo et.al.|[2609.23453](http://arxiv.org/abs/2609.23453)|null|
 |**2026-09-14**|**Ring Mixing with Auxiliary Signal-to-Consistency-Error Ratio Loss for Unsupervised Denoising in Speech Separation**|Matthew Maciejewski et.al.|[2604.08415](http://arxiv.org/abs/2604.08415)|null|
 |**2026-09-11**|**Location-based Training with Complementary Folded Linear Orderings for Multichannel Speech Separation**|Kaixuan Yang et.al.|[2609.12629](http://arxiv.org/abs/2609.12629)|null|
 |**2026-09-10**|**EConv-TasNet: Efficient Conv-TasNet for Effective Speech Separation**|Pei-Chun Chang et.al.|[2609.11342](http://arxiv.org/abs/2609.11342)|null|
@@ -45,6 +46,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-21**|**P2Flow: Phoneme-aware Progressive Flow Matching for Extreme Speech Super-Resolution**|Ningyuan Yang et.al.|[2609.24138](http://arxiv.org/abs/2609.24138)|null|
+|**2026-09-19**|**Adaptive Depth and Expert Refinement for Efficient Speech Enhancement**|Xikun Lu et.al.|[2609.22824](http://arxiv.org/abs/2609.22824)|null|
 |**2026-09-18**|**SG-Mamba: Sparse Graph-Guided Mamba for Audio-Visual Speech Enhancement**|Guo-Ruei Tseng et.al.|[2609.18009](http://arxiv.org/abs/2609.18009)|null|
 |**2026-09-18**|**BLINC: Blind Calibration For Training-Free Speech Enhancement Adaptation**|Tobias Raichle et.al.|[2609.21898](http://arxiv.org/abs/2609.21898)|null|
 |**2026-09-18**|**HAMMER: Harmonic-Aware Parallel Context Modeling and Discriminator-Free Perceptual Optimization for Speech Enhancement**|Shang-Fu Chen et.al.|[2609.21171](http://arxiv.org/abs/2609.21171)|null|
@@ -73,6 +76,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-19**|**Speech Language Models for Full-Meeting Speaker Diarization: Capabilities and Limitations**|Jialu Li et.al.|[2609.23114](http://arxiv.org/abs/2609.23114)|null|
 |**2026-09-11**|**Audiovisual diarization of overlapping click trains in sperm whale (Physeter macrocephalus) vocal sparring using a three-hydrophone array**|Lara Berkenbaum et.al.|[2609.12593](http://arxiv.org/abs/2609.12593)|null|
 |**2026-09-10**|**Neural Multichannel Distant Speaker Diarization with Heavy-tailed Source Separation Model**|Sicheng Mao et.al.|[2609.12154](http://arxiv.org/abs/2609.12154)|null|
 |**2026-09-10**|**Diarization Error Decomposition Under Pause Annotation Ambiguity**|Shota Horiguchi et.al.|[2609.11007](http://arxiv.org/abs/2609.11007)|null|

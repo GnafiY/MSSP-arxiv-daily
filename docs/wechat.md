@@ -1,4 +1,4 @@
-> Updated on 2026.09.21
+> Updated on 2026.09.22
 > Usage instructions: [here](./README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -43,8 +43,9 @@
 - 2026-04-14, **Audio Source Separation in Reverberant Environments using $β$ -divergence based Nonnegative Factorization**, Mahmoud Fakhry et.al., Paper: [http://arxiv.org/abs/2604.12480](http://arxiv.org/abs/2604.12480)
 - 2026-04-28, **StrADiff: A Structured Source-Wise Adaptive Diffusion Framework for Linear and Nonlinear Blind Source Separation**, Yuan-Hao Wei et.al., Paper: [http://arxiv.org/abs/2604.04973](http://arxiv.org/abs/2604.04973)
 - 2026-03-27, **Cinematic Audio Source Separation Using Visual Cues**, Kang Zhang et.al., Paper: [http://arxiv.org/abs/2603.26113](http://arxiv.org/abs/2603.26113)
+- 2026-09-20, **LiteCASS: A Lightweight End-to-End Network for Real-Time Stereo Cinematic Audio Source Separation**, Yuanxin Guo et.al., Paper: [http://arxiv.org/abs/2609.23453](http://arxiv.org/abs/2609.23453)
 
-<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260922>back to top</a>)</p>
 
 ## Speech Enhancement
 
@@ -71,8 +72,10 @@
 - 2026-09-03, **StreamWSR: Streamable and Lightweight Waveform-Domain Neural Speech Super-Resolution**, Yuan Tian et.al., Paper: [http://arxiv.org/abs/2609.03381](http://arxiv.org/abs/2609.03381)
 - 2026-09-18, **BLINC: Blind Calibration For Training-Free Speech Enhancement Adaptation**, Tobias Raichle et.al., Paper: [http://arxiv.org/abs/2609.21898](http://arxiv.org/abs/2609.21898)
 - 2026-09-18, **HAMMER: Harmonic-Aware Parallel Context Modeling and Discriminator-Free Perceptual Optimization for Speech Enhancement**, Shang-Fu Chen et.al., Paper: [http://arxiv.org/abs/2609.21171](http://arxiv.org/abs/2609.21171)
+- 2026-09-21, **P2Flow: Phoneme-aware Progressive Flow Matching for Extreme Speech Super-Resolution**, Ningyuan Yang et.al., Paper: [http://arxiv.org/abs/2609.24138](http://arxiv.org/abs/2609.24138)
+- 2026-09-19, **Adaptive Depth and Expert Refinement for Efficient Speech Enhancement**, Xikun Lu et.al., Paper: [http://arxiv.org/abs/2609.22824](http://arxiv.org/abs/2609.22824)
 
-<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260922>back to top</a>)</p>
 
 ## Speaker Diarization
 
@@ -109,8 +112,9 @@
 - 2026-06-23, **SphereVBx: Spherical Variational Bayes Clustering for Simplified EEND-VC Diarization**, Petr Pálka et.al., Paper: [http://arxiv.org/abs/2606.24528](http://arxiv.org/abs/2606.24528)
 - 2026-06-16, **Grounding Spoken LLMs in Multi-Speaker Audio via Diarization Conditioning**, Alexander Polok et.al., Paper: [http://arxiv.org/abs/2606.18134](http://arxiv.org/abs/2606.18134)
 - 2026-06-11, **Balancing ASR and diarization in end-to-end LLMs for multi-talker speech recognition**, Naijun Zheng et.al., Paper: [http://arxiv.org/abs/2606.13095](http://arxiv.org/abs/2606.13095)
+- 2026-09-19, **Speech Language Models for Full-Meeting Speaker Diarization: Capabilities and Limitations**, Jialu Li et.al., Paper: [http://arxiv.org/abs/2609.23114](http://arxiv.org/abs/2609.23114)
 
-<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260922>back to top</a>)</p>
 
 ## Multi-Talker ASR (Speaker-Attributed ASR)
 
@@ -136,7 +140,7 @@
 - 2026-03-19, **GLAD: Global-Local Aware Dynamic Mixture-of-Experts for Multi-Talker ASR**, Yujie Guo et.al., Paper: [http://arxiv.org/abs/2509.13093](http://arxiv.org/abs/2509.13093)
 - 2026-07-22, **Beyond WER: Entity and Disfluency Recall in Accented Conversational ASR**, Fiza Husain et.al., Paper: [http://arxiv.org/abs/2609.20828](http://arxiv.org/abs/2609.20828)
 
-<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260922>back to top</a>)</p>
 
 ## Target Speaker Extraction
 
@@ -161,5 +165,5 @@
 - 2026-03-23, **VorTEX: Various overlap ratio for Target speech EXtraction**, Ro-hoon Oh et.al., Paper: [http://arxiv.org/abs/2603.14803](http://arxiv.org/abs/2603.14803)
 - 2026-06-22, **Mask2Flow-TSE: Two-Stage Target Speaker Extraction with Masking and Flow Matching**, Junwon Moon et.al., Paper: [http://arxiv.org/abs/2603.12837](http://arxiv.org/abs/2603.12837)
 
-<p align=right>(<a href=#updated-on-20260921>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260922>back to top</a>)</p>
 
