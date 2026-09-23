@@ -4,7 +4,7 @@ layout: default
 
 # MSSP Paper Skim
 
-## Updated on 2026.09.22
+## Updated on 2026.09.23
 > Usage instructions: [here](./README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -46,6 +46,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**SE-MSB: End-to-End Unpaired Speech Enhancement using Mamba Schrödinger Bridges**|Andreas Bagge et.al.|[2609.26000](http://arxiv.org/abs/2609.26000)|null|
+|**2026-09-22**|**Challenges of Multi-Speaker Extraction for Real Conversational Speech Enhancement**|Robert Sutherland et.al.|[2609.25948](http://arxiv.org/abs/2609.25948)|null|
 |**2026-09-21**|**P2Flow: Phoneme-aware Progressive Flow Matching for Extreme Speech Super-Resolution**|Ningyuan Yang et.al.|[2609.24138](http://arxiv.org/abs/2609.24138)|null|
 |**2026-09-19**|**Adaptive Depth and Expert Refinement for Efficient Speech Enhancement**|Xikun Lu et.al.|[2609.22824](http://arxiv.org/abs/2609.22824)|null|
 |**2026-09-18**|**SG-Mamba: Sparse Graph-Guided Mamba for Audio-Visual Speech Enhancement**|Guo-Ruei Tseng et.al.|[2609.18009](http://arxiv.org/abs/2609.18009)|null|
@@ -141,6 +143,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-22**|**Challenges of Multi-Speaker Extraction for Real Conversational Speech Enhancement**|Robert Sutherland et.al.|[2609.25948](http://arxiv.org/abs/2609.25948)|null|
 |**2026-09-17**|**Beyond the Stability--Plasticity Frontier in Streaming Target Speaker Extraction**|Yuesheng Ma et.al.|[2609.20463](http://arxiv.org/abs/2609.20463)|**[link](https://github.com/ym2976/ttse-frontier)**|
 |**2026-08-10**|**BiTSE: Binaural Target Speaker Extraction in Noisy Multi-Talker Environments for AR Glass Arrays**|Selani A. Indrapala et.al.|[2608.10106](http://arxiv.org/abs/2608.10106)|null|
 |**2026-08-06**|**Identity-Faithful Audio-Visual Target Speaker Extraction with REAL-2MIX and VOXBLINK2-AVSE**|Peijun Yang et.al.|[2608.03964](http://arxiv.org/abs/2608.03964)|null|
