@@ -4,7 +4,7 @@ layout: default
 
 # MSSP Paper Skim
 
-## Updated on 2026.09.23
+## Updated on 2026.09.24
 > Usage instructions: [here](./README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -78,10 +78,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-23**|**Diarization Error Decomposition Under Pause Annotation Ambiguity**|Shota Horiguchi et.al.|[2609.11007](http://arxiv.org/abs/2609.11007)|null|
+|**2026-09-23**|**The Second MLC-SLM Challenge: Multilingual Conversational Speech Diarization, Recognition, and Understanding**|Bingshen Mu et.al.|[2609.27514](http://arxiv.org/abs/2609.27514)|null|
+|**2026-09-23**|**Beyond DER: Speaker Counting in Crowded End-to-End Diarization**|Lahiru Samarakoon et.al.|[2609.27315](http://arxiv.org/abs/2609.27315)|null|
 |**2026-09-19**|**Speech Language Models for Full-Meeting Speaker Diarization: Capabilities and Limitations**|Jialu Li et.al.|[2609.23114](http://arxiv.org/abs/2609.23114)|null|
 |**2026-09-11**|**Audiovisual diarization of overlapping click trains in sperm whale (Physeter macrocephalus) vocal sparring using a three-hydrophone array**|Lara Berkenbaum et.al.|[2609.12593](http://arxiv.org/abs/2609.12593)|null|
 |**2026-09-10**|**Neural Multichannel Distant Speaker Diarization with Heavy-tailed Source Separation Model**|Sicheng Mao et.al.|[2609.12154](http://arxiv.org/abs/2609.12154)|null|
-|**2026-09-10**|**Diarization Error Decomposition Under Pause Annotation Ambiguity**|Shota Horiguchi et.al.|[2609.11007](http://arxiv.org/abs/2609.11007)|null|
 |**2026-09-09**|**Over-Tightening-Aware Pseudo-Labeling for Tight-Boundary Speaker Diarization**|Shota Horiguchi et.al.|[2609.09965](http://arxiv.org/abs/2609.09965)|null|
 |**2026-08-24**|**DiaScriber: A Speech LLM for Joint Diarization and Transcription in Multi-Speaker Scenarios**|Bingshen Mu et.al.|[2608.22796](http://arxiv.org/abs/2608.22796)|null|
 |**2026-08-23**|**Mitigating Speaker Leakage in Cascaded Multi-talker ASR with Diarization-based Transcript Correction**|Hermann Yepdjio Nkouanga et.al.|[2608.22196](http://arxiv.org/abs/2608.22196)|null|

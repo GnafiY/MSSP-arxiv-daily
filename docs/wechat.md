@@ -1,4 +1,4 @@
-> Updated on 2026.09.23
+> Updated on 2026.09.24
 > Usage instructions: [here](./README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -45,7 +45,7 @@
 - 2026-03-27, **Cinematic Audio Source Separation Using Visual Cues**, Kang Zhang et.al., Paper: [http://arxiv.org/abs/2603.26113](http://arxiv.org/abs/2603.26113)
 - 2026-09-20, **LiteCASS: A Lightweight End-to-End Network for Real-Time Stereo Cinematic Audio Source Separation**, Yuanxin Guo et.al., Paper: [http://arxiv.org/abs/2609.23453](http://arxiv.org/abs/2609.23453)
 
-<p align=right>(<a href=#updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
 
 ## Speech Enhancement
 
@@ -77,7 +77,7 @@
 - 2026-09-22, **SE-MSB: End-to-End Unpaired Speech Enhancement using Mamba Schrödinger Bridges**, Andreas Bagge et.al., Paper: [http://arxiv.org/abs/2609.26000](http://arxiv.org/abs/2609.26000)
 - 2026-09-22, **Challenges of Multi-Speaker Extraction for Real Conversational Speech Enhancement**, Robert Sutherland et.al., Paper: [http://arxiv.org/abs/2609.25948](http://arxiv.org/abs/2609.25948)
 
-<p align=right>(<a href=#updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
 
 ## Speaker Diarization
 
@@ -102,7 +102,7 @@
 - 2026-02-26, **Make It Hard to Hear, Easy to Learn: Long-Form Bengali ASR and Speaker Diarization via Extreme Augmentation and Perfect Alignment**, Sanjid Hasan et.al., Paper: [http://arxiv.org/abs/2602.23070](http://arxiv.org/abs/2602.23070)
 - 2026-02-26, **A Holistic Framework for Robust Bangla ASR and Speaker Diarization with Optimized VAD and CTC Alignment**, Zarif Ishmam et.al., Paper: [http://arxiv.org/abs/2602.22935](http://arxiv.org/abs/2602.22935)
 - 2026-09-11, **Audiovisual diarization of overlapping click trains in sperm whale (Physeter macrocephalus) vocal sparring using a three-hydrophone array**, Lara Berkenbaum et.al., Paper: [http://arxiv.org/abs/2609.12593](http://arxiv.org/abs/2609.12593)
-- 2026-09-10, **Diarization Error Decomposition Under Pause Annotation Ambiguity**, Shota Horiguchi et.al., Paper: [http://arxiv.org/abs/2609.11007](http://arxiv.org/abs/2609.11007)
+- 2026-09-23, **Diarization Error Decomposition Under Pause Annotation Ambiguity**, Shota Horiguchi et.al., Paper: [http://arxiv.org/abs/2609.11007](http://arxiv.org/abs/2609.11007)
 - 2026-08-24, **DiaScriber: A Speech LLM for Joint Diarization and Transcription in Multi-Speaker Scenarios**, Bingshen Mu et.al., Paper: [http://arxiv.org/abs/2608.22796](http://arxiv.org/abs/2608.22796)
 - 2026-08-23, **Mitigating Speaker Leakage in Cascaded Multi-talker ASR with Diarization-based Transcript Correction**, Hermann Yepdjio Nkouanga et.al., Paper: [http://arxiv.org/abs/2608.22196](http://arxiv.org/abs/2608.22196)
 - 2026-08-10, **Speaker Role and Language Diarization for Analyzing Multilingual Interviews for Language Proficiency of Older Adults**, Anfeng Xu et.al., Paper: [http://arxiv.org/abs/2608.09032](http://arxiv.org/abs/2608.09032)
@@ -115,8 +115,10 @@
 - 2026-06-16, **Grounding Spoken LLMs in Multi-Speaker Audio via Diarization Conditioning**, Alexander Polok et.al., Paper: [http://arxiv.org/abs/2606.18134](http://arxiv.org/abs/2606.18134)
 - 2026-06-11, **Balancing ASR and diarization in end-to-end LLMs for multi-talker speech recognition**, Naijun Zheng et.al., Paper: [http://arxiv.org/abs/2606.13095](http://arxiv.org/abs/2606.13095)
 - 2026-09-19, **Speech Language Models for Full-Meeting Speaker Diarization: Capabilities and Limitations**, Jialu Li et.al., Paper: [http://arxiv.org/abs/2609.23114](http://arxiv.org/abs/2609.23114)
+- 2026-09-23, **The Second MLC-SLM Challenge: Multilingual Conversational Speech Diarization, Recognition, and Understanding**, Bingshen Mu et.al., Paper: [http://arxiv.org/abs/2609.27514](http://arxiv.org/abs/2609.27514)
+- 2026-09-23, **Beyond DER: Speaker Counting in Crowded End-to-End Diarization**, Lahiru Samarakoon et.al., Paper: [http://arxiv.org/abs/2609.27315](http://arxiv.org/abs/2609.27315)
 
-<p align=right>(<a href=#updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
 
 ## Multi-Talker ASR (Speaker-Attributed ASR)
 
@@ -142,7 +144,7 @@
 - 2026-03-19, **GLAD: Global-Local Aware Dynamic Mixture-of-Experts for Multi-Talker ASR**, Yujie Guo et.al., Paper: [http://arxiv.org/abs/2509.13093](http://arxiv.org/abs/2509.13093)
 - 2026-07-22, **Beyond WER: Entity and Disfluency Recall in Accented Conversational ASR**, Fiza Husain et.al., Paper: [http://arxiv.org/abs/2609.20828](http://arxiv.org/abs/2609.20828)
 
-<p align=right>(<a href=#updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
 
 ## Target Speaker Extraction
 
@@ -168,5 +170,5 @@
 - 2026-06-22, **Mask2Flow-TSE: Two-Stage Target Speaker Extraction with Masking and Flow Matching**, Junwon Moon et.al., Paper: [http://arxiv.org/abs/2603.12837](http://arxiv.org/abs/2603.12837)
 - 2026-09-22, **Challenges of Multi-Speaker Extraction for Real Conversational Speech Enhancement**, Robert Sutherland et.al., Paper: [http://arxiv.org/abs/2609.25948](http://arxiv.org/abs/2609.25948)
 
-<p align=right>(<a href=#updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
 

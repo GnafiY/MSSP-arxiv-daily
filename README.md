@@ -1,6 +1,6 @@
 # MSSP Paper Skim
 
-## Updated on 2026.09.23
+## Updated on 2026.09.24
 > Usage instructions: [here](./docs/README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -49,7 +49,7 @@
 |**2025-11-10**|**Speech Separation for Hearing-Impaired Children in the Classroom**|Feyisayo Olalere et.al.|[2511.07677](http://arxiv.org/abs/2511.07677)|null|
 |**2025-11-05**|**Neural Beamforming with Doppler-Aware Sparse Attention for High Mobility Environments**|Cemil Vahapoglu et.al.|[2511.03632](http://arxiv.org/abs/2511.03632)|null|
 
-<p align=right>(<a href=#updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
 
 ## Speech Enhancement
 
@@ -83,16 +83,18 @@
 |**2026-08-21**|**μNet: Ultra-Low-Memory and Low-Complexity Speech Enhancement for Embedded Digital Signal Processors**|Shrishti Saha Shetu et.al.|[2608.21155](http://arxiv.org/abs/2608.21155)|null|
 |**2026-08-21**|**Grounded Decoding for Autoregressive Speech Enhancement via Adaptive Code-Space Grounding and Local LLM Refinement**|Hao Shi et.al.|[2609.04245](http://arxiv.org/abs/2609.04245)|null|
 
-<p align=right>(<a href=#updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
 
 ## Speaker Diarization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-23**|**Diarization Error Decomposition Under Pause Annotation Ambiguity**|Shota Horiguchi et.al.|[2609.11007](http://arxiv.org/abs/2609.11007)|null|
+|**2026-09-23**|**The Second MLC-SLM Challenge: Multilingual Conversational Speech Diarization, Recognition, and Understanding**|Bingshen Mu et.al.|[2609.27514](http://arxiv.org/abs/2609.27514)|null|
+|**2026-09-23**|**Beyond DER: Speaker Counting in Crowded End-to-End Diarization**|Lahiru Samarakoon et.al.|[2609.27315](http://arxiv.org/abs/2609.27315)|null|
 |**2026-09-19**|**Speech Language Models for Full-Meeting Speaker Diarization: Capabilities and Limitations**|Jialu Li et.al.|[2609.23114](http://arxiv.org/abs/2609.23114)|null|
 |**2026-09-11**|**Audiovisual diarization of overlapping click trains in sperm whale (Physeter macrocephalus) vocal sparring using a three-hydrophone array**|Lara Berkenbaum et.al.|[2609.12593](http://arxiv.org/abs/2609.12593)|null|
 |**2026-09-10**|**Neural Multichannel Distant Speaker Diarization with Heavy-tailed Source Separation Model**|Sicheng Mao et.al.|[2609.12154](http://arxiv.org/abs/2609.12154)|null|
-|**2026-09-10**|**Diarization Error Decomposition Under Pause Annotation Ambiguity**|Shota Horiguchi et.al.|[2609.11007](http://arxiv.org/abs/2609.11007)|null|
 |**2026-09-09**|**Over-Tightening-Aware Pseudo-Labeling for Tight-Boundary Speaker Diarization**|Shota Horiguchi et.al.|[2609.09965](http://arxiv.org/abs/2609.09965)|null|
 |**2026-08-24**|**DiaScriber: A Speech LLM for Joint Diarization and Transcription in Multi-Speaker Scenarios**|Bingshen Mu et.al.|[2608.22796](http://arxiv.org/abs/2608.22796)|null|
 |**2026-08-23**|**Mitigating Speaker Leakage in Cascaded Multi-talker ASR with Diarization-based Transcript Correction**|Hermann Yepdjio Nkouanga et.al.|[2608.22196](http://arxiv.org/abs/2608.22196)|null|
@@ -124,7 +126,7 @@
 |**2026-02-26**|**Make It Hard to Hear, Easy to Learn: Long-Form Bengali ASR and Speaker Diarization via Extreme Augmentation and Perfect Alignment**|Sanjid Hasan et.al.|[2602.23070](http://arxiv.org/abs/2602.23070)|null|
 |**2026-02-26**|**A Holistic Framework for Robust Bangla ASR and Speaker Diarization with Optimized VAD and CTC Alignment**|Zarif Ishmam et.al.|[2602.22935](http://arxiv.org/abs/2602.22935)|null|
 
-<p align=right>(<a href=#updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
 
 ## Multi-Talker ASR (Speaker-Attributed ASR)
 
@@ -152,7 +154,7 @@
 |**2025-10-04**|**Scaling Multi-Talker ASR with Speaker-Agnostic Activity Streams**|Xiluo He et.al.|[2510.03630](http://arxiv.org/abs/2510.03630)|null|
 |**2025-09-23**|**LOTUSDIS: A Thai far-field meeting corpus for robust conversational ASR**|Pattara Tipaksorn et.al.|[2509.18722](http://arxiv.org/abs/2509.18722)|null|
 
-<p align=right>(<a href=#updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
 
 ## Target Speaker Extraction
 
@@ -180,5 +182,5 @@
 |**2026-03-23**|**VorTEX: Various overlap ratio for Target speech EXtraction**|Ro-hoon Oh et.al.|[2603.14803](http://arxiv.org/abs/2603.14803)|null|
 |**2026-03-17**|**HRTF-guided Binaural Target Speaker Extraction with Real-World Validation**|Yoav Ellinson et.al.|[2603.16668](http://arxiv.org/abs/2603.16668)|null|
 
-<p align=right>(<a href=#updated-on-20260923>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
 
