@@ -1,4 +1,4 @@
-> Updated on 2026.09.24
+> Updated on 2026.09.25
 > Usage instructions: [here](./README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -45,7 +45,7 @@
 - 2026-03-27, **Cinematic Audio Source Separation Using Visual Cues**, Kang Zhang et.al., Paper: [http://arxiv.org/abs/2603.26113](http://arxiv.org/abs/2603.26113)
 - 2026-09-20, **LiteCASS: A Lightweight End-to-End Network for Real-Time Stereo Cinematic Audio Source Separation**, Yuanxin Guo et.al., Paper: [http://arxiv.org/abs/2609.23453](http://arxiv.org/abs/2609.23453)
 
-<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260925>back to top</a>)</p>
 
 ## Speech Enhancement
 
@@ -76,8 +76,13 @@
 - 2026-09-19, **Adaptive Depth and Expert Refinement for Efficient Speech Enhancement**, Xikun Lu et.al., Paper: [http://arxiv.org/abs/2609.22824](http://arxiv.org/abs/2609.22824)
 - 2026-09-22, **SE-MSB: End-to-End Unpaired Speech Enhancement using Mamba Schrödinger Bridges**, Andreas Bagge et.al., Paper: [http://arxiv.org/abs/2609.26000](http://arxiv.org/abs/2609.26000)
 - 2026-09-22, **Challenges of Multi-Speaker Extraction for Real Conversational Speech Enhancement**, Robert Sutherland et.al., Paper: [http://arxiv.org/abs/2609.25948](http://arxiv.org/abs/2609.25948)
+- 2026-09-24, **Does per-frame early exit pay? A compute-matched study of dynamic depth for on-device speech enhancement**, Clément Laroche et.al., Paper: [http://arxiv.org/abs/2609.29867](http://arxiv.org/abs/2609.29867)
+- 2026-09-24, **Beyond Model Size: Redesigning LiSenNet for embedded speech enhancement**, Clément Laroche et.al., Paper: [http://arxiv.org/abs/2609.29866](http://arxiv.org/abs/2609.29866)
+- 2026-09-24, **Configurable-Bandwidth Time-Frequency Modeling for Efficient Full-Band Speech Enhancement Across Sampling Rates**, Ui-Hyeop Shin et.al., Paper: [http://arxiv.org/abs/2609.29463](http://arxiv.org/abs/2609.29463)
+- 2026-09-24, **Transcript-Supervised Post-Training of Generative Speech Enhancement on Real Recordings via Reinforce Adjoint Matching**, Julius Richter et.al., Paper: [http://arxiv.org/abs/2609.29405](http://arxiv.org/abs/2609.29405)
+- 2026-09-24, **The Vulnerability of Neural Audio Watermarks under Speech Enhancement**, Xincong Zhong et.al., Paper: [http://arxiv.org/abs/2609.29040](http://arxiv.org/abs/2609.29040)
 
-<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260925>back to top</a>)</p>
 
 ## Speaker Diarization
 
@@ -118,12 +123,12 @@
 - 2026-09-23, **The Second MLC-SLM Challenge: Multilingual Conversational Speech Diarization, Recognition, and Understanding**, Bingshen Mu et.al., Paper: [http://arxiv.org/abs/2609.27514](http://arxiv.org/abs/2609.27514)
 - 2026-09-23, **Beyond DER: Speaker Counting in Crowded End-to-End Diarization**, Lahiru Samarakoon et.al., Paper: [http://arxiv.org/abs/2609.27315](http://arxiv.org/abs/2609.27315)
 
-<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260925>back to top</a>)</p>
 
 ## Multi-Talker ASR (Speaker-Attributed ASR)
 
-- 2026-09-09, **Pushing the Boundaries of Streaming Multi-Speaker ASR: A Systematic Study of Architectural Trade-offs**, Taejin Park et.al., Paper: [http://arxiv.org/abs/2609.10265](http://arxiv.org/abs/2609.10265)
-- 2026-09-17, **Soft Posterior Speaker Injection for Multi-Talker Speech Recognition**, Jian Zhu et.al., Paper: [http://arxiv.org/abs/2609.01287](http://arxiv.org/abs/2609.01287)
+- 2026-09-24, **Pushing the Boundaries of Streaming Multi-Speaker ASR: A Systematic Study of Architectural Trade-offs**, Taejin Park et.al., Paper: [http://arxiv.org/abs/2609.10265](http://arxiv.org/abs/2609.10265)
+- 2026-09-17, **Soft Posterior Speaker Injection for Multi-Talker Speech Recognition**, Jian Zhu et.al., Paper: [http://arxiv.org/abs/2609.01287](http://arxiv.org/abs/2609.01287), Code: **[https://github.com/HackerHyper/SPSI](https://github.com/HackerHyper/SPSI)**
 - 2026-08-23, **Mitigating Speaker Leakage in Cascaded Multi-talker ASR with Diarization-based Transcript Correction**, Hermann Yepdjio Nkouanga et.al., Paper: [http://arxiv.org/abs/2608.22196](http://arxiv.org/abs/2608.22196)
 - 2026-08-12, **The SLT 2026 SmartGlasses Challenge: Benchmarking Egocentric Multi-Talker Speech Recognition and Understanding with Audio-Language Models**, Dehui Gao et.al., Paper: [http://arxiv.org/abs/2608.12034](http://arxiv.org/abs/2608.12034)
 - 2026-07-02, **H-SAGE: Holistic Speaker-Aware Guided Experts for MoE-based Multi-Talker ASR**, Yujie Guo et.al., Paper: [http://arxiv.org/abs/2607.01566](http://arxiv.org/abs/2607.01566)
@@ -143,8 +148,9 @@
 - 2025-09-23, **LOTUSDIS: A Thai far-field meeting corpus for robust conversational ASR**, Pattara Tipaksorn et.al., Paper: [http://arxiv.org/abs/2509.18722](http://arxiv.org/abs/2509.18722)
 - 2026-03-19, **GLAD: Global-Local Aware Dynamic Mixture-of-Experts for Multi-Talker ASR**, Yujie Guo et.al., Paper: [http://arxiv.org/abs/2509.13093](http://arxiv.org/abs/2509.13093)
 - 2026-07-22, **Beyond WER: Entity and Disfluency Recall in Accented Conversational ASR**, Fiza Husain et.al., Paper: [http://arxiv.org/abs/2609.20828](http://arxiv.org/abs/2609.20828)
+- 2026-09-24, **STAM-ASR: Speaker-Temporal Anchoring with Memory for Multi-Speaker ASR**, Victor Tolulope Olufemi et.al., Paper: [http://arxiv.org/abs/2609.29805](http://arxiv.org/abs/2609.29805)
 
-<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260925>back to top</a>)</p>
 
 ## Target Speaker Extraction
 
@@ -169,6 +175,7 @@
 - 2026-03-23, **VorTEX: Various overlap ratio for Target speech EXtraction**, Ro-hoon Oh et.al., Paper: [http://arxiv.org/abs/2603.14803](http://arxiv.org/abs/2603.14803)
 - 2026-06-22, **Mask2Flow-TSE: Two-Stage Target Speaker Extraction with Masking and Flow Matching**, Junwon Moon et.al., Paper: [http://arxiv.org/abs/2603.12837](http://arxiv.org/abs/2603.12837)
 - 2026-09-22, **Challenges of Multi-Speaker Extraction for Real Conversational Speech Enhancement**, Robert Sutherland et.al., Paper: [http://arxiv.org/abs/2609.25948](http://arxiv.org/abs/2609.25948)
+- 2026-09-24, **Exploring a Single Autoregressive LLM for Unified Target Speech Extraction across Synchronous and Asynchronous Cues**, Wenxuan Wu et.al., Paper: [http://arxiv.org/abs/2609.29238](http://arxiv.org/abs/2609.29238)
 
-<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260925>back to top</a>)</p>
 

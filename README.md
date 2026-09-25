@@ -1,6 +1,6 @@
 # MSSP Paper Skim
 
-## Updated on 2026.09.24
+## Updated on 2026.09.25
 > Usage instructions: [here](./docs/README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -49,12 +49,17 @@
 |**2025-11-10**|**Speech Separation for Hearing-Impaired Children in the Classroom**|Feyisayo Olalere et.al.|[2511.07677](http://arxiv.org/abs/2511.07677)|null|
 |**2025-11-05**|**Neural Beamforming with Doppler-Aware Sparse Attention for High Mobility Environments**|Cemil Vahapoglu et.al.|[2511.03632](http://arxiv.org/abs/2511.03632)|null|
 
-<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260925>back to top</a>)</p>
 
 ## Speech Enhancement
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-24**|**Does per-frame early exit pay? A compute-matched study of dynamic depth for on-device speech enhancement**|Clément Laroche et.al.|[2609.29867](http://arxiv.org/abs/2609.29867)|null|
+|**2026-09-24**|**Beyond Model Size: Redesigning LiSenNet for embedded speech enhancement**|Clément Laroche et.al.|[2609.29866](http://arxiv.org/abs/2609.29866)|null|
+|**2026-09-24**|**Configurable-Bandwidth Time-Frequency Modeling for Efficient Full-Band Speech Enhancement Across Sampling Rates**|Ui-Hyeop Shin et.al.|[2609.29463](http://arxiv.org/abs/2609.29463)|null|
+|**2026-09-24**|**Transcript-Supervised Post-Training of Generative Speech Enhancement on Real Recordings via Reinforce Adjoint Matching**|Julius Richter et.al.|[2609.29405](http://arxiv.org/abs/2609.29405)|null|
+|**2026-09-24**|**The Vulnerability of Neural Audio Watermarks under Speech Enhancement**|Xincong Zhong et.al.|[2609.29040](http://arxiv.org/abs/2609.29040)|null|
 |**2026-09-22**|**SE-MSB: End-to-End Unpaired Speech Enhancement using Mamba Schrödinger Bridges**|Andreas Bagge et.al.|[2609.26000](http://arxiv.org/abs/2609.26000)|null|
 |**2026-09-22**|**Challenges of Multi-Speaker Extraction for Real Conversational Speech Enhancement**|Robert Sutherland et.al.|[2609.25948](http://arxiv.org/abs/2609.25948)|null|
 |**2026-09-21**|**P2Flow: Phoneme-aware Progressive Flow Matching for Extreme Speech Super-Resolution**|Ningyuan Yang et.al.|[2609.24138](http://arxiv.org/abs/2609.24138)|null|
@@ -83,7 +88,7 @@
 |**2026-08-21**|**μNet: Ultra-Low-Memory and Low-Complexity Speech Enhancement for Embedded Digital Signal Processors**|Shrishti Saha Shetu et.al.|[2608.21155](http://arxiv.org/abs/2608.21155)|null|
 |**2026-08-21**|**Grounded Decoding for Autoregressive Speech Enhancement via Adaptive Code-Space Grounding and Local LLM Refinement**|Hao Shi et.al.|[2609.04245](http://arxiv.org/abs/2609.04245)|null|
 
-<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260925>back to top</a>)</p>
 
 ## Speaker Diarization
 
@@ -126,14 +131,15 @@
 |**2026-02-26**|**Make It Hard to Hear, Easy to Learn: Long-Form Bengali ASR and Speaker Diarization via Extreme Augmentation and Perfect Alignment**|Sanjid Hasan et.al.|[2602.23070](http://arxiv.org/abs/2602.23070)|null|
 |**2026-02-26**|**A Holistic Framework for Robust Bangla ASR and Speaker Diarization with Optimized VAD and CTC Alignment**|Zarif Ishmam et.al.|[2602.22935](http://arxiv.org/abs/2602.22935)|null|
 
-<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260925>back to top</a>)</p>
 
 ## Multi-Talker ASR (Speaker-Attributed ASR)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2026-09-17**|**Soft Posterior Speaker Injection for Multi-Talker Speech Recognition**|Jian Zhu et.al.|[2609.01287](http://arxiv.org/abs/2609.01287)|null|
-|**2026-09-09**|**Pushing the Boundaries of Streaming Multi-Speaker ASR: A Systematic Study of Architectural Trade-offs**|Taejin Park et.al.|[2609.10265](http://arxiv.org/abs/2609.10265)|null|
+|**2026-09-24**|**Pushing the Boundaries of Streaming Multi-Speaker ASR: A Systematic Study of Architectural Trade-offs**|Taejin Park et.al.|[2609.10265](http://arxiv.org/abs/2609.10265)|null|
+|**2026-09-24**|**STAM-ASR: Speaker-Temporal Anchoring with Memory for Multi-Speaker ASR**|Victor Tolulope Olufemi et.al.|[2609.29805](http://arxiv.org/abs/2609.29805)|null|
+|**2026-09-17**|**Soft Posterior Speaker Injection for Multi-Talker Speech Recognition**|Jian Zhu et.al.|[2609.01287](http://arxiv.org/abs/2609.01287)|**[link](https://github.com/HackerHyper/SPSI)**|
 |**2026-08-23**|**Mitigating Speaker Leakage in Cascaded Multi-talker ASR with Diarization-based Transcript Correction**|Hermann Yepdjio Nkouanga et.al.|[2608.22196](http://arxiv.org/abs/2608.22196)|null|
 |**2026-08-12**|**The SLT 2026 SmartGlasses Challenge: Benchmarking Egocentric Multi-Talker Speech Recognition and Understanding with Audio-Language Models**|Dehui Gao et.al.|[2608.12034](http://arxiv.org/abs/2608.12034)|null|
 |**2026-07-22**|**Beyond WER: Entity and Disfluency Recall in Accented Conversational ASR**|Fiza Husain et.al.|[2609.20828](http://arxiv.org/abs/2609.20828)|null|
@@ -154,12 +160,13 @@
 |**2025-10-04**|**Scaling Multi-Talker ASR with Speaker-Agnostic Activity Streams**|Xiluo He et.al.|[2510.03630](http://arxiv.org/abs/2510.03630)|null|
 |**2025-09-23**|**LOTUSDIS: A Thai far-field meeting corpus for robust conversational ASR**|Pattara Tipaksorn et.al.|[2509.18722](http://arxiv.org/abs/2509.18722)|null|
 
-<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260925>back to top</a>)</p>
 
 ## Target Speaker Extraction
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-24**|**Exploring a Single Autoregressive LLM for Unified Target Speech Extraction across Synchronous and Asynchronous Cues**|Wenxuan Wu et.al.|[2609.29238](http://arxiv.org/abs/2609.29238)|null|
 |**2026-09-22**|**Challenges of Multi-Speaker Extraction for Real Conversational Speech Enhancement**|Robert Sutherland et.al.|[2609.25948](http://arxiv.org/abs/2609.25948)|null|
 |**2026-09-17**|**Beyond the Stability--Plasticity Frontier in Streaming Target Speaker Extraction**|Yuesheng Ma et.al.|[2609.20463](http://arxiv.org/abs/2609.20463)|**[link](https://github.com/ym2976/ttse-frontier)**|
 |**2026-08-10**|**BiTSE: Binaural Target Speaker Extraction in Noisy Multi-Talker Environments for AR Glass Arrays**|Selani A. Indrapala et.al.|[2608.10106](http://arxiv.org/abs/2608.10106)|null|
@@ -182,5 +189,5 @@
 |**2026-03-23**|**VorTEX: Various overlap ratio for Target speech EXtraction**|Ro-hoon Oh et.al.|[2603.14803](http://arxiv.org/abs/2603.14803)|null|
 |**2026-03-17**|**HRTF-guided Binaural Target Speaker Extraction with Real-World Validation**|Yoav Ellinson et.al.|[2603.16668](http://arxiv.org/abs/2603.16668)|null|
 
-<p align=right>(<a href=#updated-on-20260924>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260925>back to top</a>)</p>
 
