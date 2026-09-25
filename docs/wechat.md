@@ -128,7 +128,7 @@
 ## Multi-Talker ASR (Speaker-Attributed ASR)
 
 - 2026-09-24, **Pushing the Boundaries of Streaming Multi-Speaker ASR: A Systematic Study of Architectural Trade-offs**, Taejin Park et.al., Paper: [http://arxiv.org/abs/2609.10265](http://arxiv.org/abs/2609.10265)
-- 2026-09-17, **Soft Posterior Speaker Injection for Multi-Talker Speech Recognition**, Jian Zhu et.al., Paper: [http://arxiv.org/abs/2609.01287](http://arxiv.org/abs/2609.01287), Code: **[https://github.com/HackerHyper/SPSI](https://github.com/HackerHyper/SPSI)**
+- 2026-09-17, **Soft Posterior Speaker Injection for Multi-Talker Speech Recognition**, Jian Zhu et.al., Paper: [http://arxiv.org/abs/2609.01287](http://arxiv.org/abs/2609.01287)
 - 2026-08-23, **Mitigating Speaker Leakage in Cascaded Multi-talker ASR with Diarization-based Transcript Correction**, Hermann Yepdjio Nkouanga et.al., Paper: [http://arxiv.org/abs/2608.22196](http://arxiv.org/abs/2608.22196)
 - 2026-08-12, **The SLT 2026 SmartGlasses Challenge: Benchmarking Egocentric Multi-Talker Speech Recognition and Understanding with Audio-Language Models**, Dehui Gao et.al., Paper: [http://arxiv.org/abs/2608.12034](http://arxiv.org/abs/2608.12034)
 - 2026-07-02, **H-SAGE: Holistic Speaker-Aware Guided Experts for MoE-based Multi-Talker ASR**, Yujie Guo et.al., Paper: [http://arxiv.org/abs/2607.01566](http://arxiv.org/abs/2607.01566)
