@@ -126,7 +126,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-09-24**|**Pushing the Boundaries of Streaming Multi-Speaker ASR: A Systematic Study of Architectural Trade-offs**|Taejin Park et.al.|[2609.10265](http://arxiv.org/abs/2609.10265)|null|
 |**2026-09-24**|**STAM-ASR: Speaker-Temporal Anchoring with Memory for Multi-Speaker ASR**|Victor Tolulope Olufemi et.al.|[2609.29805](http://arxiv.org/abs/2609.29805)|null|
-|**2026-09-17**|**Soft Posterior Speaker Injection for Multi-Talker Speech Recognition**|Jian Zhu et.al.|[2609.01287](http://arxiv.org/abs/2609.01287)|**[link](https://github.com/HackerHyper/SPSI)**|
+|**2026-09-17**|**Soft Posterior Speaker Injection for Multi-Talker Speech Recognition**|Jian Zhu et.al.|[2609.01287](http://arxiv.org/abs/2609.01287)|null|
 |**2026-08-23**|**Mitigating Speaker Leakage in Cascaded Multi-talker ASR with Diarization-based Transcript Correction**|Hermann Yepdjio Nkouanga et.al.|[2608.22196](http://arxiv.org/abs/2608.22196)|null|
 |**2026-08-12**|**The SLT 2026 SmartGlasses Challenge: Benchmarking Egocentric Multi-Talker Speech Recognition and Understanding with Audio-Language Models**|Dehui Gao et.al.|[2608.12034](http://arxiv.org/abs/2608.12034)|null|
 |**2026-07-22**|**Beyond WER: Entity and Disfluency Recall in Accented Conversational ASR**|Fiza Husain et.al.|[2609.20828](http://arxiv.org/abs/2609.20828)|null|
@@ -153,7 +153,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-09-24**|**Exploring a Single Autoregressive LLM for Unified Target Speech Extraction across Synchronous and Asynchronous Cues**|Wenxuan Wu et.al.|[2609.29238](http://arxiv.org/abs/2609.29238)|null|
 |**2026-09-22**|**Challenges of Multi-Speaker Extraction for Real Conversational Speech Enhancement**|Robert Sutherland et.al.|[2609.25948](http://arxiv.org/abs/2609.25948)|null|
-|**2026-09-17**|**Beyond the Stability--Plasticity Frontier in Streaming Target Speaker Extraction**|Yuesheng Ma et.al.|[2609.20463](http://arxiv.org/abs/2609.20463)|**[link](https://github.com/ym2976/ttse-frontier)**|
+|**2026-09-17**|**Beyond the Stability--Plasticity Frontier in Streaming Target Speaker Extraction**|Yuesheng Ma et.al.|[2609.20463](http://arxiv.org/abs/2609.20463)|null|
 |**2026-08-10**|**BiTSE: Binaural Target Speaker Extraction in Noisy Multi-Talker Environments for AR Glass Arrays**|Selani A. Indrapala et.al.|[2608.10106](http://arxiv.org/abs/2608.10106)|null|
 |**2026-08-06**|**Identity-Faithful Audio-Visual Target Speaker Extraction with REAL-2MIX and VOXBLINK2-AVSE**|Peijun Yang et.al.|[2608.03964](http://arxiv.org/abs/2608.03964)|null|
 |**2026-08-03**|**SAGE: Switch-Aware EEG-Guided Soft Gating for Target Speaker Extraction with In-Trial Switching**|Xuefei Wang et.al.|[2608.01623](http://arxiv.org/abs/2608.01623)|null|

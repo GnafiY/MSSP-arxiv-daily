@@ -128,7 +128,7 @@
 ## Multi-Talker ASR (Speaker-Attributed ASR)
 
 - 2026-09-24, **Pushing the Boundaries of Streaming Multi-Speaker ASR: A Systematic Study of Architectural Trade-offs**, Taejin Park et.al., Paper: [http://arxiv.org/abs/2609.10265](http://arxiv.org/abs/2609.10265)
-- 2026-09-17, **Soft Posterior Speaker Injection for Multi-Talker Speech Recognition**, Jian Zhu et.al., Paper: [http://arxiv.org/abs/2609.01287](http://arxiv.org/abs/2609.01287), Code: **[https://github.com/HackerHyper/SPSI](https://github.com/HackerHyper/SPSI)**
+- 2026-09-17, **Soft Posterior Speaker Injection for Multi-Talker Speech Recognition**, Jian Zhu et.al., Paper: [http://arxiv.org/abs/2609.01287](http://arxiv.org/abs/2609.01287)
 - 2026-08-23, **Mitigating Speaker Leakage in Cascaded Multi-talker ASR with Diarization-based Transcript Correction**, Hermann Yepdjio Nkouanga et.al., Paper: [http://arxiv.org/abs/2608.22196](http://arxiv.org/abs/2608.22196)
 - 2026-08-12, **The SLT 2026 SmartGlasses Challenge: Benchmarking Egocentric Multi-Talker Speech Recognition and Understanding with Audio-Language Models**, Dehui Gao et.al., Paper: [http://arxiv.org/abs/2608.12034](http://arxiv.org/abs/2608.12034)
 - 2026-07-02, **H-SAGE: Holistic Speaker-Aware Guided Experts for MoE-based Multi-Talker ASR**, Yujie Guo et.al., Paper: [http://arxiv.org/abs/2607.01566](http://arxiv.org/abs/2607.01566)
@@ -154,7 +154,7 @@
 
 ## Target Speaker Extraction
 
-- 2026-09-17, **Beyond the Stability--Plasticity Frontier in Streaming Target Speaker Extraction**, Yuesheng Ma et.al., Paper: [http://arxiv.org/abs/2609.20463](http://arxiv.org/abs/2609.20463), Code: **[https://github.com/ym2976/ttse-frontier](https://github.com/ym2976/ttse-frontier)**
+- 2026-09-17, **Beyond the Stability--Plasticity Frontier in Streaming Target Speaker Extraction**, Yuesheng Ma et.al., Paper: [http://arxiv.org/abs/2609.20463](http://arxiv.org/abs/2609.20463)
 - 2026-08-10, **BiTSE: Binaural Target Speaker Extraction in Noisy Multi-Talker Environments for AR Glass Arrays**, Selani A. Indrapala et.al., Paper: [http://arxiv.org/abs/2608.10106](http://arxiv.org/abs/2608.10106)
 - 2026-08-06, **Identity-Faithful Audio-Visual Target Speaker Extraction with REAL-2MIX and VOXBLINK2-AVSE**, Peijun Yang et.al., Paper: [http://arxiv.org/abs/2608.03964](http://arxiv.org/abs/2608.03964)
 - 2026-08-03, **SAGE: Switch-Aware EEG-Guided Soft Gating for Target Speaker Extraction with In-Trial Switching**, Xuefei Wang et.al., Paper: [http://arxiv.org/abs/2608.01623](http://arxiv.org/abs/2608.01623)
