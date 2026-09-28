@@ -1,4 +1,4 @@
-> Updated on 2026.09.27
+> Updated on 2026.09.28
 > Usage instructions: [here](./README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -45,7 +45,7 @@
 - 2026-03-27, **Cinematic Audio Source Separation Using Visual Cues**, Kang Zhang et.al., Paper: [http://arxiv.org/abs/2603.26113](http://arxiv.org/abs/2603.26113)
 - 2026-09-20, **LiteCASS: A Lightweight End-to-End Network for Real-Time Stereo Cinematic Audio Source Separation**, Yuanxin Guo et.al., Paper: [http://arxiv.org/abs/2609.23453](http://arxiv.org/abs/2609.23453)
 
-<p align=right>(<a href=#updated-on-20260927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
 
 ## Speech Enhancement
 
@@ -82,7 +82,7 @@
 - 2026-09-24, **Transcript-Supervised Post-Training of Generative Speech Enhancement on Real Recordings via Reinforce Adjoint Matching**, Julius Richter et.al., Paper: [http://arxiv.org/abs/2609.29405](http://arxiv.org/abs/2609.29405)
 - 2026-09-24, **The Vulnerability of Neural Audio Watermarks under Speech Enhancement**, Xincong Zhong et.al., Paper: [http://arxiv.org/abs/2609.29040](http://arxiv.org/abs/2609.29040)
 
-<p align=right>(<a href=#updated-on-20260927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
 
 ## Speaker Diarization
 
@@ -123,7 +123,7 @@
 - 2026-09-23, **The Second MLC-SLM Challenge: Multilingual Conversational Speech Diarization, Recognition, and Understanding**, Bingshen Mu et.al., Paper: [http://arxiv.org/abs/2609.27514](http://arxiv.org/abs/2609.27514)
 - 2026-09-23, **Beyond DER: Speaker Counting in Crowded End-to-End Diarization**, Lahiru Samarakoon et.al., Paper: [http://arxiv.org/abs/2609.27315](http://arxiv.org/abs/2609.27315)
 
-<p align=right>(<a href=#updated-on-20260927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
 
 ## Multi-Talker ASR (Speaker-Attributed ASR)
 
@@ -150,7 +150,7 @@
 - 2026-07-22, **Beyond WER: Entity and Disfluency Recall in Accented Conversational ASR**, Fiza Husain et.al., Paper: [http://arxiv.org/abs/2609.20828](http://arxiv.org/abs/2609.20828)
 - 2026-09-24, **STAM-ASR: Speaker-Temporal Anchoring with Memory for Multi-Speaker ASR**, Victor Tolulope Olufemi et.al., Paper: [http://arxiv.org/abs/2609.29805](http://arxiv.org/abs/2609.29805)
 
-<p align=right>(<a href=#updated-on-20260927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
 
 ## Target Speaker Extraction
 
@@ -177,5 +177,5 @@
 - 2026-09-22, **Challenges of Multi-Speaker Extraction for Real Conversational Speech Enhancement**, Robert Sutherland et.al., Paper: [http://arxiv.org/abs/2609.25948](http://arxiv.org/abs/2609.25948)
 - 2026-09-24, **Exploring a Single Autoregressive LLM for Unified Target Speech Extraction across Synchronous and Asynchronous Cues**, Wenxuan Wu et.al., Paper: [http://arxiv.org/abs/2609.29238](http://arxiv.org/abs/2609.29238)
 
-<p align=right>(<a href=#updated-on-20260927>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
 
