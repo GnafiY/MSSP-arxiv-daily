@@ -46,18 +46,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-25**|**HAMMER: Harmonic-Aware Parallel Context Modeling and Discriminator-Free Perceptual Optimization for Speech Enhancement**|Shang-Fu Chen et.al.|[2609.21171](http://arxiv.org/abs/2609.21171)|null|
+|**2026-09-25**|**Room Impulse Response Embeddings for Speech Enhancement in Noisy and Reverberant Environments**|Adrian Meise et.al.|[2609.31041](http://arxiv.org/abs/2609.31041)|null|
 |**2026-09-24**|**Does per-frame early exit pay? A compute-matched study of dynamic depth for on-device speech enhancement**|Clément Laroche et.al.|[2609.29867](http://arxiv.org/abs/2609.29867)|null|
 |**2026-09-24**|**Beyond Model Size: Redesigning LiSenNet for embedded speech enhancement**|Clément Laroche et.al.|[2609.29866](http://arxiv.org/abs/2609.29866)|null|
 |**2026-09-24**|**Configurable-Bandwidth Time-Frequency Modeling for Efficient Full-Band Speech Enhancement Across Sampling Rates**|Ui-Hyeop Shin et.al.|[2609.29463](http://arxiv.org/abs/2609.29463)|null|
 |**2026-09-24**|**Transcript-Supervised Post-Training of Generative Speech Enhancement on Real Recordings via Reinforce Adjoint Matching**|Julius Richter et.al.|[2609.29405](http://arxiv.org/abs/2609.29405)|null|
 |**2026-09-24**|**The Vulnerability of Neural Audio Watermarks under Speech Enhancement**|Xincong Zhong et.al.|[2609.29040](http://arxiv.org/abs/2609.29040)|null|
+|**2026-09-24**|**Adapting Personalized Speech Enhancement for Low-Latency Audio-Visual Target-Speaker Extraction**|Rayhan Rashed et.al.|[2609.30631](http://arxiv.org/abs/2609.30631)|null|
 |**2026-09-22**|**SE-MSB: End-to-End Unpaired Speech Enhancement using Mamba Schrödinger Bridges**|Andreas Bagge et.al.|[2609.26000](http://arxiv.org/abs/2609.26000)|null|
 |**2026-09-22**|**Challenges of Multi-Speaker Extraction for Real Conversational Speech Enhancement**|Robert Sutherland et.al.|[2609.25948](http://arxiv.org/abs/2609.25948)|null|
 |**2026-09-21**|**P2Flow: Phoneme-aware Progressive Flow Matching for Extreme Speech Super-Resolution**|Ningyuan Yang et.al.|[2609.24138](http://arxiv.org/abs/2609.24138)|null|
 |**2026-09-19**|**Adaptive Depth and Expert Refinement for Efficient Speech Enhancement**|Xikun Lu et.al.|[2609.22824](http://arxiv.org/abs/2609.22824)|null|
 |**2026-09-18**|**SG-Mamba: Sparse Graph-Guided Mamba for Audio-Visual Speech Enhancement**|Guo-Ruei Tseng et.al.|[2609.18009](http://arxiv.org/abs/2609.18009)|null|
 |**2026-09-18**|**BLINC: Blind Calibration For Training-Free Speech Enhancement Adaptation**|Tobias Raichle et.al.|[2609.21898](http://arxiv.org/abs/2609.21898)|null|
-|**2026-09-18**|**HAMMER: Harmonic-Aware Parallel Context Modeling and Discriminator-Free Perceptual Optimization for Speech Enhancement**|Shang-Fu Chen et.al.|[2609.21171](http://arxiv.org/abs/2609.21171)|null|
 |**2026-09-16**|**Absolute Quality Ratings of Speech Enhancement Systems by Listeners of Different Ages and Degrees of Hearing Loss**|Matteo Torcoli et.al.|[2609.18714](http://arxiv.org/abs/2609.18714)|null|
 |**2026-09-16**|**Mask-Based Speech Enhancement for Spatial Audio: A Comparison of Ambisonics, Beamforming, and Microphone Channels**|Sheli Hendel et.al.|[2609.18532](http://arxiv.org/abs/2609.18532)|null|
 |**2026-09-14**|**Directivity-Conditioned Low-Latency Neural Filtering for Speech Enhancement in Hearing Aids**|Lennart Uphaus et.al.|[2609.15760](http://arxiv.org/abs/2609.15760)|null|
@@ -126,6 +128,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-09-24**|**Pushing the Boundaries of Streaming Multi-Speaker ASR: A Systematic Study of Architectural Trade-offs**|Taejin Park et.al.|[2609.10265](http://arxiv.org/abs/2609.10265)|null|
 |**2026-09-24**|**STAM-ASR: Speaker-Temporal Anchoring with Memory for Multi-Speaker ASR**|Victor Tolulope Olufemi et.al.|[2609.29805](http://arxiv.org/abs/2609.29805)|null|
+|**2026-09-24**|**Asymmetric Classifier-Free Guidance for Target-Speaker ASR**|Yiwen Guan et.al.|[2609.30476](http://arxiv.org/abs/2609.30476)|null|
 |**2026-09-17**|**Soft Posterior Speaker Injection for Multi-Talker Speech Recognition**|Jian Zhu et.al.|[2609.01287](http://arxiv.org/abs/2609.01287)|null|
 |**2026-08-23**|**Mitigating Speaker Leakage in Cascaded Multi-talker ASR with Diarization-based Transcript Correction**|Hermann Yepdjio Nkouanga et.al.|[2608.22196](http://arxiv.org/abs/2608.22196)|null|
 |**2026-08-12**|**The SLT 2026 SmartGlasses Challenge: Benchmarking Egocentric Multi-Talker Speech Recognition and Understanding with Audio-Language Models**|Dehui Gao et.al.|[2608.12034](http://arxiv.org/abs/2608.12034)|null|
@@ -151,9 +154,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-09-25**|**Dialogue-Based Streaming Audio-Visual Target Speaker Extraction with Predictive Dialogue Information**|Shuhan Zhang et.al.|[2609.30774](http://arxiv.org/abs/2609.30774)|null|
 |**2026-09-24**|**Exploring a Single Autoregressive LLM for Unified Target Speech Extraction across Synchronous and Asynchronous Cues**|Wenxuan Wu et.al.|[2609.29238](http://arxiv.org/abs/2609.29238)|null|
+|**2026-09-24**|**Adapting Personalized Speech Enhancement for Low-Latency Audio-Visual Target-Speaker Extraction**|Rayhan Rashed et.al.|[2609.30631](http://arxiv.org/abs/2609.30631)|null|
 |**2026-09-22**|**Challenges of Multi-Speaker Extraction for Real Conversational Speech Enhancement**|Robert Sutherland et.al.|[2609.25948](http://arxiv.org/abs/2609.25948)|null|
-|**2026-09-17**|**Beyond the Stability--Plasticity Frontier in Streaming Target Speaker Extraction**|Yuesheng Ma et.al.|[2609.20463](http://arxiv.org/abs/2609.20463)|**[link](https://github.com/ym2976/ttse-frontier)**|
+|**2026-09-17**|**Beyond the Stability--Plasticity Frontier in Streaming Target Speaker Extraction**|Yuesheng Ma et.al.|[2609.20463](http://arxiv.org/abs/2609.20463)|null|
 |**2026-08-10**|**BiTSE: Binaural Target Speaker Extraction in Noisy Multi-Talker Environments for AR Glass Arrays**|Selani A. Indrapala et.al.|[2608.10106](http://arxiv.org/abs/2608.10106)|null|
 |**2026-08-06**|**Identity-Faithful Audio-Visual Target Speaker Extraction with REAL-2MIX and VOXBLINK2-AVSE**|Peijun Yang et.al.|[2608.03964](http://arxiv.org/abs/2608.03964)|null|
 |**2026-08-03**|**SAGE: Switch-Aware EEG-Guided Soft Gating for Target Speaker Extraction with In-Trial Switching**|Xuefei Wang et.al.|[2608.01623](http://arxiv.org/abs/2608.01623)|null|
