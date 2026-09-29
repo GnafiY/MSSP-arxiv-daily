@@ -1,4 +1,4 @@
-> Updated on 2026.09.28
+> Updated on 2026.09.29
 > Usage instructions: [here](./README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -44,8 +44,10 @@
 - 2026-04-28, **StrADiff: A Structured Source-Wise Adaptive Diffusion Framework for Linear and Nonlinear Blind Source Separation**, Yuan-Hao Wei et.al., Paper: [http://arxiv.org/abs/2604.04973](http://arxiv.org/abs/2604.04973)
 - 2026-03-27, **Cinematic Audio Source Separation Using Visual Cues**, Kang Zhang et.al., Paper: [http://arxiv.org/abs/2603.26113](http://arxiv.org/abs/2603.26113)
 - 2026-09-20, **LiteCASS: A Lightweight End-to-End Network for Real-Time Stereo Cinematic Audio Source Separation**, Yuanxin Guo et.al., Paper: [http://arxiv.org/abs/2609.23453](http://arxiv.org/abs/2609.23453)
+- 2026-09-27, **Transformer-based Neural Beamforming for Real-Time Speech Enhancement on Smart Low-Power Hearable Devices**, Luca Bompani et.al., Paper: [http://arxiv.org/abs/2609.33755](http://arxiv.org/abs/2609.33755)
+- 2026-09-20, **RadarVox: Radar-Audio Multimodal Cocktail-Party Speech Separation with Speaker-Aware Cross-Modal Matching**, Yanlin Xu et.al., Paper: [http://arxiv.org/abs/2609.31708](http://arxiv.org/abs/2609.31708)
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
 ## Speech Enhancement
 
@@ -83,8 +85,11 @@
 - 2026-09-24, **The Vulnerability of Neural Audio Watermarks under Speech Enhancement**, Xincong Zhong et.al., Paper: [http://arxiv.org/abs/2609.29040](http://arxiv.org/abs/2609.29040)
 - 2026-09-25, **Room Impulse Response Embeddings for Speech Enhancement in Noisy and Reverberant Environments**, Adrian Meise et.al., Paper: [http://arxiv.org/abs/2609.31041](http://arxiv.org/abs/2609.31041)
 - 2026-09-24, **Adapting Personalized Speech Enhancement for Low-Latency Audio-Visual Target-Speaker Extraction**, Rayhan Rashed et.al., Paper: [http://arxiv.org/abs/2609.30631](http://arxiv.org/abs/2609.30631)
+- 2026-09-28, **Domain-Incremental Learning for Generative Speech Enhancement**, Manjunath Mulimani et.al., Paper: [http://arxiv.org/abs/2609.34901](http://arxiv.org/abs/2609.34901)
+- 2026-09-28, **Unsupervised Speech Enhancement via Drifting**, Diego Caviedes-Nozal et.al., Paper: [http://arxiv.org/abs/2609.34662](http://arxiv.org/abs/2609.34662)
+- 2026-09-27, **Transformer-based Neural Beamforming for Real-Time Speech Enhancement on Smart Low-Power Hearable Devices**, Luca Bompani et.al., Paper: [http://arxiv.org/abs/2609.33755](http://arxiv.org/abs/2609.33755)
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
 ## Speaker Diarization
 
@@ -125,7 +130,7 @@
 - 2026-09-23, **The Second MLC-SLM Challenge: Multilingual Conversational Speech Diarization, Recognition, and Understanding**, Bingshen Mu et.al., Paper: [http://arxiv.org/abs/2609.27514](http://arxiv.org/abs/2609.27514)
 - 2026-09-23, **Beyond DER: Speaker Counting in Crowded End-to-End Diarization**, Lahiru Samarakoon et.al., Paper: [http://arxiv.org/abs/2609.27315](http://arxiv.org/abs/2609.27315)
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
 ## Multi-Talker ASR (Speaker-Attributed ASR)
 
@@ -152,8 +157,9 @@
 - 2026-07-22, **Beyond WER: Entity and Disfluency Recall in Accented Conversational ASR**, Fiza Husain et.al., Paper: [http://arxiv.org/abs/2609.20828](http://arxiv.org/abs/2609.20828)
 - 2026-09-24, **STAM-ASR: Speaker-Temporal Anchoring with Memory for Multi-Speaker ASR**, Victor Tolulope Olufemi et.al., Paper: [http://arxiv.org/abs/2609.29805](http://arxiv.org/abs/2609.29805)
 - 2026-09-24, **Asymmetric Classifier-Free Guidance for Target-Speaker ASR**, Yiwen Guan et.al., Paper: [http://arxiv.org/abs/2609.30476](http://arxiv.org/abs/2609.30476)
+- 2026-09-27, **Unified Target-Speaker ASR with Text and Enrollment Speech Cues**, Yuxiang Mei et.al., Paper: [http://arxiv.org/abs/2609.33853](http://arxiv.org/abs/2609.33853)
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
 ## Target Speaker Extraction
 
@@ -181,6 +187,8 @@
 - 2026-09-24, **Exploring a Single Autoregressive LLM for Unified Target Speech Extraction across Synchronous and Asynchronous Cues**, Wenxuan Wu et.al., Paper: [http://arxiv.org/abs/2609.29238](http://arxiv.org/abs/2609.29238)
 - 2026-09-25, **Dialogue-Based Streaming Audio-Visual Target Speaker Extraction with Predictive Dialogue Information**, Shuhan Zhang et.al., Paper: [http://arxiv.org/abs/2609.30774](http://arxiv.org/abs/2609.30774)
 - 2026-09-24, **Adapting Personalized Speech Enhancement for Low-Latency Audio-Visual Target-Speaker Extraction**, Rayhan Rashed et.al., Paper: [http://arxiv.org/abs/2609.30631](http://arxiv.org/abs/2609.30631)
+- 2026-09-28, **Multimodal Target Speaker Extraction: Towards Unified Speaker Cues Across Modalities**, Xinyuan Qian et.al., Paper: [http://arxiv.org/abs/2609.35613](http://arxiv.org/abs/2609.35613)
+- 2026-09-28, **RemixIT-TSE: Progressive Synthetic-to-Real Adaptation for Target Speech Extraction via Target-Aware Supervision and Remixing**, Yu Wang et.al., Paper: [http://arxiv.org/abs/2609.35118](http://arxiv.org/abs/2609.35118)
 
-<p align=right>(<a href=#updated-on-20260928>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
 
