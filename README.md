@@ -1,6 +1,6 @@
 # MSSP Paper Skim
 
-## Updated on 2026.09.29
+## Updated on 2026.10.01
 > Usage instructions: [here](./docs/README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -51,12 +51,13 @@
 |**2025-11-10**|**Speech Separation for Hearing-Impaired Children in the Classroom**|Feyisayo Olalere et.al.|[2511.07677](http://arxiv.org/abs/2511.07677)|null|
 |**2025-11-05**|**Neural Beamforming with Doppler-Aware Sparse Attention for High Mobility Environments**|Cemil Vahapoglu et.al.|[2511.03632](http://arxiv.org/abs/2511.03632)|null|
 
-<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## Speech Enhancement
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-30**|**How Reliable Are Predicted MOS for Reproducing Human System-Level Preferences in Speech Enhancement?**|Nahomi Kusunoki et.al.|[2609.39032](http://arxiv.org/abs/2609.39032)|null|
 |**2026-09-28**|**Domain-Incremental Learning for Generative Speech Enhancement**|Manjunath Mulimani et.al.|[2609.34901](http://arxiv.org/abs/2609.34901)|null|
 |**2026-09-28**|**Unsupervised Speech Enhancement via Drifting**|Diego Caviedes-Nozal et.al.|[2609.34662](http://arxiv.org/abs/2609.34662)|null|
 |**2026-09-27**|**Transformer-based Neural Beamforming for Real-Time Speech Enhancement on Smart Low-Power Hearable Devices**|Luca Bompani et.al.|[2609.33755](http://arxiv.org/abs/2609.33755)|null|
@@ -95,12 +96,13 @@
 |**2026-08-21**|**μNet: Ultra-Low-Memory and Low-Complexity Speech Enhancement for Embedded Digital Signal Processors**|Shrishti Saha Shetu et.al.|[2608.21155](http://arxiv.org/abs/2608.21155)|null|
 |**2026-08-21**|**Grounded Decoding for Autoregressive Speech Enhancement via Adaptive Code-Space Grounding and Local LLM Refinement**|Hao Shi et.al.|[2609.04245](http://arxiv.org/abs/2609.04245)|null|
 
-<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## Speaker Diarization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-30**|**Training-Free Affinity Fusion of Neural and Embedding-Based Speaker Diarization**|Yehoshua Dissen et.al.|[2609.39162](http://arxiv.org/abs/2609.39162)|null|
 |**2026-09-23**|**Diarization Error Decomposition Under Pause Annotation Ambiguity**|Shota Horiguchi et.al.|[2609.11007](http://arxiv.org/abs/2609.11007)|null|
 |**2026-09-23**|**The Second MLC-SLM Challenge: Multilingual Conversational Speech Diarization, Recognition, and Understanding**|Bingshen Mu et.al.|[2609.27514](http://arxiv.org/abs/2609.27514)|null|
 |**2026-09-23**|**Beyond DER: Speaker Counting in Crowded End-to-End Diarization**|Lahiru Samarakoon et.al.|[2609.27315](http://arxiv.org/abs/2609.27315)|null|
@@ -138,12 +140,13 @@
 |**2026-02-26**|**Make It Hard to Hear, Easy to Learn: Long-Form Bengali ASR and Speaker Diarization via Extreme Augmentation and Perfect Alignment**|Sanjid Hasan et.al.|[2602.23070](http://arxiv.org/abs/2602.23070)|null|
 |**2026-02-26**|**A Holistic Framework for Robust Bangla ASR and Speaker Diarization with Optimized VAD and CTC Alignment**|Zarif Ishmam et.al.|[2602.22935](http://arxiv.org/abs/2602.22935)|null|
 
-<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## Multi-Talker ASR (Speaker-Attributed ASR)
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-09-29**|**Beyond Acoustic Prefixes: Persistent Access to Serialized Acoustic Memory for LLM-Based Multi-Talker Speech Recognition**|Hao Shi et.al.|[2603.27205](http://arxiv.org/abs/2603.27205)|null|
 |**2026-09-27**|**Unified Target-Speaker ASR with Text and Enrollment Speech Cues**|Yuxiang Mei et.al.|[2609.33853](http://arxiv.org/abs/2609.33853)|null|
 |**2026-09-24**|**Pushing the Boundaries of Streaming Multi-Speaker ASR: A Systematic Study of Architectural Trade-offs**|Taejin Park et.al.|[2609.10265](http://arxiv.org/abs/2609.10265)|null|
 |**2026-09-24**|**STAM-ASR: Speaker-Temporal Anchoring with Memory for Multi-Speaker ASR**|Victor Tolulope Olufemi et.al.|[2609.29805](http://arxiv.org/abs/2609.29805)|null|
@@ -154,7 +157,6 @@
 |**2026-07-22**|**Beyond WER: Entity and Disfluency Recall in Accented Conversational ASR**|Fiza Husain et.al.|[2609.20828](http://arxiv.org/abs/2609.20828)|null|
 |**2026-07-13**|**TagSpeech: End-to-End Multi-Speaker ASR and Diarization with Fine-Grained Temporal Grounding**|Mingyue Huo et.al.|[2601.06896](http://arxiv.org/abs/2601.06896)|null|
 |**2026-07-02**|**H-SAGE: Holistic Speaker-Aware Guided Experts for MoE-based Multi-Talker ASR**|Yujie Guo et.al.|[2607.01566](http://arxiv.org/abs/2607.01566)|null|
-|**2026-06-21**|**Beyond Acoustic Prefixes: Persistent Grounding in Serialized Acoustic Memory for LLM-Based Multi-Talker Speech Recognition**|Hao Shi et.al.|[2603.27205](http://arxiv.org/abs/2603.27205)|null|
 |**2026-06-11**|**Balancing ASR and diarization in end-to-end LLMs for multi-talker speech recognition**|Naijun Zheng et.al.|[2606.13095](http://arxiv.org/abs/2606.13095)|null|
 |**2026-05-14**|**Mind the Gap: Impact of Synthetic Conversational Data on Multi-Talker ASR and Speaker Diarization**|Alexander Polok et.al.|[2605.15442](http://arxiv.org/abs/2605.15442)|null|
 |**2026-05-13**|**CALM: Joint Contextual Acoustic-Linguistic Modeling for Personalization of Multi-Speaker ASR**|Muhammad Shakeel et.al.|[2601.22792](http://arxiv.org/abs/2601.22792)|null|
@@ -169,7 +171,7 @@
 |**2025-10-04**|**Scaling Multi-Talker ASR with Speaker-Agnostic Activity Streams**|Xiluo He et.al.|[2510.03630](http://arxiv.org/abs/2510.03630)|null|
 |**2025-09-23**|**LOTUSDIS: A Thai far-field meeting corpus for robust conversational ASR**|Pattara Tipaksorn et.al.|[2509.18722](http://arxiv.org/abs/2509.18722)|null|
 
-<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## Target Speaker Extraction
 
@@ -202,5 +204,5 @@
 |**2026-03-23**|**VorTEX: Various overlap ratio for Target speech EXtraction**|Ro-hoon Oh et.al.|[2603.14803](http://arxiv.org/abs/2603.14803)|null|
 |**2026-03-17**|**HRTF-guided Binaural Target Speaker Extraction with Real-World Validation**|Yoav Ellinson et.al.|[2603.16668](http://arxiv.org/abs/2603.16668)|null|
 
-<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 

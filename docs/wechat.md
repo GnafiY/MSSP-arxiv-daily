@@ -1,4 +1,4 @@
-> Updated on 2026.09.29
+> Updated on 2026.10.01
 > Usage instructions: [here](./README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -47,7 +47,7 @@
 - 2026-09-27, **Transformer-based Neural Beamforming for Real-Time Speech Enhancement on Smart Low-Power Hearable Devices**, Luca Bompani et.al., Paper: [http://arxiv.org/abs/2609.33755](http://arxiv.org/abs/2609.33755)
 - 2026-09-20, **RadarVox: Radar-Audio Multimodal Cocktail-Party Speech Separation with Speaker-Aware Cross-Modal Matching**, Yanlin Xu et.al., Paper: [http://arxiv.org/abs/2609.31708](http://arxiv.org/abs/2609.31708)
 
-<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## Speech Enhancement
 
@@ -88,8 +88,9 @@
 - 2026-09-28, **Domain-Incremental Learning for Generative Speech Enhancement**, Manjunath Mulimani et.al., Paper: [http://arxiv.org/abs/2609.34901](http://arxiv.org/abs/2609.34901)
 - 2026-09-28, **Unsupervised Speech Enhancement via Drifting**, Diego Caviedes-Nozal et.al., Paper: [http://arxiv.org/abs/2609.34662](http://arxiv.org/abs/2609.34662)
 - 2026-09-27, **Transformer-based Neural Beamforming for Real-Time Speech Enhancement on Smart Low-Power Hearable Devices**, Luca Bompani et.al., Paper: [http://arxiv.org/abs/2609.33755](http://arxiv.org/abs/2609.33755)
+- 2026-09-30, **How Reliable Are Predicted MOS for Reproducing Human System-Level Preferences in Speech Enhancement?**, Nahomi Kusunoki et.al., Paper: [http://arxiv.org/abs/2609.39032](http://arxiv.org/abs/2609.39032)
 
-<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## Speaker Diarization
 
@@ -129,8 +130,9 @@
 - 2026-09-19, **Speech Language Models for Full-Meeting Speaker Diarization: Capabilities and Limitations**, Jialu Li et.al., Paper: [http://arxiv.org/abs/2609.23114](http://arxiv.org/abs/2609.23114)
 - 2026-09-23, **The Second MLC-SLM Challenge: Multilingual Conversational Speech Diarization, Recognition, and Understanding**, Bingshen Mu et.al., Paper: [http://arxiv.org/abs/2609.27514](http://arxiv.org/abs/2609.27514)
 - 2026-09-23, **Beyond DER: Speaker Counting in Crowded End-to-End Diarization**, Lahiru Samarakoon et.al., Paper: [http://arxiv.org/abs/2609.27315](http://arxiv.org/abs/2609.27315)
+- 2026-09-30, **Training-Free Affinity Fusion of Neural and Embedding-Based Speaker Diarization**, Yehoshua Dissen et.al., Paper: [http://arxiv.org/abs/2609.39162](http://arxiv.org/abs/2609.39162)
 
-<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## Multi-Talker ASR (Speaker-Attributed ASR)
 
@@ -143,7 +145,7 @@
 - 2026-05-14, **Mind the Gap: Impact of Synthetic Conversational Data on Multi-Talker ASR and Speaker Diarization**, Alexander Polok et.al., Paper: [http://arxiv.org/abs/2605.15442](http://arxiv.org/abs/2605.15442)
 - 2026-04-24, **DM-ASR: Diarization-aware Multi-speaker ASR with Large Language Models**, Li Li et.al., Paper: [http://arxiv.org/abs/2604.22467](http://arxiv.org/abs/2604.22467)
 - 2026-04-03, **Speaker-Reasoner: Scaling Interaction Turns and Reasoning Patterns for Timestamped Speaker-Attributed ASR**, Zhennan Lin et.al., Paper: [http://arxiv.org/abs/2604.03074](http://arxiv.org/abs/2604.03074)
-- 2026-06-21, **Beyond Acoustic Prefixes: Persistent Grounding in Serialized Acoustic Memory for LLM-Based Multi-Talker Speech Recognition**, Hao Shi et.al., Paper: [http://arxiv.org/abs/2603.27205](http://arxiv.org/abs/2603.27205)
+- 2026-09-29, **Beyond Acoustic Prefixes: Persistent Access to Serialized Acoustic Memory for LLM-Based Multi-Talker Speech Recognition**, Hao Shi et.al., Paper: [http://arxiv.org/abs/2603.27205](http://arxiv.org/abs/2603.27205)
 - 2026-03-24, **Who Spoke What When? Evaluating Spoken Language Models for Conversational ASR with Semantic and Overlap-Aware Metrics**, Naohiro Tawara et.al., Paper: [http://arxiv.org/abs/2603.22709](http://arxiv.org/abs/2603.22709)
 - 2026-03-11, **Distilling LLM Semantic Priors into Encoder-Only Multi-Talker ASR with Talker-Count Routing**, Hao Shi et.al., Paper: [http://arxiv.org/abs/2603.10587](http://arxiv.org/abs/2603.10587)
 - 2026-05-13, **CALM: Joint Contextual Acoustic-Linguistic Modeling for Personalization of Multi-Speaker ASR**, Muhammad Shakeel et.al., Paper: [http://arxiv.org/abs/2601.22792](http://arxiv.org/abs/2601.22792)
@@ -159,7 +161,7 @@
 - 2026-09-24, **Asymmetric Classifier-Free Guidance for Target-Speaker ASR**, Yiwen Guan et.al., Paper: [http://arxiv.org/abs/2609.30476](http://arxiv.org/abs/2609.30476)
 - 2026-09-27, **Unified Target-Speaker ASR with Text and Enrollment Speech Cues**, Yuxiang Mei et.al., Paper: [http://arxiv.org/abs/2609.33853](http://arxiv.org/abs/2609.33853)
 
-<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
 ## Target Speaker Extraction
 
@@ -190,5 +192,5 @@
 - 2026-09-28, **Multimodal Target Speaker Extraction: Towards Unified Speaker Cues Across Modalities**, Xinyuan Qian et.al., Paper: [http://arxiv.org/abs/2609.35613](http://arxiv.org/abs/2609.35613)
 - 2026-09-28, **RemixIT-TSE: Progressive Synthetic-to-Real Adaptation for Target Speech Extraction via Target-Aware Supervision and Remixing**, Yu Wang et.al., Paper: [http://arxiv.org/abs/2609.35118](http://arxiv.org/abs/2609.35118)
 
-<p align=right>(<a href=#updated-on-20260929>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
