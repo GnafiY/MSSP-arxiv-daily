@@ -4,7 +4,7 @@ layout: default
 
 # MSSP Paper Skim
 
-## Updated on 2026.10.02
+## Updated on 2026.10.03
 > Usage instructions: [here](./README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -148,7 +148,7 @@ layout: default
 |**2026-05-14**|**Mind the Gap: Impact of Synthetic Conversational Data on Multi-Talker ASR and Speaker Diarization**|Alexander Polok et.al.|[2605.15442](http://arxiv.org/abs/2605.15442)|null|
 |**2026-05-13**|**CALM: Joint Contextual Acoustic-Linguistic Modeling for Personalization of Multi-Speaker ASR**|Muhammad Shakeel et.al.|[2601.22792](http://arxiv.org/abs/2601.22792)|null|
 |**2026-04-24**|**DM-ASR: Diarization-aware Multi-speaker ASR with Large Language Models**|Li Li et.al.|[2604.22467](http://arxiv.org/abs/2604.22467)|null|
-|**2026-04-03**|**Speaker-Reasoner: Scaling Interaction Turns and Reasoning Patterns for Timestamped Speaker-Attributed ASR**|Zhennan Lin et.al.|[2604.03074](http://arxiv.org/abs/2604.03074)|null|
+|**2026-04-03**|**Speaker-Reasoner: Scaling Interaction Turns and Reasoning Patterns for Timestamped Speaker-Attributed ASR**|Zhennan Lin et.al.|[2604.03074](http://arxiv.org/abs/2604.03074)|**[link](https://github.com/ASLP-lab/Speaker-Reasoner)**|
 |**2026-03-24**|**Who Spoke What When? Evaluating Spoken Language Models for Conversational ASR with Semantic and Overlap-Aware Metrics**|Naohiro Tawara et.al.|[2603.22709](http://arxiv.org/abs/2603.22709)|null|
 |**2026-03-19**|**GLAD: Global-Local Aware Dynamic Mixture-of-Experts for Multi-Talker ASR**|Yujie Guo et.al.|[2509.13093](http://arxiv.org/abs/2509.13093)|null|
 |**2026-03-11**|**Distilling LLM Semantic Priors into Encoder-Only Multi-Talker ASR with Talker-Count Routing**|Hao Shi et.al.|[2603.10587](http://arxiv.org/abs/2603.10587)|null|
