@@ -46,6 +46,7 @@
 - 2026-09-20, **LiteCASS: A Lightweight End-to-End Network for Real-Time Stereo Cinematic Audio Source Separation**, Yuanxin Guo et.al., Paper: [http://arxiv.org/abs/2609.23453](http://arxiv.org/abs/2609.23453)
 - 2026-09-27, **Transformer-based Neural Beamforming for Real-Time Speech Enhancement on Smart Low-Power Hearable Devices**, Luca Bompani et.al., Paper: [http://arxiv.org/abs/2609.33755](http://arxiv.org/abs/2609.33755)
 - 2026-09-20, **RadarVox: Radar-Audio Multimodal Cocktail-Party Speech Separation with Speaker-Aware Cross-Modal Matching**, Yanlin Xu et.al., Paper: [http://arxiv.org/abs/2609.31708](http://arxiv.org/abs/2609.31708)
+- 2026-10-02, **GAANet: Global-guided Asymmetric Attention Network for Audio-Visual Speech Separation**, Zhiyuan Zhang et.al., Paper: [http://arxiv.org/abs/2610.02752](http://arxiv.org/abs/2610.02752)
 
 <p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
 
@@ -131,6 +132,7 @@
 - 2026-09-23, **The Second MLC-SLM Challenge: Multilingual Conversational Speech Diarization, Recognition, and Understanding**, Bingshen Mu et.al., Paper: [http://arxiv.org/abs/2609.27514](http://arxiv.org/abs/2609.27514)
 - 2026-09-23, **Beyond DER: Speaker Counting in Crowded End-to-End Diarization**, Lahiru Samarakoon et.al., Paper: [http://arxiv.org/abs/2609.27315](http://arxiv.org/abs/2609.27315)
 - 2026-09-30, **Training-Free Affinity Fusion of Neural and Embedding-Based Speaker Diarization**, Yehoshua Dissen et.al., Paper: [http://arxiv.org/abs/2609.39162](http://arxiv.org/abs/2609.39162)
+- 2026-10-02, **FASTDIAR: Frame-level speaker encoder for Streaming Diarization**, Nikita Torgashov et.al., Paper: [http://arxiv.org/abs/2610.02941](http://arxiv.org/abs/2610.02941)
 
 <p align=right>(<a href=#updated-on-20261005>back to top</a>)</p>
 
