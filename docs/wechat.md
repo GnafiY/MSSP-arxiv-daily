@@ -1,4 +1,4 @@
-> Updated on 2026.10.06
+> Updated on 2026.10.07
 > Usage instructions: [here](./README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -48,8 +48,9 @@
 - 2026-09-20, **RadarVox: Radar-Audio Multimodal Cocktail-Party Speech Separation with Speaker-Aware Cross-Modal Matching**, Yanlin Xu et.al., Paper: [http://arxiv.org/abs/2609.31708](http://arxiv.org/abs/2609.31708)
 - 2026-10-02, **GAANet: Global-guided Asymmetric Attention Network for Audio-Visual Speech Separation**, Zhiyuan Zhang et.al., Paper: [http://arxiv.org/abs/2610.02752](http://arxiv.org/abs/2610.02752)
 - 2026-10-05, **Sample Dependence-Aware Blind Source Separation for Linear Causal Discovery**, Cihan Eralp Kumbasar et.al., Paper: [http://arxiv.org/abs/2610.06656](http://arxiv.org/abs/2610.06656)
+- 2026-10-05, **SEAL: Mixture-Closed Additive Reconstruction and Refinement-Aware Expert Routing for Efficient Speech Separation**, Shao-Chun Hu et.al., Paper: [http://arxiv.org/abs/2610.07047](http://arxiv.org/abs/2610.07047)
 
-<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
 
 ## Speech Enhancement
 
@@ -94,7 +95,7 @@
 - 2026-10-05, **AuraSE: Low-Hallucination Generative Speech Enhancement via Multimodal Flow Matching and Inference Policy Optimization**, Yingda Shen et.al., Paper: [http://arxiv.org/abs/2610.06632](http://arxiv.org/abs/2610.06632)
 - 2026-10-04, **UltraM2M: Leveraging Text Transcripts and Mixture Constraints for Weakly-Supervised Speech Enhancement**,  Liu et.al., Paper: [http://arxiv.org/abs/2610.05155](http://arxiv.org/abs/2610.05155)
 
-<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
 
 ## Speaker Diarization
 
@@ -136,8 +137,9 @@
 - 2026-09-23, **Beyond DER: Speaker Counting in Crowded End-to-End Diarization**, Lahiru Samarakoon et.al., Paper: [http://arxiv.org/abs/2609.27315](http://arxiv.org/abs/2609.27315)
 - 2026-09-30, **Training-Free Affinity Fusion of Neural and Embedding-Based Speaker Diarization**, Yehoshua Dissen et.al., Paper: [http://arxiv.org/abs/2609.39162](http://arxiv.org/abs/2609.39162)
 - 2026-10-02, **FASTDIAR: Frame-level speaker encoder for Streaming Diarization**, Nikita Torgashov et.al., Paper: [http://arxiv.org/abs/2610.02941](http://arxiv.org/abs/2610.02941)
+- 2026-10-06, **HINTT Submission to the 2nd MLC-SLM Challenge: Comparing Cascaded and Unified Approaches to Diarization and ASR**, Takanori Ashihara et.al., Paper: [http://arxiv.org/abs/2610.08063](http://arxiv.org/abs/2610.08063)
 
-<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
 
 ## Multi-Talker ASR (Speaker-Attributed ASR)
 
@@ -166,7 +168,7 @@
 - 2026-09-24, **Asymmetric Classifier-Free Guidance for Target-Speaker ASR**, Yiwen Guan et.al., Paper: [http://arxiv.org/abs/2609.30476](http://arxiv.org/abs/2609.30476)
 - 2026-09-27, **Unified Target-Speaker ASR with Text and Enrollment Speech Cues**, Yuxiang Mei et.al., Paper: [http://arxiv.org/abs/2609.33853](http://arxiv.org/abs/2609.33853)
 
-<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
 
 ## Target Speaker Extraction
 
@@ -197,5 +199,5 @@
 - 2026-09-28, **Multimodal Target Speaker Extraction: Towards Unified Speaker Cues Across Modalities**, Xinyuan Qian et.al., Paper: [http://arxiv.org/abs/2609.35613](http://arxiv.org/abs/2609.35613)
 - 2026-09-28, **RemixIT-TSE: Progressive Synthetic-to-Real Adaptation for Target Speech Extraction via Target-Aware Supervision and Remixing**, Yu Wang et.al., Paper: [http://arxiv.org/abs/2609.35118](http://arxiv.org/abs/2609.35118)
 
-<p align=right>(<a href=#updated-on-20261006>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261007>back to top</a>)</p>
 

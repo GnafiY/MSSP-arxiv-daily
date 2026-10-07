@@ -4,7 +4,7 @@ layout: default
 
 # MSSP Paper Skim
 
-## Updated on 2026.10.06
+## Updated on 2026.10.07
 > Usage instructions: [here](./README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -14,6 +14,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2026-10-05**|**Sample Dependence-Aware Blind Source Separation for Linear Causal Discovery**|Cihan Eralp Kumbasar et.al.|[2610.06656](http://arxiv.org/abs/2610.06656)|null|
+|**2026-10-05**|**SEAL: Mixture-Closed Additive Reconstruction and Refinement-Aware Expert Routing for Efficient Speech Separation**|Shao-Chun Hu et.al.|[2610.07047](http://arxiv.org/abs/2610.07047)|null|
 |**2026-10-02**|**GAANet: Global-guided Asymmetric Attention Network for Audio-Visual Speech Separation**|Zhiyuan Zhang et.al.|[2610.02752](http://arxiv.org/abs/2610.02752)|null|
 |**2026-09-27**|**Transformer-based Neural Beamforming for Real-Time Speech Enhancement on Smart Low-Power Hearable Devices**|Luca Bompani et.al.|[2609.33755](http://arxiv.org/abs/2609.33755)|null|
 |**2026-09-20**|**LiteCASS: A Lightweight End-to-End Network for Real-Time Stereo Cinematic Audio Source Separation**|Yuanxin Guo et.al.|[2609.23453](http://arxiv.org/abs/2609.23453)|null|
@@ -95,6 +96,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-06**|**HINTT Submission to the 2nd MLC-SLM Challenge: Comparing Cascaded and Unified Approaches to Diarization and ASR**|Takanori Ashihara et.al.|[2610.08063](http://arxiv.org/abs/2610.08063)|null|
 |**2026-10-02**|**FASTDIAR: Frame-level speaker encoder for Streaming Diarization**|Nikita Torgashov et.al.|[2610.02941](http://arxiv.org/abs/2610.02941)|null|
 |**2026-09-30**|**Training-Free Affinity Fusion of Neural and Embedding-Based Speaker Diarization**|Yehoshua Dissen et.al.|[2609.39162](http://arxiv.org/abs/2609.39162)|null|
 |**2026-09-23**|**Diarization Error Decomposition Under Pause Annotation Ambiguity**|Shota Horiguchi et.al.|[2609.11007](http://arxiv.org/abs/2609.11007)|null|
