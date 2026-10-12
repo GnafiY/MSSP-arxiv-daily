@@ -98,6 +98,7 @@
 - 2026-10-04, **UltraM2M: Leveraging Text Transcripts and Mixture Constraints for Weakly-Supervised Speech Enhancement**,  Liu et.al., Paper: [http://arxiv.org/abs/2610.05155](http://arxiv.org/abs/2610.05155)
 - 2026-10-07, **LIFT-SE: Linguistic Inference Followed by Flow Transformation for Generative Speech Enhancement**, Haoyin Yan et.al., Paper: [http://arxiv.org/abs/2610.09963](http://arxiv.org/abs/2610.09963)
 - 2026-10-06, **SwinDS-BWE: A Parameter-Efficient Swin-1D Lattice Generator with Decision-Science Discriminators for Speech Bandwidth Extension**, Tarikul Islam Tamiti et.al., Paper: [http://arxiv.org/abs/2610.09189](http://arxiv.org/abs/2610.09189)
+- 2026-10-08, **Efficient Audio-Visual Speech Enhancement via Reinforcement Learning-Based Neural Architecture Search**, Khubaib Ahmed et.al., Paper: [http://arxiv.org/abs/2610.12796](http://arxiv.org/abs/2610.12796)
 
 <p align=right>(<a href=#updated-on-20261012>back to top</a>)</p>
 
@@ -150,7 +151,7 @@
 ## Multi-Talker ASR (Speaker-Attributed ASR)
 
 - 2026-09-24, **Pushing the Boundaries of Streaming Multi-Speaker ASR: A Systematic Study of Architectural Trade-offs**, Taejin Park et.al., Paper: [http://arxiv.org/abs/2609.10265](http://arxiv.org/abs/2609.10265)
-- 2026-09-17, **Soft Posterior Speaker Injection for Multi-Talker Speech Recognition**, Jian Zhu et.al., Paper: [http://arxiv.org/abs/2609.01287](http://arxiv.org/abs/2609.01287)
+- 2026-09-17, **Soft Posterior Speaker Injection for Multi-Talker Speech Recognition**, Jian Zhu et.al., Paper: [http://arxiv.org/abs/2609.01287](http://arxiv.org/abs/2609.01287), Code: **[https://github.com/HackerHyper/SPSI](https://github.com/HackerHyper/SPSI)**
 - 2026-08-23, **Mitigating Speaker Leakage in Cascaded Multi-talker ASR with Diarization-based Transcript Correction**, Hermann Yepdjio Nkouanga et.al., Paper: [http://arxiv.org/abs/2608.22196](http://arxiv.org/abs/2608.22196)
 - 2026-08-12, **The SLT 2026 SmartGlasses Challenge: Benchmarking Egocentric Multi-Talker Speech Recognition and Understanding with Audio-Language Models**, Dehui Gao et.al., Paper: [http://arxiv.org/abs/2608.12034](http://arxiv.org/abs/2608.12034)
 - 2026-07-02, **H-SAGE: Holistic Speaker-Aware Guided Experts for MoE-based Multi-Talker ASR**, Yujie Guo et.al., Paper: [http://arxiv.org/abs/2607.01566](http://arxiv.org/abs/2607.01566)
@@ -204,6 +205,7 @@
 - 2026-09-24, **Adapting Personalized Speech Enhancement for Low-Latency Audio-Visual Target-Speaker Extraction**, Rayhan Rashed et.al., Paper: [http://arxiv.org/abs/2609.30631](http://arxiv.org/abs/2609.30631)
 - 2026-09-28, **Multimodal Target Speaker Extraction: Towards Unified Speaker Cues Across Modalities**, Xinyuan Qian et.al., Paper: [http://arxiv.org/abs/2609.35613](http://arxiv.org/abs/2609.35613)
 - 2026-09-28, **RemixIT-TSE: Progressive Synthetic-to-Real Adaptation for Target Speech Extraction via Target-Aware Supervision and Remixing**, Yu Wang et.al., Paper: [http://arxiv.org/abs/2609.35118](http://arxiv.org/abs/2609.35118)
+- 2026-10-09, **Phonology-Aware Speaker Extraction Frontend for Audio LLMs**, Yanxiang Chen et.al., Paper: [http://arxiv.org/abs/2610.13500](http://arxiv.org/abs/2610.13500)
 
 <p align=right>(<a href=#updated-on-20261012>back to top</a>)</p>
 
