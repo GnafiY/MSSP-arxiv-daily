@@ -4,7 +4,7 @@ layout: default
 
 # MSSP Paper Skim
 
-## Updated on 2026.10.14
+## Updated on 2026.10.15
 > Usage instructions: [here](./README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -106,6 +106,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-14**|**Anuvani-Diarization: Zero Shot Speaker Diarization and Annotation Conventions Across 22 Languages**|Stephen Fernandes et.al.|[2610.20327](http://arxiv.org/abs/2610.20327)|null|
 |**2026-10-11**|**Unsupervised Cross-device Speaker Diarization And Linking Through Spatiotemporal Structure**|Suhas BN et.al.|[2610.15978](http://arxiv.org/abs/2610.15978)|null|
 |**2026-10-08**|**Toward accurate speaker inventories for online speaker diarization**|Youngki Kwon et.al.|[2610.11278](http://arxiv.org/abs/2610.11278)|null|
 |**2026-10-06**|**HINTT Submission to the 2nd MLC-SLM Challenge: Comparing Cascaded and Unified Approaches to Diarization and ASR**|Takanori Ashihara et.al.|[2610.08063](http://arxiv.org/abs/2610.08063)|null|
