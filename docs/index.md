@@ -4,7 +4,7 @@ layout: default
 
 # MSSP Paper Skim
 
-## Updated on 2026.10.15
+## Updated on 2026.10.16
 > Usage instructions: [here](./README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -13,6 +13,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**CF-AVSS: A Coarse-to-Fine Audio-Visual Speech Separation Framework with Target-Speaker Refinement and Post-Fusion for Real-World AVSE Challenge**|Longjie Luo et.al.|[2610.21773](http://arxiv.org/abs/2610.21773)|null|
 |**2026-10-12**|**Spiking Neural Beamforming for Multichannel Speech Enhancement on the Edge**|Hanan Beit-On et.al.|[2610.16430](http://arxiv.org/abs/2610.16430)|null|
 |**2026-10-10**|**Learning Where to Split: Dynamic Band Splitting for Audio Source Separation**|Bingzhe Zhang et.al.|[2610.14993](http://arxiv.org/abs/2610.14993)|null|
 |**2026-10-07**|**A Study on Improving Multi-class Audio Source Separation Via Decoupled CLAP Query Optimization and an Automated Data Engine**|Amirhossein Hajavi et.al.|[2610.10025](http://arxiv.org/abs/2610.10025)|null|
@@ -55,6 +56,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-15**|**Rethinking Batch Composition: Promoting Feature Diversity for Speech Enhancement**|Mingchi Hou et.al.|[2610.21803](http://arxiv.org/abs/2610.21803)|null|
+|**2026-10-14**|**SNOAR: Self-training with Noise filtering, Observation adding, and Remixing for Speech Denoising Without Clean References**|Samuele Cornell et.al.|[2610.20863](http://arxiv.org/abs/2610.20863)|null|
 |**2026-10-13**|**Multimodal Contrastive Representation Learning Based Voice Conversion for Electrolaryngeal Speech Enhancement**|Ding Ma et.al.|[2610.17716](http://arxiv.org/abs/2610.17716)|null|
 |**2026-10-12**|**Active noise cancellation extends the benefit of AI speech enhancement in real hearing-aid recordings**|Andrew T. Sabin et.al.|[2610.17287](http://arxiv.org/abs/2610.17287)|null|
 |**2026-10-12**|**Spiking Neural Beamforming for Multichannel Speech Enhancement on the Edge**|Hanan Beit-On et.al.|[2610.16430](http://arxiv.org/abs/2610.16430)|null|
@@ -106,7 +109,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-14**|**Anuvani-Diarization: Zero Shot Speaker Diarization and Annotation Conventions Across 22 Languages**|Stephen Fernandes et.al.|[2610.20327](http://arxiv.org/abs/2610.20327)|null|
+|**2026-10-15**|**Anuvani-Diarization: Zero Shot Speaker Diarization and Annotation Conventions Across 22 Languages**|Stephen Fernandes et.al.|[2610.20327](http://arxiv.org/abs/2610.20327)|null|
 |**2026-10-11**|**Unsupervised Cross-device Speaker Diarization And Linking Through Spatiotemporal Structure**|Suhas BN et.al.|[2610.15978](http://arxiv.org/abs/2610.15978)|null|
 |**2026-10-08**|**Toward accurate speaker inventories for online speaker diarization**|Youngki Kwon et.al.|[2610.11278](http://arxiv.org/abs/2610.11278)|null|
 |**2026-10-06**|**HINTT Submission to the 2nd MLC-SLM Challenge: Comparing Cascaded and Unified Approaches to Diarization and ASR**|Takanori Ashihara et.al.|[2610.08063](http://arxiv.org/abs/2610.08063)|null|

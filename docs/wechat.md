@@ -1,4 +1,4 @@
-> Updated on 2026.10.15
+> Updated on 2026.10.16
 > Usage instructions: [here](./README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -53,8 +53,9 @@
 - 2026-10-07, **VM-ARRAYDPS: Virtual Microphone Augmented Diffusion Posterior Sampling for Unsupervised Blind Speech Separation**, Jingqi Sun et.al., Paper: [http://arxiv.org/abs/2610.09334](http://arxiv.org/abs/2610.09334)
 - 2026-10-12, **Spiking Neural Beamforming for Multichannel Speech Enhancement on the Edge**, Hanan Beit-On et.al., Paper: [http://arxiv.org/abs/2610.16430](http://arxiv.org/abs/2610.16430)
 - 2026-10-10, **Learning Where to Split: Dynamic Band Splitting for Audio Source Separation**, Bingzhe Zhang et.al., Paper: [http://arxiv.org/abs/2610.14993](http://arxiv.org/abs/2610.14993)
+- 2026-10-15, **CF-AVSS: A Coarse-to-Fine Audio-Visual Speech Separation Framework with Target-Speaker Refinement and Post-Fusion for Real-World AVSE Challenge**, Longjie Luo et.al., Paper: [http://arxiv.org/abs/2610.21773](http://arxiv.org/abs/2610.21773)
 
-<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 ## Speech Enhancement
 
@@ -104,8 +105,10 @@
 - 2026-10-13, **Multimodal Contrastive Representation Learning Based Voice Conversion for Electrolaryngeal Speech Enhancement**, Ding Ma et.al., Paper: [http://arxiv.org/abs/2610.17716](http://arxiv.org/abs/2610.17716)
 - 2026-10-12, **Active noise cancellation extends the benefit of AI speech enhancement in real hearing-aid recordings**, Andrew T. Sabin et.al., Paper: [http://arxiv.org/abs/2610.17287](http://arxiv.org/abs/2610.17287)
 - 2026-10-12, **Spiking Neural Beamforming for Multichannel Speech Enhancement on the Edge**, Hanan Beit-On et.al., Paper: [http://arxiv.org/abs/2610.16430](http://arxiv.org/abs/2610.16430)
+- 2026-10-15, **Rethinking Batch Composition: Promoting Feature Diversity for Speech Enhancement**, Mingchi Hou et.al., Paper: [http://arxiv.org/abs/2610.21803](http://arxiv.org/abs/2610.21803)
+- 2026-10-14, **SNOAR: Self-training with Noise filtering, Observation adding, and Remixing for Speech Denoising Without Clean References**, Samuele Cornell et.al., Paper: [http://arxiv.org/abs/2610.20863](http://arxiv.org/abs/2610.20863)
 
-<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 ## Speaker Diarization
 
@@ -151,9 +154,9 @@
 - 2026-09-26, **When Forgetting Looks Like Improvement: Metric Masking in Streaming Diarizer Adaptation and the Price of Rehearsal**, Mo Yu et.al., Paper: [http://arxiv.org/abs/2610.08828](http://arxiv.org/abs/2610.08828)
 - 2026-10-08, **Toward accurate speaker inventories for online speaker diarization**, Youngki Kwon et.al., Paper: [http://arxiv.org/abs/2610.11278](http://arxiv.org/abs/2610.11278)
 - 2026-10-11, **Unsupervised Cross-device Speaker Diarization And Linking Through Spatiotemporal Structure**, Suhas BN et.al., Paper: [http://arxiv.org/abs/2610.15978](http://arxiv.org/abs/2610.15978)
-- 2026-10-14, **Anuvani-Diarization: Zero Shot Speaker Diarization and Annotation Conventions Across 22 Languages**, Stephen Fernandes et.al., Paper: [http://arxiv.org/abs/2610.20327](http://arxiv.org/abs/2610.20327)
+- 2026-10-15, **Anuvani-Diarization: Zero Shot Speaker Diarization and Annotation Conventions Across 22 Languages**, Stephen Fernandes et.al., Paper: [http://arxiv.org/abs/2610.20327](http://arxiv.org/abs/2610.20327)
 
-<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 ## Multi-Talker ASR (Speaker-Attributed ASR)
 
@@ -182,7 +185,7 @@
 - 2026-09-24, **Asymmetric Classifier-Free Guidance for Target-Speaker ASR**, Yiwen Guan et.al., Paper: [http://arxiv.org/abs/2609.30476](http://arxiv.org/abs/2609.30476)
 - 2026-09-27, **Unified Target-Speaker ASR with Text and Enrollment Speech Cues**, Yuxiang Mei et.al., Paper: [http://arxiv.org/abs/2609.33853](http://arxiv.org/abs/2609.33853)
 
-<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
 ## Target Speaker Extraction
 
@@ -215,5 +218,5 @@
 - 2026-10-09, **Phonology-Aware Speaker Extraction Frontend for Audio LLMs**, Yanxiang Chen et.al., Paper: [http://arxiv.org/abs/2610.13500](http://arxiv.org/abs/2610.13500)
 - 2026-10-12, **What Makes Codec Tokens Effective for Target Speaker Extraction? A Semantic-Acoustic Disentanglement Perspective**, Wang Xiang et.al., Paper: [http://arxiv.org/abs/2610.16858](http://arxiv.org/abs/2610.16858)
 
-<p align=right>(<a href=#updated-on-20261015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261016>back to top</a>)</p>
 
