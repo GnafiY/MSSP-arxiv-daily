@@ -189,7 +189,7 @@
 
 ## Target Speaker Extraction
 
-- 2026-09-17, **Beyond the Stability--Plasticity Frontier in Streaming Target Speaker Extraction**, Yuesheng Ma et.al., Paper: [http://arxiv.org/abs/2609.20463](http://arxiv.org/abs/2609.20463)
+- 2026-09-17, **Beyond the Stability--Plasticity Frontier in Streaming Target Speaker Extraction**, Yuesheng Ma et.al., Paper: [http://arxiv.org/abs/2609.20463](http://arxiv.org/abs/2609.20463), Code: **[https://github.com/ym2976/ttse-frontier](https://github.com/ym2976/ttse-frontier)**
 - 2026-08-10, **BiTSE: Binaural Target Speaker Extraction in Noisy Multi-Talker Environments for AR Glass Arrays**, Selani A. Indrapala et.al., Paper: [http://arxiv.org/abs/2608.10106](http://arxiv.org/abs/2608.10106)
 - 2026-08-06, **Identity-Faithful Audio-Visual Target Speaker Extraction with REAL-2MIX and VOXBLINK2-AVSE**, Peijun Yang et.al., Paper: [http://arxiv.org/abs/2608.03964](http://arxiv.org/abs/2608.03964)
 - 2026-08-03, **SAGE: Switch-Aware EEG-Guided Soft Gating for Target Speaker Extraction with In-Trial Switching**, Xuefei Wang et.al., Paper: [http://arxiv.org/abs/2608.01623](http://arxiv.org/abs/2608.01623)
@@ -217,6 +217,7 @@
 - 2026-09-28, **RemixIT-TSE: Progressive Synthetic-to-Real Adaptation for Target Speech Extraction via Target-Aware Supervision and Remixing**, Yu Wang et.al., Paper: [http://arxiv.org/abs/2609.35118](http://arxiv.org/abs/2609.35118)
 - 2026-10-09, **Phonology-Aware Speaker Extraction Frontend for Audio LLMs**, Yanxiang Chen et.al., Paper: [http://arxiv.org/abs/2610.13500](http://arxiv.org/abs/2610.13500)
 - 2026-10-12, **What Makes Codec Tokens Effective for Target Speaker Extraction? A Semantic-Acoustic Disentanglement Perspective**, Wang Xiang et.al., Paper: [http://arxiv.org/abs/2610.16858](http://arxiv.org/abs/2610.16858)
+- 2026-10-16, **PromptSep-Speaker: Generative Target Speaker Extraction via Multimodal Prompting and Semantic Alignment**, Yutong Wen et.al., Paper: [http://arxiv.org/abs/2610.23066](http://arxiv.org/abs/2610.23066)
 
 <p align=right>(<a href=#updated-on-20261019>back to top</a>)</p>
 
