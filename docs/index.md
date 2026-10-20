@@ -4,7 +4,7 @@ layout: default
 
 # MSSP Paper Skim
 
-## Updated on 2026.10.19
+## Updated on 2026.10.20
 > Usage instructions: [here](./README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -56,6 +56,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-17**|**SpikeAid: A Streaming Spiking Hearing Aid Framework for Joint Noise Reduction and Wide Dynamic Range Compression**|Xiang Hao et.al.|[2610.24696](http://arxiv.org/abs/2610.24696)|null|
 |**2026-10-15**|**Rethinking Batch Composition: Promoting Feature Diversity for Speech Enhancement**|Mingchi Hou et.al.|[2610.21803](http://arxiv.org/abs/2610.21803)|null|
 |**2026-10-14**|**SNOAR: Self-training with Noise filtering, Observation adding, and Remixing for Speech Denoising Without Clean References**|Samuele Cornell et.al.|[2610.20863](http://arxiv.org/abs/2610.20863)|null|
 |**2026-10-13**|**Multimodal Contrastive Representation Learning Based Voice Conversion for Electrolaryngeal Speech Enhancement**|Ding Ma et.al.|[2610.17716](http://arxiv.org/abs/2610.17716)|null|
@@ -157,6 +158,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-19**|**MS-Bench: A Condition-Stratified Multi-Speaker ASR Benchmark**|Chunjiang He et.al.|[2610.25824](http://arxiv.org/abs/2610.25824)|null|
 |**2026-09-29**|**Beyond Acoustic Prefixes: Persistent Access to Serialized Acoustic Memory for LLM-Based Multi-Talker Speech Recognition**|Hao Shi et.al.|[2603.27205](http://arxiv.org/abs/2603.27205)|null|
 |**2026-09-27**|**Unified Target-Speaker ASR with Text and Enrollment Speech Cues**|Yuxiang Mei et.al.|[2609.33853](http://arxiv.org/abs/2609.33853)|null|
 |**2026-09-24**|**Pushing the Boundaries of Streaming Multi-Speaker ASR: A Systematic Study of Architectural Trade-offs**|Taejin Park et.al.|[2609.10265](http://arxiv.org/abs/2609.10265)|null|
@@ -195,7 +197,7 @@ layout: default
 |**2026-09-24**|**Exploring a Single Autoregressive LLM for Unified Target Speech Extraction across Synchronous and Asynchronous Cues**|Wenxuan Wu et.al.|[2609.29238](http://arxiv.org/abs/2609.29238)|null|
 |**2026-09-24**|**Adapting Personalized Speech Enhancement for Low-Latency Audio-Visual Target-Speaker Extraction**|Rayhan Rashed et.al.|[2609.30631](http://arxiv.org/abs/2609.30631)|null|
 |**2026-09-22**|**Challenges of Multi-Speaker Extraction for Real Conversational Speech Enhancement**|Robert Sutherland et.al.|[2609.25948](http://arxiv.org/abs/2609.25948)|null|
-|**2026-09-17**|**Beyond the Stability--Plasticity Frontier in Streaming Target Speaker Extraction**|Yuesheng Ma et.al.|[2609.20463](http://arxiv.org/abs/2609.20463)|**[link](https://github.com/ym2976/ttse-frontier)**|
+|**2026-09-17**|**Beyond the Stability--Plasticity Frontier in Streaming Target Speaker Extraction**|Yuesheng Ma et.al.|[2609.20463](http://arxiv.org/abs/2609.20463)|null|
 |**2026-08-10**|**BiTSE: Binaural Target Speaker Extraction in Noisy Multi-Talker Environments for AR Glass Arrays**|Selani A. Indrapala et.al.|[2608.10106](http://arxiv.org/abs/2608.10106)|null|
 |**2026-08-06**|**Identity-Faithful Audio-Visual Target Speaker Extraction with REAL-2MIX and VOXBLINK2-AVSE**|Peijun Yang et.al.|[2608.03964](http://arxiv.org/abs/2608.03964)|null|
 |**2026-08-03**|**SAGE: Switch-Aware EEG-Guided Soft Gating for Target Speaker Extraction with In-Trial Switching**|Xuefei Wang et.al.|[2608.01623](http://arxiv.org/abs/2608.01623)|null|
