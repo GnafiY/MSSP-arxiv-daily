@@ -4,7 +4,7 @@ layout: default
 
 # MSSP Paper Skim
 
-## Updated on 2026.10.20
+## Updated on 2026.10.21
 > Usage instructions: [here](./README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -13,9 +13,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-20**|**SLM-SS: Token-Based Speech Separation with Speech Language Models**|Chenda Li et.al.|[2610.27785](http://arxiv.org/abs/2610.27785)|null|
 |**2026-10-15**|**CF-AVSS: A Coarse-to-Fine Audio-Visual Speech Separation Framework with Target-Speaker Refinement and Post-Fusion for Real-World AVSE Challenge**|Longjie Luo et.al.|[2610.21773](http://arxiv.org/abs/2610.21773)|null|
 |**2026-10-12**|**Spiking Neural Beamforming for Multichannel Speech Enhancement on the Edge**|Hanan Beit-On et.al.|[2610.16430](http://arxiv.org/abs/2610.16430)|null|
-|**2026-10-10**|**Learning Where to Split: Dynamic Band Splitting for Audio Source Separation**|Bingzhe Zhang et.al.|[2610.14993](http://arxiv.org/abs/2610.14993)|null|
+|**2026-10-10**|**Learning Where to Split: Dynamic Band Splitting for Audio Source Separation**|Bingzhe Zhang et.al.|[2610.14993](http://arxiv.org/abs/2610.14993)|**[link](https://github.com/JusperLee/Dynamic-Band-Splitting)**|
 |**2026-10-07**|**A Study on Improving Multi-class Audio Source Separation Via Decoupled CLAP Query Optimization and an Automated Data Engine**|Amirhossein Hajavi et.al.|[2610.10025](http://arxiv.org/abs/2610.10025)|null|
 |**2026-10-07**|**VM-ARRAYDPS: Virtual Microphone Augmented Diffusion Posterior Sampling for Unsupervised Blind Speech Separation**|Jingqi Sun et.al.|[2610.09334](http://arxiv.org/abs/2610.09334)|null|
 |**2026-10-05**|**Sample Dependence-Aware Blind Source Separation for Linear Causal Discovery**|Cihan Eralp Kumbasar et.al.|[2610.06656](http://arxiv.org/abs/2610.06656)|null|
@@ -110,6 +111,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-20**|**Slots Are Not Speakers: Training-Free Speaker Linking for Frozen Streaming Diarizers**|Aditya Srinivas Menon et.al.|[2610.28053](http://arxiv.org/abs/2610.28053)|null|
 |**2026-10-15**|**Anuvani-Diarization: Zero Shot Speaker Diarization and Annotation Conventions Across 22 Languages**|Stephen Fernandes et.al.|[2610.20327](http://arxiv.org/abs/2610.20327)|null|
 |**2026-10-11**|**Unsupervised Cross-device Speaker Diarization And Linking Through Spatiotemporal Structure**|Suhas BN et.al.|[2610.15978](http://arxiv.org/abs/2610.15978)|null|
 |**2026-10-08**|**Toward accurate speaker inventories for online speaker diarization**|Youngki Kwon et.al.|[2610.11278](http://arxiv.org/abs/2610.11278)|null|
@@ -158,7 +160,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-10-19**|**MS-Bench: A Condition-Stratified Multi-Speaker ASR Benchmark**|Chunjiang He et.al.|[2610.25824](http://arxiv.org/abs/2610.25824)|null|
+|**2026-10-20**|**MS-Bench: A Condition-Stratified Multi-Speaker ASR Benchmark**|Chunjiang He et.al.|[2610.25824](http://arxiv.org/abs/2610.25824)|null|
 |**2026-09-29**|**Beyond Acoustic Prefixes: Persistent Access to Serialized Acoustic Memory for LLM-Based Multi-Talker Speech Recognition**|Hao Shi et.al.|[2603.27205](http://arxiv.org/abs/2603.27205)|null|
 |**2026-09-27**|**Unified Target-Speaker ASR with Text and Enrollment Speech Cues**|Yuxiang Mei et.al.|[2609.33853](http://arxiv.org/abs/2609.33853)|null|
 |**2026-09-24**|**Pushing the Boundaries of Streaming Multi-Speaker ASR: A Systematic Study of Architectural Trade-offs**|Taejin Park et.al.|[2609.10265](http://arxiv.org/abs/2609.10265)|null|
