@@ -4,7 +4,7 @@ layout: default
 
 # MSSP Paper Skim
 
-## Updated on 2026.10.21
+## Updated on 2026.10.22
 > Usage instructions: [here](./README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -16,7 +16,7 @@ layout: default
 |**2026-10-20**|**SLM-SS: Token-Based Speech Separation with Speech Language Models**|Chenda Li et.al.|[2610.27785](http://arxiv.org/abs/2610.27785)|null|
 |**2026-10-15**|**CF-AVSS: A Coarse-to-Fine Audio-Visual Speech Separation Framework with Target-Speaker Refinement and Post-Fusion for Real-World AVSE Challenge**|Longjie Luo et.al.|[2610.21773](http://arxiv.org/abs/2610.21773)|null|
 |**2026-10-12**|**Spiking Neural Beamforming for Multichannel Speech Enhancement on the Edge**|Hanan Beit-On et.al.|[2610.16430](http://arxiv.org/abs/2610.16430)|null|
-|**2026-10-10**|**Learning Where to Split: Dynamic Band Splitting for Audio Source Separation**|Bingzhe Zhang et.al.|[2610.14993](http://arxiv.org/abs/2610.14993)|**[link](https://github.com/JusperLee/Dynamic-Band-Splitting)**|
+|**2026-10-10**|**Learning Where to Split: Dynamic Band Splitting for Audio Source Separation**|Bingzhe Zhang et.al.|[2610.14993](http://arxiv.org/abs/2610.14993)|null|
 |**2026-10-07**|**A Study on Improving Multi-class Audio Source Separation Via Decoupled CLAP Query Optimization and an Automated Data Engine**|Amirhossein Hajavi et.al.|[2610.10025](http://arxiv.org/abs/2610.10025)|null|
 |**2026-10-07**|**VM-ARRAYDPS: Virtual Microphone Augmented Diffusion Posterior Sampling for Unsupervised Blind Speech Separation**|Jingqi Sun et.al.|[2610.09334](http://arxiv.org/abs/2610.09334)|null|
 |**2026-10-05**|**Sample Dependence-Aware Blind Source Separation for Linear Causal Discovery**|Cihan Eralp Kumbasar et.al.|[2610.06656](http://arxiv.org/abs/2610.06656)|null|
@@ -160,6 +160,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-21**|**Omnilingual-MsASR: Benchmarking Multimodal, Multilingual, Long-Form Multi-Speaker ASR of Omni Large Language Models**|Yuan Ge et.al.|[2610.29455](http://arxiv.org/abs/2610.29455)|null|
 |**2026-10-20**|**MS-Bench: A Condition-Stratified Multi-Speaker ASR Benchmark**|Chunjiang He et.al.|[2610.25824](http://arxiv.org/abs/2610.25824)|null|
 |**2026-09-29**|**Beyond Acoustic Prefixes: Persistent Access to Serialized Acoustic Memory for LLM-Based Multi-Talker Speech Recognition**|Hao Shi et.al.|[2603.27205](http://arxiv.org/abs/2603.27205)|null|
 |**2026-09-27**|**Unified Target-Speaker ASR with Text and Enrollment Speech Cues**|Yuxiang Mei et.al.|[2609.33853](http://arxiv.org/abs/2609.33853)|null|
@@ -190,6 +191,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-21**|**NeuroCodec: EEG-Guided Latent-Domain Generative Model for High-Fidelity Target Speaker Extraction**|Julian Silva et.al.|[2610.29815](http://arxiv.org/abs/2610.29815)|**[link](https://github.com/JulianSilva2001/NeuroCodec-TSE)**|
+|**2026-10-21**|**Geometry-Conditioned Target Speaker Extraction based on spatial features incorporating acoustic propagation principles**|Jiatong Li et.al.|[2610.29778](http://arxiv.org/abs/2610.29778)|null|
+|**2026-10-21**|**MuseFlow-TSE: Music-Aware Target Speech Extraction via Cross-Source Band-Splitting and Data-to-Data Flow Matching**|Lu Ma et.al.|[2610.29119](http://arxiv.org/abs/2610.29119)|null|
 |**2026-10-16**|**PromptSep-Speaker: Generative Target Speaker Extraction via Multimodal Prompting and Semantic Alignment**|Yutong Wen et.al.|[2610.23066](http://arxiv.org/abs/2610.23066)|null|
 |**2026-10-12**|**What Makes Codec Tokens Effective for Target Speaker Extraction? A Semantic-Acoustic Disentanglement Perspective**|Wang Xiang et.al.|[2610.16858](http://arxiv.org/abs/2610.16858)|null|
 |**2026-10-09**|**Phonology-Aware Speaker Extraction Frontend for Audio LLMs**|Yanxiang Chen et.al.|[2610.13500](http://arxiv.org/abs/2610.13500)|null|
