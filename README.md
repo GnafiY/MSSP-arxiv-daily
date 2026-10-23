@@ -1,6 +1,6 @@
 # MSSP Paper Skim
 
-## Updated on 2026.10.22
+## Updated on 2026.10.23
 > Usage instructions: [here](./docs/README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -60,12 +60,14 @@
 |**2025-11-10**|**Speech Separation for Hearing-Impaired Children in the Classroom**|Feyisayo Olalere et.al.|[2511.07677](http://arxiv.org/abs/2511.07677)|null|
 |**2025-11-05**|**Neural Beamforming with Doppler-Aware Sparse Attention for High Mobility Environments**|Cemil Vahapoglu et.al.|[2511.03632](http://arxiv.org/abs/2511.03632)|null|
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
 
 ## Speech Enhancement
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-10-22**|**When Do Self-Supervised Representations Help Speech Restoration?**|Yongjoon Lee et.al.|[2610.30869](http://arxiv.org/abs/2610.30869)|null|
+|**2026-10-22**|**HC-AINet: An Auditory-Inspired Network with Harmonic Compensation for Low-Complexity Speech Enhancement**|Nan Li et.al.|[2610.30818](http://arxiv.org/abs/2610.30818)|null|
 |**2026-10-17**|**SpikeAid: A Streaming Spiking Hearing Aid Framework for Joint Noise Reduction and Wide Dynamic Range Compression**|Xiang Hao et.al.|[2610.24696](http://arxiv.org/abs/2610.24696)|null|
 |**2026-10-15**|**Rethinking Batch Composition: Promoting Feature Diversity for Speech Enhancement**|Mingchi Hou et.al.|[2610.21803](http://arxiv.org/abs/2610.21803)|null|
 |**2026-10-14**|**SNOAR: Self-training with Noise filtering, Observation adding, and Remixing for Speech Denoising Without Clean References**|Samuele Cornell et.al.|[2610.20863](http://arxiv.org/abs/2610.20863)|null|
@@ -116,7 +118,7 @@
 |**2026-08-21**|**μNet: Ultra-Low-Memory and Low-Complexity Speech Enhancement for Embedded Digital Signal Processors**|Shrishti Saha Shetu et.al.|[2608.21155](http://arxiv.org/abs/2608.21155)|null|
 |**2026-08-21**|**Grounded Decoding for Autoregressive Speech Enhancement via Adaptive Code-Space Grounding and Local LLM Refinement**|Hao Shi et.al.|[2609.04245](http://arxiv.org/abs/2609.04245)|null|
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
 
 ## Speaker Diarization
 
@@ -167,7 +169,7 @@
 |**2026-02-26**|**Make It Hard to Hear, Easy to Learn: Long-Form Bengali ASR and Speaker Diarization via Extreme Augmentation and Perfect Alignment**|Sanjid Hasan et.al.|[2602.23070](http://arxiv.org/abs/2602.23070)|null|
 |**2026-02-26**|**A Holistic Framework for Robust Bangla ASR and Speaker Diarization with Optimized VAD and CTC Alignment**|Zarif Ishmam et.al.|[2602.22935](http://arxiv.org/abs/2602.22935)|null|
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
 
 ## Multi-Talker ASR (Speaker-Attributed ASR)
 
@@ -200,7 +202,7 @@
 |**2025-10-04**|**Scaling Multi-Talker ASR with Speaker-Agnostic Activity Streams**|Xiluo He et.al.|[2510.03630](http://arxiv.org/abs/2510.03630)|null|
 |**2025-09-23**|**LOTUSDIS: A Thai far-field meeting corpus for robust conversational ASR**|Pattara Tipaksorn et.al.|[2509.18722](http://arxiv.org/abs/2509.18722)|null|
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
 
 ## Target Speaker Extraction
 
@@ -239,5 +241,5 @@
 |**2026-03-23**|**VorTEX: Various overlap ratio for Target speech EXtraction**|Ro-hoon Oh et.al.|[2603.14803](http://arxiv.org/abs/2603.14803)|null|
 |**2026-03-17**|**HRTF-guided Binaural Target Speaker Extraction with Real-World Validation**|Yoav Ellinson et.al.|[2603.16668](http://arxiv.org/abs/2603.16668)|null|
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
 

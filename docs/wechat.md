@@ -1,4 +1,4 @@
-> Updated on 2026.10.22
+> Updated on 2026.10.23
 > Usage instructions: [here](./README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -56,7 +56,7 @@
 - 2026-10-15, **CF-AVSS: A Coarse-to-Fine Audio-Visual Speech Separation Framework with Target-Speaker Refinement and Post-Fusion for Real-World AVSE Challenge**, Longjie Luo et.al., Paper: [http://arxiv.org/abs/2610.21773](http://arxiv.org/abs/2610.21773)
 - 2026-10-20, **SLM-SS: Token-Based Speech Separation with Speech Language Models**, Chenda Li et.al., Paper: [http://arxiv.org/abs/2610.27785](http://arxiv.org/abs/2610.27785)
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
 
 ## Speech Enhancement
 
@@ -109,8 +109,10 @@
 - 2026-10-15, **Rethinking Batch Composition: Promoting Feature Diversity for Speech Enhancement**, Mingchi Hou et.al., Paper: [http://arxiv.org/abs/2610.21803](http://arxiv.org/abs/2610.21803)
 - 2026-10-14, **SNOAR: Self-training with Noise filtering, Observation adding, and Remixing for Speech Denoising Without Clean References**, Samuele Cornell et.al., Paper: [http://arxiv.org/abs/2610.20863](http://arxiv.org/abs/2610.20863)
 - 2026-10-17, **SpikeAid: A Streaming Spiking Hearing Aid Framework for Joint Noise Reduction and Wide Dynamic Range Compression**, Xiang Hao et.al., Paper: [http://arxiv.org/abs/2610.24696](http://arxiv.org/abs/2610.24696)
+- 2026-10-22, **When Do Self-Supervised Representations Help Speech Restoration?**, Yongjoon Lee et.al., Paper: [http://arxiv.org/abs/2610.30869](http://arxiv.org/abs/2610.30869)
+- 2026-10-22, **HC-AINet: An Auditory-Inspired Network with Harmonic Compensation for Low-Complexity Speech Enhancement**, Nan Li et.al., Paper: [http://arxiv.org/abs/2610.30818](http://arxiv.org/abs/2610.30818)
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
 
 ## Speaker Diarization
 
@@ -159,7 +161,7 @@
 - 2026-10-15, **Anuvani-Diarization: Zero Shot Speaker Diarization and Annotation Conventions Across 22 Languages**, Stephen Fernandes et.al., Paper: [http://arxiv.org/abs/2610.20327](http://arxiv.org/abs/2610.20327)
 - 2026-10-20, **Slots Are Not Speakers: Training-Free Speaker Linking for Frozen Streaming Diarizers**, Aditya Srinivas Menon et.al., Paper: [http://arxiv.org/abs/2610.28053](http://arxiv.org/abs/2610.28053)
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
 
 ## Multi-Talker ASR (Speaker-Attributed ASR)
 
@@ -190,7 +192,7 @@
 - 2026-10-20, **MS-Bench: A Condition-Stratified Multi-Speaker ASR Benchmark**, Chunjiang He et.al., Paper: [http://arxiv.org/abs/2610.25824](http://arxiv.org/abs/2610.25824)
 - 2026-10-21, **Omnilingual-MsASR: Benchmarking Multimodal, Multilingual, Long-Form Multi-Speaker ASR of Omni Large Language Models**, Yuan Ge et.al., Paper: [http://arxiv.org/abs/2610.29455](http://arxiv.org/abs/2610.29455)
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
 
 ## Target Speaker Extraction
 
@@ -227,5 +229,5 @@
 - 2026-10-21, **Geometry-Conditioned Target Speaker Extraction based on spatial features incorporating acoustic propagation principles**, Jiatong Li et.al., Paper: [http://arxiv.org/abs/2610.29778](http://arxiv.org/abs/2610.29778)
 - 2026-10-21, **MuseFlow-TSE: Music-Aware Target Speech Extraction via Cross-Source Band-Splitting and Data-to-Data Flow Matching**, Lu Ma et.al., Paper: [http://arxiv.org/abs/2610.29119](http://arxiv.org/abs/2610.29119)
 
-<p align=right>(<a href=#updated-on-20261022>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261023>back to top</a>)</p>
 

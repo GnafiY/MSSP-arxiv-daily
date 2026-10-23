@@ -4,7 +4,7 @@ layout: default
 
 # MSSP Paper Skim
 
-## Updated on 2026.10.22
+## Updated on 2026.10.23
 > Usage instructions: [here](./README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -57,6 +57,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-22**|**When Do Self-Supervised Representations Help Speech Restoration?**|Yongjoon Lee et.al.|[2610.30869](http://arxiv.org/abs/2610.30869)|null|
+|**2026-10-22**|**HC-AINet: An Auditory-Inspired Network with Harmonic Compensation for Low-Complexity Speech Enhancement**|Nan Li et.al.|[2610.30818](http://arxiv.org/abs/2610.30818)|null|
 |**2026-10-17**|**SpikeAid: A Streaming Spiking Hearing Aid Framework for Joint Noise Reduction and Wide Dynamic Range Compression**|Xiang Hao et.al.|[2610.24696](http://arxiv.org/abs/2610.24696)|null|
 |**2026-10-15**|**Rethinking Batch Composition: Promoting Feature Diversity for Speech Enhancement**|Mingchi Hou et.al.|[2610.21803](http://arxiv.org/abs/2610.21803)|null|
 |**2026-10-14**|**SNOAR: Self-training with Noise filtering, Observation adding, and Remixing for Speech Denoising Without Clean References**|Samuele Cornell et.al.|[2610.20863](http://arxiv.org/abs/2610.20863)|null|
