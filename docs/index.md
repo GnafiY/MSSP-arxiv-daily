@@ -4,7 +4,7 @@ layout: default
 
 # MSSP Paper Skim
 
-## Updated on 2026.10.24
+## Updated on 2026.10.25
 > Usage instructions: [here](./README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
