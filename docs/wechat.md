@@ -52,7 +52,7 @@
 - 2026-10-07, **A Study on Improving Multi-class Audio Source Separation Via Decoupled CLAP Query Optimization and an Automated Data Engine**, Amirhossein Hajavi et.al., Paper: [http://arxiv.org/abs/2610.10025](http://arxiv.org/abs/2610.10025)
 - 2026-10-07, **VM-ARRAYDPS: Virtual Microphone Augmented Diffusion Posterior Sampling for Unsupervised Blind Speech Separation**, Jingqi Sun et.al., Paper: [http://arxiv.org/abs/2610.09334](http://arxiv.org/abs/2610.09334)
 - 2026-10-12, **Spiking Neural Beamforming for Multichannel Speech Enhancement on the Edge**, Hanan Beit-On et.al., Paper: [http://arxiv.org/abs/2610.16430](http://arxiv.org/abs/2610.16430)
-- 2026-10-10, **Learning Where to Split: Dynamic Band Splitting for Audio Source Separation**, Bingzhe Zhang et.al., Paper: [http://arxiv.org/abs/2610.14993](http://arxiv.org/abs/2610.14993), Code: **[https://github.com/JusperLee/Dynamic-Band-Splitting](https://github.com/JusperLee/Dynamic-Band-Splitting)**
+- 2026-10-10, **Learning Where to Split: Dynamic Band Splitting for Audio Source Separation**, Bingzhe Zhang et.al., Paper: [http://arxiv.org/abs/2610.14993](http://arxiv.org/abs/2610.14993)
 - 2026-10-15, **CF-AVSS: A Coarse-to-Fine Audio-Visual Speech Separation Framework with Target-Speaker Refinement and Post-Fusion for Real-World AVSE Challenge**, Longjie Luo et.al., Paper: [http://arxiv.org/abs/2610.21773](http://arxiv.org/abs/2610.21773)
 - 2026-10-20, **SLM-SS: Token-Based Speech Separation with Speech Language Models**, Chenda Li et.al., Paper: [http://arxiv.org/abs/2610.27785](http://arxiv.org/abs/2610.27785)
 
@@ -111,6 +111,8 @@
 - 2026-10-17, **SpikeAid: A Streaming Spiking Hearing Aid Framework for Joint Noise Reduction and Wide Dynamic Range Compression**, Xiang Hao et.al., Paper: [http://arxiv.org/abs/2610.24696](http://arxiv.org/abs/2610.24696)
 - 2026-10-22, **When Do Self-Supervised Representations Help Speech Restoration?**, Yongjoon Lee et.al., Paper: [http://arxiv.org/abs/2610.30869](http://arxiv.org/abs/2610.30869)
 - 2026-10-22, **HC-AINet: An Auditory-Inspired Network with Harmonic Compensation for Low-Complexity Speech Enhancement**, Nan Li et.al., Paper: [http://arxiv.org/abs/2610.30818](http://arxiv.org/abs/2610.30818)
+- 2026-10-23, **Noisy Target Training Meets Drifting for Weakly-Supervised Speech Enhancement**, Yoshiki Masuyama et.al., Paper: [http://arxiv.org/abs/2610.32870](http://arxiv.org/abs/2610.32870)
+- 2026-10-23, **ICASSP 2026 Radar Acoustic Speech Enhancement (RASE) Challenge**, Zhi-Wei Tan et.al., Paper: [http://arxiv.org/abs/2610.32202](http://arxiv.org/abs/2610.32202)
 
 <p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
 
@@ -228,6 +230,9 @@
 - 2026-10-21, **NeuroCodec: EEG-Guided Latent-Domain Generative Model for High-Fidelity Target Speaker Extraction**, Julian Silva et.al., Paper: [http://arxiv.org/abs/2610.29815](http://arxiv.org/abs/2610.29815), Code: **[https://github.com/JulianSilva2001/NeuroCodec-TSE](https://github.com/JulianSilva2001/NeuroCodec-TSE)**
 - 2026-10-21, **Geometry-Conditioned Target Speaker Extraction based on spatial features incorporating acoustic propagation principles**, Jiatong Li et.al., Paper: [http://arxiv.org/abs/2610.29778](http://arxiv.org/abs/2610.29778)
 - 2026-10-21, **MuseFlow-TSE: Music-Aware Target Speech Extraction via Cross-Source Band-Splitting and Data-to-Data Flow Matching**, Lu Ma et.al., Paper: [http://arxiv.org/abs/2610.29119](http://arxiv.org/abs/2610.29119)
+- 2026-10-23, **Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes**, Wendi Sang et.al., Paper: [http://arxiv.org/abs/2610.32749](http://arxiv.org/abs/2610.32749)
+- 2026-10-23, **MG-REPA: Multi-Granularity Representation Alignment for Generative Target Speaker Extraction**, Dohwan Kim et.al., Paper: [http://arxiv.org/abs/2610.32161](http://arxiv.org/abs/2610.32161)
+- 2026-10-23, **NECTAR: Automatic Negative Clue Estimation via Centroid-Space Mapping for Target Speaker Extraction**, Hyungjun Yoo et.al., Paper: [http://arxiv.org/abs/2610.32133](http://arxiv.org/abs/2610.32133)
 
 <p align=right>(<a href=#updated-on-20261026>back to top</a>)</p>
 
