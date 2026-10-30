@@ -1,4 +1,4 @@
-> Updated on 2026.10.29
+> Updated on 2026.10.30
 > Usage instructions: [here](./README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -55,8 +55,9 @@
 - 2026-10-10, **Learning Where to Split: Dynamic Band Splitting for Audio Source Separation**, Bingzhe Zhang et.al., Paper: [http://arxiv.org/abs/2610.14993](http://arxiv.org/abs/2610.14993)
 - 2026-10-15, **CF-AVSS: A Coarse-to-Fine Audio-Visual Speech Separation Framework with Target-Speaker Refinement and Post-Fusion for Real-World AVSE Challenge**, Longjie Luo et.al., Paper: [http://arxiv.org/abs/2610.21773](http://arxiv.org/abs/2610.21773)
 - 2026-10-20, **SLM-SS: Token-Based Speech Separation with Speech Language Models**, Chenda Li et.al., Paper: [http://arxiv.org/abs/2610.27785](http://arxiv.org/abs/2610.27785)
+- 2026-10-28, **SelectSep: Target-Selective Video Queries for Audio Source Separation**, Suyeon Lee et.al., Paper: [http://arxiv.org/abs/2610.38624](http://arxiv.org/abs/2610.38624)
 
-<p align=right>(<a href=#updated-on-20261029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261030>back to top</a>)</p>
 
 ## Speech Enhancement
 
@@ -118,7 +119,7 @@
 - 2026-10-26, **Realizing Low-Precision Storage and Sparse Execution in a Folded FPGA Speech Enhancer**, Clément Laroche et.al., Paper: [http://arxiv.org/abs/2610.35144](http://arxiv.org/abs/2610.35144)
 - 2026-10-26, **TIMUSE: Text-Initialized Masked Semantic Token Modeling for Universal Speech Enhancement**, Yiwei Guo et.al., Paper: [http://arxiv.org/abs/2610.34814](http://arxiv.org/abs/2610.34814)
 
-<p align=right>(<a href=#updated-on-20261029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261030>back to top</a>)</p>
 
 ## Speaker Diarization
 
@@ -169,7 +170,7 @@
 - 2026-10-26, **Lipi-Ghor: A Large-Scale, Diarized, Multi-Domain Bengali Speech Corpus and a Scalable Pipeline for Building It**, Sanjid Hasan et.al., Paper: [http://arxiv.org/abs/2610.36184](http://arxiv.org/abs/2610.36184)
 - 2026-10-26, **S2SND-v2: Unified Online and Offline Speaker Diarization with Speaker-Adapted w2v-BERT 2.0**, Jincheng Wang et.al., Paper: [http://arxiv.org/abs/2610.34707](http://arxiv.org/abs/2610.34707)
 
-<p align=right>(<a href=#updated-on-20261029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261030>back to top</a>)</p>
 
 ## Multi-Talker ASR (Speaker-Attributed ASR)
 
@@ -200,7 +201,7 @@
 - 2026-10-26, **MS-Bench: A Condition-Stratified Multi-Speaker ASR Benchmark**, Chunjiang He et.al., Paper: [http://arxiv.org/abs/2610.25824](http://arxiv.org/abs/2610.25824)
 - 2026-10-21, **Omnilingual-MsASR: Benchmarking Multimodal, Multilingual, Long-Form Multi-Speaker ASR of Omni Large Language Models**, Yuan Ge et.al., Paper: [http://arxiv.org/abs/2610.29455](http://arxiv.org/abs/2610.29455)
 
-<p align=right>(<a href=#updated-on-20261029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261030>back to top</a>)</p>
 
 ## Target Speaker Extraction
 
@@ -242,5 +243,5 @@
 - 2026-10-27, **A Lightweight Dual-Branch Visual Front-End for Efficient Audio-Visual Target Speaker Extraction**, Zhan Jin et.al., Paper: [http://arxiv.org/abs/2610.36834](http://arxiv.org/abs/2610.36834)
 - 2026-10-27, **Tap2Listen: Instant Target Switching for Streaming Audio-Visual Speaker Extraction**, Hansol Park et.al., Paper: [http://arxiv.org/abs/2610.36643](http://arxiv.org/abs/2610.36643)
 
-<p align=right>(<a href=#updated-on-20261029>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261030>back to top</a>)</p>
 
