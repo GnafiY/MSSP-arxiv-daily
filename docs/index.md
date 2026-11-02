@@ -76,7 +76,7 @@ layout: default
 |**2026-10-07**|**LIFT-SE: Linguistic Inference Followed by Flow Transformation for Generative Speech Enhancement**|Haoyin Yan et.al.|[2610.09963](http://arxiv.org/abs/2610.09963)|null|
 |**2026-10-06**|**SwinDS-BWE: A Parameter-Efficient Swin-1D Lattice Generator with Decision-Science Discriminators for Speech Bandwidth Extension**|Tarikul Islam Tamiti et.al.|[2610.09189](http://arxiv.org/abs/2610.09189)|null|
 |**2026-10-05**|**AuraSE: Low-Hallucination Generative Speech Enhancement via Multimodal Flow Matching and Inference Policy Optimization**|Yingda Shen et.al.|[2610.06632](http://arxiv.org/abs/2610.06632)|null|
-|**2026-10-04**|**UltraM2M: Leveraging Text Transcripts and Mixture Constraints for Weakly-Supervised Speech Enhancement**|Liu et.al.|[2610.05155](http://arxiv.org/abs/2610.05155)|null|
+|**2026-10-04**|**UltraM2M: Leveraging Text Transcripts and Mixture Constraints for Weakly-Supervised Speech Enhancement**| Liu et.al.|[2610.05155](http://arxiv.org/abs/2610.05155)|null|
 |**2026-09-30**|**How Reliable Are Predicted MOS for Reproducing Human System-Level Preferences in Speech Enhancement?**|Nahomi Kusunoki et.al.|[2609.39032](http://arxiv.org/abs/2609.39032)|null|
 |**2026-09-28**|**Domain-Incremental Learning for Generative Speech Enhancement**|Manjunath Mulimani et.al.|[2609.34901](http://arxiv.org/abs/2609.34901)|null|
 |**2026-09-28**|**Unsupervised Speech Enhancement via Drifting**|Diego Caviedes-Nozal et.al.|[2609.34662](http://arxiv.org/abs/2609.34662)|null|
@@ -171,6 +171,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-30**|**DM-ASR: Diarization-aware Multi-speaker ASR with Unified Offline and Online Decoding with Large Language Models**|Li Li et.al.|[2604.22467](http://arxiv.org/abs/2604.22467)|null|
 |**2026-10-26**|**MS-Bench: A Condition-Stratified Multi-Speaker ASR Benchmark**|Chunjiang He et.al.|[2610.25824](http://arxiv.org/abs/2610.25824)|null|
 |**2026-10-21**|**Omnilingual-MsASR: Benchmarking Multimodal, Multilingual, Long-Form Multi-Speaker ASR of Omni Large Language Models**|Yuan Ge et.al.|[2610.29455](http://arxiv.org/abs/2610.29455)|null|
 |**2026-09-29**|**Beyond Acoustic Prefixes: Persistent Access to Serialized Acoustic Memory for LLM-Based Multi-Talker Speech Recognition**|Hao Shi et.al.|[2603.27205](http://arxiv.org/abs/2603.27205)|null|
@@ -187,7 +188,6 @@ layout: default
 |**2026-06-11**|**Balancing ASR and diarization in end-to-end LLMs for multi-talker speech recognition**|Naijun Zheng et.al.|[2606.13095](http://arxiv.org/abs/2606.13095)|null|
 |**2026-05-14**|**Mind the Gap: Impact of Synthetic Conversational Data on Multi-Talker ASR and Speaker Diarization**|Alexander Polok et.al.|[2605.15442](http://arxiv.org/abs/2605.15442)|null|
 |**2026-05-13**|**CALM: Joint Contextual Acoustic-Linguistic Modeling for Personalization of Multi-Speaker ASR**|Muhammad Shakeel et.al.|[2601.22792](http://arxiv.org/abs/2601.22792)|null|
-|**2026-04-24**|**DM-ASR: Diarization-aware Multi-speaker ASR with Large Language Models**|Li Li et.al.|[2604.22467](http://arxiv.org/abs/2604.22467)|null|
 |**2026-04-03**|**Speaker-Reasoner: Scaling Interaction Turns and Reasoning Patterns for Timestamped Speaker-Attributed ASR**|Zhennan Lin et.al.|[2604.03074](http://arxiv.org/abs/2604.03074)|null|
 |**2026-03-24**|**Who Spoke What When? Evaluating Spoken Language Models for Conversational ASR with Semantic and Overlap-Aware Metrics**|Naohiro Tawara et.al.|[2603.22709](http://arxiv.org/abs/2603.22709)|null|
 |**2026-03-19**|**GLAD: Global-Local Aware Dynamic Mixture-of-Experts for Multi-Talker ASR**|Yujie Guo et.al.|[2509.13093](http://arxiv.org/abs/2509.13093)|null|
@@ -202,6 +202,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-10-29**|**VoxLock: Target-Speaker Extraction for Voice Agents Without an Enrollment Step**|Arbaz Siddiqui et.al.|[2610.40727](http://arxiv.org/abs/2610.40727)|null|
 |**2026-10-27**|**A Lightweight Dual-Branch Visual Front-End for Efficient Audio-Visual Target Speaker Extraction**|Zhan Jin et.al.|[2610.36834](http://arxiv.org/abs/2610.36834)|null|
 |**2026-10-27**|**Tap2Listen: Instant Target Switching for Streaming Audio-Visual Speaker Extraction**|Hansol Park et.al.|[2610.36643](http://arxiv.org/abs/2610.36643)|null|
 |**2026-10-23**|**Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes**|Wendi Sang et.al.|[2610.32749](http://arxiv.org/abs/2610.32749)|null|

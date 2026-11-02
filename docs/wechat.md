@@ -181,7 +181,7 @@
 - 2026-07-02, **H-SAGE: Holistic Speaker-Aware Guided Experts for MoE-based Multi-Talker ASR**, Yujie Guo et.al., Paper: [http://arxiv.org/abs/2607.01566](http://arxiv.org/abs/2607.01566)
 - 2026-06-11, **Balancing ASR and diarization in end-to-end LLMs for multi-talker speech recognition**, Naijun Zheng et.al., Paper: [http://arxiv.org/abs/2606.13095](http://arxiv.org/abs/2606.13095)
 - 2026-05-14, **Mind the Gap: Impact of Synthetic Conversational Data on Multi-Talker ASR and Speaker Diarization**, Alexander Polok et.al., Paper: [http://arxiv.org/abs/2605.15442](http://arxiv.org/abs/2605.15442)
-- 2026-04-24, **DM-ASR: Diarization-aware Multi-speaker ASR with Large Language Models**, Li Li et.al., Paper: [http://arxiv.org/abs/2604.22467](http://arxiv.org/abs/2604.22467)
+- 2026-10-30, **DM-ASR: Diarization-aware Multi-speaker ASR with Unified Offline and Online Decoding with Large Language Models**, Li Li et.al., Paper: [http://arxiv.org/abs/2604.22467](http://arxiv.org/abs/2604.22467)
 - 2026-04-03, **Speaker-Reasoner: Scaling Interaction Turns and Reasoning Patterns for Timestamped Speaker-Attributed ASR**, Zhennan Lin et.al., Paper: [http://arxiv.org/abs/2604.03074](http://arxiv.org/abs/2604.03074)
 - 2026-09-29, **Beyond Acoustic Prefixes: Persistent Access to Serialized Acoustic Memory for LLM-Based Multi-Talker Speech Recognition**, Hao Shi et.al., Paper: [http://arxiv.org/abs/2603.27205](http://arxiv.org/abs/2603.27205)
 - 2026-03-24, **Who Spoke What When? Evaluating Spoken Language Models for Conversational ASR with Semantic and Overlap-Aware Metrics**, Naohiro Tawara et.al., Paper: [http://arxiv.org/abs/2603.22709](http://arxiv.org/abs/2603.22709)
@@ -242,6 +242,7 @@
 - 2026-10-23, **NECTAR: Automatic Negative Clue Estimation via Centroid-Space Mapping for Target Speaker Extraction**, Hyungjun Yoo et.al., Paper: [http://arxiv.org/abs/2610.32133](http://arxiv.org/abs/2610.32133)
 - 2026-10-27, **A Lightweight Dual-Branch Visual Front-End for Efficient Audio-Visual Target Speaker Extraction**, Zhan Jin et.al., Paper: [http://arxiv.org/abs/2610.36834](http://arxiv.org/abs/2610.36834)
 - 2026-10-27, **Tap2Listen: Instant Target Switching for Streaming Audio-Visual Speaker Extraction**, Hansol Park et.al., Paper: [http://arxiv.org/abs/2610.36643](http://arxiv.org/abs/2610.36643)
+- 2026-10-29, **VoxLock: Target-Speaker Extraction for Voice Agents Without an Enrollment Step**, Arbaz Siddiqui et.al., Paper: [http://arxiv.org/abs/2610.40727](http://arxiv.org/abs/2610.40727)
 
 <p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
 
