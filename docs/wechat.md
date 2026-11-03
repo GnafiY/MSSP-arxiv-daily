@@ -1,4 +1,4 @@
-> Updated on 2026.11.02
+> Updated on 2026.11.03
 > Usage instructions: [here](./README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -57,7 +57,7 @@
 - 2026-10-20, **SLM-SS: Token-Based Speech Separation with Speech Language Models**, Chenda Li et.al., Paper: [http://arxiv.org/abs/2610.27785](http://arxiv.org/abs/2610.27785)
 - 2026-10-28, **SelectSep: Target-Selective Video Queries for Audio Source Separation**, Suyeon Lee et.al., Paper: [http://arxiv.org/abs/2610.38624](http://arxiv.org/abs/2610.38624)
 
-<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
 
 ## Speech Enhancement
 
@@ -118,8 +118,10 @@
 - 2026-10-27, **Perceptual Differences and Preferences in Speech Enhancement**, Simon Dahl Jepsen et.al., Paper: [http://arxiv.org/abs/2610.36892](http://arxiv.org/abs/2610.36892)
 - 2026-10-26, **Realizing Low-Precision Storage and Sparse Execution in a Folded FPGA Speech Enhancer**, Clément Laroche et.al., Paper: [http://arxiv.org/abs/2610.35144](http://arxiv.org/abs/2610.35144)
 - 2026-10-26, **TIMUSE: Text-Initialized Masked Semantic Token Modeling for Universal Speech Enhancement**, Yiwei Guo et.al., Paper: [http://arxiv.org/abs/2610.34814](http://arxiv.org/abs/2610.34814)
+- 2026-11-01, **Q-BWE: Quantum Chaos-Informed Speech Bandwidth Extension**, Tarikul Islam Tamiti et.al., Paper: [http://arxiv.org/abs/2611.02250](http://arxiv.org/abs/2611.02250)
+- 2026-10-31, **Continual Residual Memory for Gradient-Free Test-Time Adaptation in Speech Enhancement**, Yijia Shan et.al., Paper: [http://arxiv.org/abs/2611.01023](http://arxiv.org/abs/2611.01023)
 
-<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
 
 ## Speaker Diarization
 
@@ -169,8 +171,9 @@
 - 2026-10-20, **Slots Are Not Speakers: Training-Free Speaker Linking for Frozen Streaming Diarizers**, Aditya Srinivas Menon et.al., Paper: [http://arxiv.org/abs/2610.28053](http://arxiv.org/abs/2610.28053)
 - 2026-10-26, **Lipi-Ghor: A Large-Scale, Diarized, Multi-Domain Bengali Speech Corpus and a Scalable Pipeline for Building It**, Sanjid Hasan et.al., Paper: [http://arxiv.org/abs/2610.36184](http://arxiv.org/abs/2610.36184)
 - 2026-10-26, **S2SND-v2: Unified Online and Offline Speaker Diarization with Speaker-Adapted w2v-BERT 2.0**, Jincheng Wang et.al., Paper: [http://arxiv.org/abs/2610.34707](http://arxiv.org/abs/2610.34707)
+- 2026-11-02, **Sequence-to-Sequence Refinement for EEND-VC Diarization with a Shared Encoder**, Ruoyu Wang et.al., Paper: [http://arxiv.org/abs/2611.02709](http://arxiv.org/abs/2611.02709)
 
-<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
 
 ## Multi-Talker ASR (Speaker-Attributed ASR)
 
@@ -201,7 +204,7 @@
 - 2026-10-26, **MS-Bench: A Condition-Stratified Multi-Speaker ASR Benchmark**, Chunjiang He et.al., Paper: [http://arxiv.org/abs/2610.25824](http://arxiv.org/abs/2610.25824)
 - 2026-10-21, **Omnilingual-MsASR: Benchmarking Multimodal, Multilingual, Long-Form Multi-Speaker ASR of Omni Large Language Models**, Yuan Ge et.al., Paper: [http://arxiv.org/abs/2610.29455](http://arxiv.org/abs/2610.29455)
 
-<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
 
 ## Target Speaker Extraction
 
@@ -235,7 +238,7 @@
 - 2026-10-12, **What Makes Codec Tokens Effective for Target Speaker Extraction? A Semantic-Acoustic Disentanglement Perspective**, Wang Xiang et.al., Paper: [http://arxiv.org/abs/2610.16858](http://arxiv.org/abs/2610.16858)
 - 2026-10-16, **PromptSep-Speaker: Generative Target Speaker Extraction via Multimodal Prompting and Semantic Alignment**, Yutong Wen et.al., Paper: [http://arxiv.org/abs/2610.23066](http://arxiv.org/abs/2610.23066)
 - 2026-10-21, **NeuroCodec: EEG-Guided Latent-Domain Generative Model for High-Fidelity Target Speaker Extraction**, Julian Silva et.al., Paper: [http://arxiv.org/abs/2610.29815](http://arxiv.org/abs/2610.29815)
-- 2026-10-21, **Geometry-Conditioned Target Speaker Extraction based on spatial features incorporating acoustic propagation principles**, Jiatong Li et.al., Paper: [http://arxiv.org/abs/2610.29778](http://arxiv.org/abs/2610.29778)
+- 2026-10-31, **Geometry-Conditioned Target Speaker Extraction based on spatial features incorporating acoustic propagation principles**, Jiatong Li et.al., Paper: [http://arxiv.org/abs/2610.29778](http://arxiv.org/abs/2610.29778)
 - 2026-10-21, **MuseFlow-TSE: Music-Aware Target Speech Extraction via Cross-Source Band-Splitting and Data-to-Data Flow Matching**, Lu Ma et.al., Paper: [http://arxiv.org/abs/2610.29119](http://arxiv.org/abs/2610.29119)
 - 2026-10-23, **Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes**, Wendi Sang et.al., Paper: [http://arxiv.org/abs/2610.32749](http://arxiv.org/abs/2610.32749)
 - 2026-10-23, **MG-REPA: Multi-Granularity Representation Alignment for Generative Target Speaker Extraction**, Dohwan Kim et.al., Paper: [http://arxiv.org/abs/2610.32161](http://arxiv.org/abs/2610.32161)
@@ -243,6 +246,9 @@
 - 2026-10-27, **A Lightweight Dual-Branch Visual Front-End for Efficient Audio-Visual Target Speaker Extraction**, Zhan Jin et.al., Paper: [http://arxiv.org/abs/2610.36834](http://arxiv.org/abs/2610.36834)
 - 2026-10-27, **Tap2Listen: Instant Target Switching for Streaming Audio-Visual Speaker Extraction**, Hansol Park et.al., Paper: [http://arxiv.org/abs/2610.36643](http://arxiv.org/abs/2610.36643)
 - 2026-10-29, **VoxLock: Target-Speaker Extraction for Voice Agents Without an Enrollment Step**, Arbaz Siddiqui et.al., Paper: [http://arxiv.org/abs/2610.40727](http://arxiv.org/abs/2610.40727)
+- 2026-11-02, **SPATEX: Array-Flexible Multichannel-to-Multichannel Target Speech Extraction using Direction Clue**, Wen Wen et.al., Paper: [http://arxiv.org/abs/2611.03119](http://arxiv.org/abs/2611.03119)
+- 2026-11-01, **Spatially-Guided Speaker Extraction Based on Relative Position Cues**, Aviad Eisenberg et.al., Paper: [http://arxiv.org/abs/2611.01757](http://arxiv.org/abs/2611.01757)
+- 2026-10-31, **Microphone Geometry Aware Regional Target Speaker Extraction**, Shitong Xu et.al., Paper: [http://arxiv.org/abs/2611.00894](http://arxiv.org/abs/2611.00894)
 
-<p align=right>(<a href=#updated-on-20261102>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
 
