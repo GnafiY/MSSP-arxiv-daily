@@ -4,7 +4,7 @@ layout: default
 
 # MSSP Paper Skim
 
-## Updated on 2026.11.03
+## Updated on 2026.11.04
 > Usage instructions: [here](./README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -174,9 +174,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-03**|**Omnilingual-MsASR: Benchmarking Multimodal, Multilingual, Long-Form Multi-Speaker ASR of Omni Large Language Models**|Yuan Ge et.al.|[2610.29455](http://arxiv.org/abs/2610.29455)|null|
 |**2026-10-30**|**DM-ASR: Diarization-aware Multi-speaker ASR with Unified Offline and Online Decoding with Large Language Models**|Li Li et.al.|[2604.22467](http://arxiv.org/abs/2604.22467)|null|
 |**2026-10-26**|**MS-Bench: A Condition-Stratified Multi-Speaker ASR Benchmark**|Chunjiang He et.al.|[2610.25824](http://arxiv.org/abs/2610.25824)|null|
-|**2026-10-21**|**Omnilingual-MsASR: Benchmarking Multimodal, Multilingual, Long-Form Multi-Speaker ASR of Omni Large Language Models**|Yuan Ge et.al.|[2610.29455](http://arxiv.org/abs/2610.29455)|null|
 |**2026-09-29**|**Beyond Acoustic Prefixes: Persistent Access to Serialized Acoustic Memory for LLM-Based Multi-Talker Speech Recognition**|Hao Shi et.al.|[2603.27205](http://arxiv.org/abs/2603.27205)|null|
 |**2026-09-27**|**Unified Target-Speaker ASR with Text and Enrollment Speech Cues**|Yuxiang Mei et.al.|[2609.33853](http://arxiv.org/abs/2609.33853)|null|
 |**2026-09-24**|**Pushing the Boundaries of Streaming Multi-Speaker ASR: A Systematic Study of Architectural Trade-offs**|Taejin Park et.al.|[2609.10265](http://arxiv.org/abs/2609.10265)|null|

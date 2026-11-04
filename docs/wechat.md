@@ -1,4 +1,4 @@
-> Updated on 2026.11.03
+> Updated on 2026.11.04
 > Usage instructions: [here](./README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -57,7 +57,7 @@
 - 2026-10-20, **SLM-SS: Token-Based Speech Separation with Speech Language Models**, Chenda Li et.al., Paper: [http://arxiv.org/abs/2610.27785](http://arxiv.org/abs/2610.27785)
 - 2026-10-28, **SelectSep: Target-Selective Video Queries for Audio Source Separation**, Suyeon Lee et.al., Paper: [http://arxiv.org/abs/2610.38624](http://arxiv.org/abs/2610.38624)
 
-<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
 
 ## Speech Enhancement
 
@@ -121,7 +121,7 @@
 - 2026-11-01, **Q-BWE: Quantum Chaos-Informed Speech Bandwidth Extension**, Tarikul Islam Tamiti et.al., Paper: [http://arxiv.org/abs/2611.02250](http://arxiv.org/abs/2611.02250)
 - 2026-10-31, **Continual Residual Memory for Gradient-Free Test-Time Adaptation in Speech Enhancement**, Yijia Shan et.al., Paper: [http://arxiv.org/abs/2611.01023](http://arxiv.org/abs/2611.01023)
 
-<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
 
 ## Speaker Diarization
 
@@ -173,7 +173,7 @@
 - 2026-10-26, **S2SND-v2: Unified Online and Offline Speaker Diarization with Speaker-Adapted w2v-BERT 2.0**, Jincheng Wang et.al., Paper: [http://arxiv.org/abs/2610.34707](http://arxiv.org/abs/2610.34707)
 - 2026-11-02, **Sequence-to-Sequence Refinement for EEND-VC Diarization with a Shared Encoder**, Ruoyu Wang et.al., Paper: [http://arxiv.org/abs/2611.02709](http://arxiv.org/abs/2611.02709)
 
-<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
 
 ## Multi-Talker ASR (Speaker-Attributed ASR)
 
@@ -202,9 +202,9 @@
 - 2026-09-24, **Asymmetric Classifier-Free Guidance for Target-Speaker ASR**, Yiwen Guan et.al., Paper: [http://arxiv.org/abs/2609.30476](http://arxiv.org/abs/2609.30476)
 - 2026-09-27, **Unified Target-Speaker ASR with Text and Enrollment Speech Cues**, Yuxiang Mei et.al., Paper: [http://arxiv.org/abs/2609.33853](http://arxiv.org/abs/2609.33853)
 - 2026-10-26, **MS-Bench: A Condition-Stratified Multi-Speaker ASR Benchmark**, Chunjiang He et.al., Paper: [http://arxiv.org/abs/2610.25824](http://arxiv.org/abs/2610.25824)
-- 2026-10-21, **Omnilingual-MsASR: Benchmarking Multimodal, Multilingual, Long-Form Multi-Speaker ASR of Omni Large Language Models**, Yuan Ge et.al., Paper: [http://arxiv.org/abs/2610.29455](http://arxiv.org/abs/2610.29455)
+- 2026-11-03, **Omnilingual-MsASR: Benchmarking Multimodal, Multilingual, Long-Form Multi-Speaker ASR of Omni Large Language Models**, Yuan Ge et.al., Paper: [http://arxiv.org/abs/2610.29455](http://arxiv.org/abs/2610.29455)
 
-<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
 
 ## Target Speaker Extraction
 
@@ -250,5 +250,5 @@
 - 2026-11-01, **Spatially-Guided Speaker Extraction Based on Relative Position Cues**, Aviad Eisenberg et.al., Paper: [http://arxiv.org/abs/2611.01757](http://arxiv.org/abs/2611.01757)
 - 2026-10-31, **Microphone Geometry Aware Regional Target Speaker Extraction**, Shitong Xu et.al., Paper: [http://arxiv.org/abs/2611.00894](http://arxiv.org/abs/2611.00894)
 
-<p align=right>(<a href=#updated-on-20261103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261104>back to top</a>)</p>
 
