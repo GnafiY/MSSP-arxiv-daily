@@ -24,7 +24,7 @@
 |**2026-11-15**|**MOUSSE: Multilingual Overlapped Speech Separation with Predictive Uncertainty Estimation**|Su Yeon Shim et.al.|[2611.19706](http://arxiv.org/abs/2611.19706)|null|
 |**2026-11-06**|**GTCRN-SS: Lightweight Causal Speech Separation with Residual Allocation and Reconstruction Refinement**|Shao-Chun Hu et.al.|[2611.09358](http://arxiv.org/abs/2611.09358)|null|
 |**2026-10-28**|**SelectSep: Target-Selective Video Queries for Audio Source Separation**|Suyeon Lee et.al.|[2610.38624](http://arxiv.org/abs/2610.38624)|null|
-|**2026-10-20**|**SLM-SS: Token-Based Speech Separation with Speech Language Models**|Chenda Li et.al.|[2610.27785](http://arxiv.org/abs/2610.27785)|**[link](https://github.com/Herobrinelth/SLM-SS-Inference)**|
+|**2026-10-20**|**SLM-SS: Token-Based Speech Separation with Speech Language Models**|Chenda Li et.al.|[2610.27785](http://arxiv.org/abs/2610.27785)|null|
 |**2026-10-15**|**CF-AVSS: A Coarse-to-Fine Audio-Visual Speech Separation Framework with Target-Speaker Refinement and Post-Fusion for Real-World AVSE Challenge**|Longjie Luo et.al.|[2610.21773](http://arxiv.org/abs/2610.21773)|null|
 |**2026-10-12**|**Spiking Neural Beamforming for Multichannel Speech Enhancement on the Edge**|Hanan Beit-On et.al.|[2610.16430](http://arxiv.org/abs/2610.16430)|null|
 |**2026-10-10**|**Learning Where to Split: Dynamic Band Splitting for Audio Source Separation**|Bingzhe Zhang et.al.|[2610.14993](http://arxiv.org/abs/2610.14993)|null|
@@ -83,7 +83,7 @@
 |**2026-10-26**|**Realizing Low-Precision Storage and Sparse Execution in a Folded FPGA Speech Enhancer**|Clément Laroche et.al.|[2610.35144](http://arxiv.org/abs/2610.35144)|null|
 |**2026-10-26**|**TIMUSE: Text-Initialized Masked Semantic Token Modeling for Universal Speech Enhancement**|Yiwei Guo et.al.|[2610.34814](http://arxiv.org/abs/2610.34814)|null|
 |**2026-10-23**|**Noisy Target Training Meets Drifting for Weakly-Supervised Speech Enhancement**|Yoshiki Masuyama et.al.|[2610.32870](http://arxiv.org/abs/2610.32870)|null|
-|**2026-10-23**|**ICASSP 2026 Radar Acoustic Speech Enhancement (RASE) Challenge**|Zhi-Wei Tan et.al.|[2610.32202](http://arxiv.org/abs/2610.32202)|null|
+|**2026-10-23**|**ICASSP 2026 Radar Acoustic Speech Enhancement (RASE) Challenge**|Zhi-Wei Tan et.al.|[2610.32202](http://arxiv.org/abs/2610.32202)|**[link](https://github.com/RASE-Challenge/RASE2026-Challenge)**|
 |**2026-10-22**|**When Do Self-Supervised Representations Help Speech Restoration?**|Yongjoon Lee et.al.|[2610.30869](http://arxiv.org/abs/2610.30869)|null|
 |**2026-10-22**|**HC-AINet: An Auditory-Inspired Network with Harmonic Compensation for Low-Complexity Speech Enhancement**|Nan Li et.al.|[2610.30818](http://arxiv.org/abs/2610.30818)|null|
 |**2026-10-17**|**SpikeAid: A Streaming Spiking Hearing Aid Framework for Joint Noise Reduction and Wide Dynamic Range Compression**|Xiang Hao et.al.|[2610.24696](http://arxiv.org/abs/2610.24696)|null|
@@ -203,6 +203,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-11-19**|**Efficient Conversational Multi-Talker ASR with Predicted Speaker-Agnostic Activity Streams**|Xiluo He et.al.|[2611.26796](http://arxiv.org/abs/2611.26796)|null|
 |**2026-11-17**|**Beyond Mimicry: Constrained Exploration with GRPO for Joint Multi-Talker ASR and Diarization under Unknown Speaker Counts**|Yunrui Cai et.al.|[2611.22627](http://arxiv.org/abs/2611.22627)|null|
 |**2026-11-14**|**Low-Latency LLM-Based Streaming Multi-Talker ASR with Verifiable Rewards**|Jing Pan et.al.|[2611.19136](http://arxiv.org/abs/2611.19136)|null|
 |**2026-11-12**|**Structured Speaker Conditioning for Diarization-Guided Target-Speaker ASR**|Ruoyu Wang et.al.|[2611.16371](http://arxiv.org/abs/2611.16371)|null|

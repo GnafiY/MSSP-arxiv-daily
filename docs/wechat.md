@@ -54,7 +54,7 @@
 - 2026-10-12, **Spiking Neural Beamforming for Multichannel Speech Enhancement on the Edge**, Hanan Beit-On et.al., Paper: [http://arxiv.org/abs/2610.16430](http://arxiv.org/abs/2610.16430)
 - 2026-10-10, **Learning Where to Split: Dynamic Band Splitting for Audio Source Separation**, Bingzhe Zhang et.al., Paper: [http://arxiv.org/abs/2610.14993](http://arxiv.org/abs/2610.14993)
 - 2026-10-15, **CF-AVSS: A Coarse-to-Fine Audio-Visual Speech Separation Framework with Target-Speaker Refinement and Post-Fusion for Real-World AVSE Challenge**, Longjie Luo et.al., Paper: [http://arxiv.org/abs/2610.21773](http://arxiv.org/abs/2610.21773)
-- 2026-10-20, **SLM-SS: Token-Based Speech Separation with Speech Language Models**, Chenda Li et.al., Paper: [http://arxiv.org/abs/2610.27785](http://arxiv.org/abs/2610.27785), Code: **[https://github.com/Herobrinelth/SLM-SS-Inference](https://github.com/Herobrinelth/SLM-SS-Inference)**
+- 2026-10-20, **SLM-SS: Token-Based Speech Separation with Speech Language Models**, Chenda Li et.al., Paper: [http://arxiv.org/abs/2610.27785](http://arxiv.org/abs/2610.27785)
 - 2026-10-28, **SelectSep: Target-Selective Video Queries for Audio Source Separation**, Suyeon Lee et.al., Paper: [http://arxiv.org/abs/2610.38624](http://arxiv.org/abs/2610.38624)
 - 2026-11-17, **Distributed Blind Source Separation from Compressed Mixtures**, Amir Weiss et.al., Paper: [http://arxiv.org/abs/2611.23024](http://arxiv.org/abs/2611.23024)
 - 2026-11-15, **MOUSSE: Multilingual Overlapped Speech Separation with Predictive Uncertainty Estimation**, Su Yeon Shim et.al., Paper: [http://arxiv.org/abs/2611.19706](http://arxiv.org/abs/2611.19706)
@@ -116,7 +116,7 @@
 - 2026-10-22, **When Do Self-Supervised Representations Help Speech Restoration?**, Yongjoon Lee et.al., Paper: [http://arxiv.org/abs/2610.30869](http://arxiv.org/abs/2610.30869)
 - 2026-10-22, **HC-AINet: An Auditory-Inspired Network with Harmonic Compensation for Low-Complexity Speech Enhancement**, Nan Li et.al., Paper: [http://arxiv.org/abs/2610.30818](http://arxiv.org/abs/2610.30818)
 - 2026-10-23, **Noisy Target Training Meets Drifting for Weakly-Supervised Speech Enhancement**, Yoshiki Masuyama et.al., Paper: [http://arxiv.org/abs/2610.32870](http://arxiv.org/abs/2610.32870)
-- 2026-10-23, **ICASSP 2026 Radar Acoustic Speech Enhancement (RASE) Challenge**, Zhi-Wei Tan et.al., Paper: [http://arxiv.org/abs/2610.32202](http://arxiv.org/abs/2610.32202)
+- 2026-10-23, **ICASSP 2026 Radar Acoustic Speech Enhancement (RASE) Challenge**, Zhi-Wei Tan et.al., Paper: [http://arxiv.org/abs/2610.32202](http://arxiv.org/abs/2610.32202), Code: **[https://github.com/RASE-Challenge/RASE2026-Challenge](https://github.com/RASE-Challenge/RASE2026-Challenge)**
 - 2026-10-27, **StreamSE: Neural Audio Codec-based Streaming Speech Enhancement for On-device Inference**, Hyunjin Choi et.al., Paper: [http://arxiv.org/abs/2610.37024](http://arxiv.org/abs/2610.37024)
 - 2026-10-27, **Perceptual Differences and Preferences in Speech Enhancement**, Simon Dahl Jepsen et.al., Paper: [http://arxiv.org/abs/2610.36892](http://arxiv.org/abs/2610.36892)
 - 2026-10-26, **Realizing Low-Precision Storage and Sparse Execution in a Folded FPGA Speech Enhancer**, Clément Laroche et.al., Paper: [http://arxiv.org/abs/2610.35144](http://arxiv.org/abs/2610.35144)
@@ -222,6 +222,7 @@
 - 2026-11-17, **Beyond Mimicry: Constrained Exploration with GRPO for Joint Multi-Talker ASR and Diarization under Unknown Speaker Counts**, Yunrui Cai et.al., Paper: [http://arxiv.org/abs/2611.22627](http://arxiv.org/abs/2611.22627)
 - 2026-11-14, **Low-Latency LLM-Based Streaming Multi-Talker ASR with Verifiable Rewards**, Jing Pan et.al., Paper: [http://arxiv.org/abs/2611.19136](http://arxiv.org/abs/2611.19136)
 - 2026-11-12, **Structured Speaker Conditioning for Diarization-Guided Target-Speaker ASR**, Ruoyu Wang et.al., Paper: [http://arxiv.org/abs/2611.16371](http://arxiv.org/abs/2611.16371)
+- 2026-11-19, **Efficient Conversational Multi-Talker ASR with Predicted Speaker-Agnostic Activity Streams**, Xiluo He et.al., Paper: [http://arxiv.org/abs/2611.26796](http://arxiv.org/abs/2611.26796)
 
 <p align=right>(<a href=#updated-on-20261123>back to top</a>)</p>
 
