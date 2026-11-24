@@ -4,7 +4,7 @@ layout: default
 
 # MSSP Paper Skim
 
-## Updated on 2026.11.23
+## Updated on 2026.11.24
 > Usage instructions: [here](./README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -74,7 +74,7 @@ layout: default
 |**2026-10-26**|**Realizing Low-Precision Storage and Sparse Execution in a Folded FPGA Speech Enhancer**|Clément Laroche et.al.|[2610.35144](http://arxiv.org/abs/2610.35144)|null|
 |**2026-10-26**|**TIMUSE: Text-Initialized Masked Semantic Token Modeling for Universal Speech Enhancement**|Yiwei Guo et.al.|[2610.34814](http://arxiv.org/abs/2610.34814)|null|
 |**2026-10-23**|**Noisy Target Training Meets Drifting for Weakly-Supervised Speech Enhancement**|Yoshiki Masuyama et.al.|[2610.32870](http://arxiv.org/abs/2610.32870)|null|
-|**2026-10-23**|**ICASSP 2026 Radar Acoustic Speech Enhancement (RASE) Challenge**|Zhi-Wei Tan et.al.|[2610.32202](http://arxiv.org/abs/2610.32202)|**[link](https://github.com/RASE-Challenge/RASE2026-Challenge)**|
+|**2026-10-23**|**ICASSP 2026 Radar Acoustic Speech Enhancement (RASE) Challenge**|Zhi-Wei Tan et.al.|[2610.32202](http://arxiv.org/abs/2610.32202)|null|
 |**2026-10-22**|**When Do Self-Supervised Representations Help Speech Restoration?**|Yongjoon Lee et.al.|[2610.30869](http://arxiv.org/abs/2610.30869)|null|
 |**2026-10-22**|**HC-AINet: An Auditory-Inspired Network with Harmonic Compensation for Low-Complexity Speech Enhancement**|Nan Li et.al.|[2610.30818](http://arxiv.org/abs/2610.30818)|null|
 |**2026-10-17**|**SpikeAid: A Streaming Spiking Hearing Aid Framework for Joint Noise Reduction and Wide Dynamic Range Compression**|Xiang Hao et.al.|[2610.24696](http://arxiv.org/abs/2610.24696)|null|
