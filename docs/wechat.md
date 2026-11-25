@@ -54,7 +54,7 @@
 - 2026-10-12, **Spiking Neural Beamforming for Multichannel Speech Enhancement on the Edge**, Hanan Beit-On et.al., Paper: [http://arxiv.org/abs/2610.16430](http://arxiv.org/abs/2610.16430)
 - 2026-10-10, **Learning Where to Split: Dynamic Band Splitting for Audio Source Separation**, Bingzhe Zhang et.al., Paper: [http://arxiv.org/abs/2610.14993](http://arxiv.org/abs/2610.14993)
 - 2026-10-15, **CF-AVSS: A Coarse-to-Fine Audio-Visual Speech Separation Framework with Target-Speaker Refinement and Post-Fusion for Real-World AVSE Challenge**, Longjie Luo et.al., Paper: [http://arxiv.org/abs/2610.21773](http://arxiv.org/abs/2610.21773)
-- 2026-10-20, **SLM-SS: Token-Based Speech Separation with Speech Language Models**, Chenda Li et.al., Paper: [http://arxiv.org/abs/2610.27785](http://arxiv.org/abs/2610.27785), Code: **[https://github.com/Herobrinelth/SLM-SS-Inference](https://github.com/Herobrinelth/SLM-SS-Inference)**
+- 2026-10-20, **SLM-SS: Token-Based Speech Separation with Speech Language Models**, Chenda Li et.al., Paper: [http://arxiv.org/abs/2610.27785](http://arxiv.org/abs/2610.27785)
 - 2026-10-28, **SelectSep: Target-Selective Video Queries for Audio Source Separation**, Suyeon Lee et.al., Paper: [http://arxiv.org/abs/2610.38624](http://arxiv.org/abs/2610.38624)
 - 2026-11-17, **Distributed Blind Source Separation from Compressed Mixtures**, Amir Weiss et.al., Paper: [http://arxiv.org/abs/2611.23024](http://arxiv.org/abs/2611.23024)
 - 2026-11-15, **MOUSSE: Multilingual Overlapped Speech Separation with Predictive Uncertainty Estimation**, Su Yeon Shim et.al., Paper: [http://arxiv.org/abs/2611.19706](http://arxiv.org/abs/2611.19706)
