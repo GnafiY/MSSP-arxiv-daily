@@ -17,7 +17,7 @@ layout: default
 |**2026-11-15**|**MOUSSE: Multilingual Overlapped Speech Separation with Predictive Uncertainty Estimation**|Su Yeon Shim et.al.|[2611.19706](http://arxiv.org/abs/2611.19706)|null|
 |**2026-11-06**|**GTCRN-SS: Lightweight Causal Speech Separation with Residual Allocation and Reconstruction Refinement**|Shao-Chun Hu et.al.|[2611.09358](http://arxiv.org/abs/2611.09358)|null|
 |**2026-10-28**|**SelectSep: Target-Selective Video Queries for Audio Source Separation**|Suyeon Lee et.al.|[2610.38624](http://arxiv.org/abs/2610.38624)|null|
-|**2026-10-20**|**SLM-SS: Token-Based Speech Separation with Speech Language Models**|Chenda Li et.al.|[2610.27785](http://arxiv.org/abs/2610.27785)|**[link](https://github.com/Herobrinelth/SLM-SS-Inference)**|
+|**2026-10-20**|**SLM-SS: Token-Based Speech Separation with Speech Language Models**|Chenda Li et.al.|[2610.27785](http://arxiv.org/abs/2610.27785)|null|
 |**2026-10-15**|**CF-AVSS: A Coarse-to-Fine Audio-Visual Speech Separation Framework with Target-Speaker Refinement and Post-Fusion for Real-World AVSE Challenge**|Longjie Luo et.al.|[2610.21773](http://arxiv.org/abs/2610.21773)|null|
 |**2026-10-12**|**Spiking Neural Beamforming for Multichannel Speech Enhancement on the Edge**|Hanan Beit-On et.al.|[2610.16430](http://arxiv.org/abs/2610.16430)|null|
 |**2026-10-10**|**Learning Where to Split: Dynamic Band Splitting for Audio Source Separation**|Bingzhe Zhang et.al.|[2610.14993](http://arxiv.org/abs/2610.14993)|null|
