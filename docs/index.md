@@ -4,7 +4,7 @@ layout: default
 
 # MSSP Paper Skim
 
-## Updated on 2026.11.25
+## Updated on 2026.11.26
 > Usage instructions: [here](./README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -17,7 +17,7 @@ layout: default
 |**2026-11-15**|**MOUSSE: Multilingual Overlapped Speech Separation with Predictive Uncertainty Estimation**|Su Yeon Shim et.al.|[2611.19706](http://arxiv.org/abs/2611.19706)|null|
 |**2026-11-06**|**GTCRN-SS: Lightweight Causal Speech Separation with Residual Allocation and Reconstruction Refinement**|Shao-Chun Hu et.al.|[2611.09358](http://arxiv.org/abs/2611.09358)|null|
 |**2026-10-28**|**SelectSep: Target-Selective Video Queries for Audio Source Separation**|Suyeon Lee et.al.|[2610.38624](http://arxiv.org/abs/2610.38624)|null|
-|**2026-10-20**|**SLM-SS: Token-Based Speech Separation with Speech Language Models**|Chenda Li et.al.|[2610.27785](http://arxiv.org/abs/2610.27785)|null|
+|**2026-10-20**|**SLM-SS: Token-Based Speech Separation with Speech Language Models**|Chenda Li et.al.|[2610.27785](http://arxiv.org/abs/2610.27785)|**[link](https://github.com/Herobrinelth/SLM-SS-Inference)**|
 |**2026-10-15**|**CF-AVSS: A Coarse-to-Fine Audio-Visual Speech Separation Framework with Target-Speaker Refinement and Post-Fusion for Real-World AVSE Challenge**|Longjie Luo et.al.|[2610.21773](http://arxiv.org/abs/2610.21773)|null|
 |**2026-10-12**|**Spiking Neural Beamforming for Multichannel Speech Enhancement on the Edge**|Hanan Beit-On et.al.|[2610.16430](http://arxiv.org/abs/2610.16430)|null|
 |**2026-10-10**|**Learning Where to Split: Dynamic Band Splitting for Audio Source Separation**|Bingzhe Zhang et.al.|[2610.14993](http://arxiv.org/abs/2610.14993)|null|
@@ -132,6 +132,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-24**|**Line-Level Singer Diarization in Multi-Member Pop Songs: A Benchmark, Lead-Vocal Isolation, and Song-Level Decoding**|Allen Ng et.al.|[2611.33247](http://arxiv.org/abs/2611.33247)|null|
 |**2026-11-17**|**Beyond Mimicry: Constrained Exploration with GRPO for Joint Multi-Talker ASR and Diarization under Unknown Speaker Counts**|Yunrui Cai et.al.|[2611.22627](http://arxiv.org/abs/2611.22627)|null|
 |**2026-11-16**|**Surprise-Gated Memory for Live Speaker Diarization**|Louis Mouchon et.al.|[2611.20819](http://arxiv.org/abs/2611.20819)|null|
 |**2026-11-14**|**Why Do Low-Activity Speakers Disappear in Speaker Diarization? Decomposing Lost Speakers and What Training-Free Fixes Can Recover**|Fumiaki Yamaguchi et.al.|[2611.19160](http://arxiv.org/abs/2611.19160)|null|
