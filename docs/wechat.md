@@ -1,4 +1,4 @@
-> Updated on 2026.11.27
+> Updated on 2026.11.28
 > Usage instructions: [here](./README.md)
 
 > Generated automatically from arXiv. Source: [https://github.com/GnafiY/MSSP-arxiv-daily](https://github.com/GnafiY/MSSP-arxiv-daily)
@@ -60,7 +60,7 @@
 - 2026-11-15, **MOUSSE: Multilingual Overlapped Speech Separation with Predictive Uncertainty Estimation**, Su Yeon Shim et.al., Paper: [http://arxiv.org/abs/2611.19706](http://arxiv.org/abs/2611.19706)
 - 2026-11-06, **GTCRN-SS: Lightweight Causal Speech Separation with Residual Allocation and Reconstruction Refinement**, Shao-Chun Hu et.al., Paper: [http://arxiv.org/abs/2611.09358](http://arxiv.org/abs/2611.09358)
 
-<p align=right>(<a href=#updated-on-20261127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261128>back to top</a>)</p>
 
 ## Speech Enhancement
 
@@ -116,7 +116,7 @@
 - 2026-10-22, **When Do Self-Supervised Representations Help Speech Restoration?**, Yongjoon Lee et.al., Paper: [http://arxiv.org/abs/2610.30869](http://arxiv.org/abs/2610.30869)
 - 2026-10-22, **HC-AINet: An Auditory-Inspired Network with Harmonic Compensation for Low-Complexity Speech Enhancement**, Nan Li et.al., Paper: [http://arxiv.org/abs/2610.30818](http://arxiv.org/abs/2610.30818)
 - 2026-10-23, **Noisy Target Training Meets Drifting for Weakly-Supervised Speech Enhancement**, Yoshiki Masuyama et.al., Paper: [http://arxiv.org/abs/2610.32870](http://arxiv.org/abs/2610.32870)
-- 2026-10-23, **ICASSP 2026 Radar Acoustic Speech Enhancement (RASE) Challenge**, Zhi-Wei Tan et.al., Paper: [http://arxiv.org/abs/2610.32202](http://arxiv.org/abs/2610.32202), Code: **[https://github.com/RASE-Challenge/RASE2026-Challenge](https://github.com/RASE-Challenge/RASE2026-Challenge)**
+- 2026-10-23, **ICASSP 2026 Radar Acoustic Speech Enhancement (RASE) Challenge**, Zhi-Wei Tan et.al., Paper: [http://arxiv.org/abs/2610.32202](http://arxiv.org/abs/2610.32202)
 - 2026-10-27, **StreamSE: Neural Audio Codec-based Streaming Speech Enhancement for On-device Inference**, Hyunjin Choi et.al., Paper: [http://arxiv.org/abs/2610.37024](http://arxiv.org/abs/2610.37024)
 - 2026-10-27, **Perceptual Differences and Preferences in Speech Enhancement**, Simon Dahl Jepsen et.al., Paper: [http://arxiv.org/abs/2610.36892](http://arxiv.org/abs/2610.36892)
 - 2026-10-26, **Realizing Low-Precision Storage and Sparse Execution in a Folded FPGA Speech Enhancer**, Clément Laroche et.al., Paper: [http://arxiv.org/abs/2610.35144](http://arxiv.org/abs/2610.35144)
@@ -131,7 +131,7 @@
 - 2026-11-05, **Design of a Speech Enhancement-Based Deep Semantic Autoencoder for Wireless Communications**, Xiaoling Han et.al., Paper: [http://arxiv.org/abs/2611.07361](http://arxiv.org/abs/2611.07361)
 - 2026-11-24, **Mask-Based Speech Enhancement for Spatial Audio: Effects of Signal Representation and Channel-Specific Masking**, Sheli Hendel et.al., Paper: [http://arxiv.org/abs/2611.32910](http://arxiv.org/abs/2611.32910)
 
-<p align=right>(<a href=#updated-on-20261127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261128>back to top</a>)</p>
 
 ## Speaker Diarization
 
@@ -191,7 +191,7 @@
 - 2026-11-09, **Nemotron 3 Diarization: Advancing the Accuracy-Efficiency Frontier in Streaming Speaker Diarization**, Ivan Medennikov et.al., Paper: [http://arxiv.org/abs/2611.12246](http://arxiv.org/abs/2611.12246)
 - 2026-11-24, **Line-Level Singer Diarization in Multi-Member Pop Songs: A Benchmark, Lead-Vocal Isolation, and Song-Level Decoding**, Allen Ng et.al., Paper: [http://arxiv.org/abs/2611.33247](http://arxiv.org/abs/2611.33247)
 
-<p align=right>(<a href=#updated-on-20261127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261128>back to top</a>)</p>
 
 ## Multi-Talker ASR (Speaker-Attributed ASR)
 
@@ -226,7 +226,7 @@
 - 2026-11-12, **Structured Speaker Conditioning for Diarization-Guided Target-Speaker ASR**, Ruoyu Wang et.al., Paper: [http://arxiv.org/abs/2611.16371](http://arxiv.org/abs/2611.16371)
 - 2026-11-19, **Efficient Conversational Multi-Talker ASR with Predicted Speaker-Agnostic Activity Streams**, Xiluo He et.al., Paper: [http://arxiv.org/abs/2611.26796](http://arxiv.org/abs/2611.26796)
 
-<p align=right>(<a href=#updated-on-20261127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261128>back to top</a>)</p>
 
 ## Target Speaker Extraction
 
@@ -275,5 +275,5 @@
 - 2026-11-06, **AISHELL8-FISHEYE: A Fisheye Audio-Visual Dataset for Target Speaker Extraction with Distortion-Aware Baselines**, Peijun Yang et.al., Paper: [http://arxiv.org/abs/2611.09368](http://arxiv.org/abs/2611.09368)
 - 2026-11-04, **Speaker-Consistent Grounding for Confusion-Resilient LLM-Based Target Speech Extraction**, Hanyu Meng et.al., Paper: [http://arxiv.org/abs/2611.06297](http://arxiv.org/abs/2611.06297)
 
-<p align=right>(<a href=#updated-on-20261127>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20261128>back to top</a>)</p>
 
